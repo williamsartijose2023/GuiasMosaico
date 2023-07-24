@@ -1,3 +1,11 @@
+---
+title: Modelo Integrar
+layout: qual-o-processo-de-adesao
+parent: Qual o processo de adesão?
+grand_parent: eportugal
+nav_order: 2
+---
+
 # Modelo Integrar
 
 O **Modelo Integrar** foi concebido para as entidades que pretendam **desmaterializar serviços** através da plataforma de serviços associada ao portal ePortugal e, **interoperar ou receber dados diretamente nos seus sistemas operacionais**, através da plataforma de integração da iAP.

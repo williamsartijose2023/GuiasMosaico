@@ -1,3 +1,12 @@
+---
+title: Modelo Ligar
+layout: qual-o-processo-de-adesao
+parent: Qual o processo de adesão?
+grand_parent: eportugal
+nav_order: 1
+
+---
+
 # Modelo Ligar
 
 O **Modelo Ligar** foi concebido pressupondo a **existência de um portal/site**, gerido e disponibilizado pela Entidade, já com o processo totalmente desmaterializado, que a Entidade pretende que seja visível no contexto do ePortugal.

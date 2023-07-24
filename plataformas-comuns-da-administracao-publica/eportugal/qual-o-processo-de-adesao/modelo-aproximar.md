@@ -1,3 +1,10 @@
+---
+title: Modelo Aproximar
+layout: qual-o-processo-de-adesao
+parent: Qual o processo de adesão?
+grand_parent: eportugal
+nav_order: 3
+---
 # Modelo Aproximar
 
 No **Modelo Aproximar** é criado um **novo canal, desmaterializado**, de acesso ao serviço por parte do cidadão/empresa, sem recurso à plataforma de integração da iAP, mas beneficiando da orquestração da plataforma multicanal (PMC).

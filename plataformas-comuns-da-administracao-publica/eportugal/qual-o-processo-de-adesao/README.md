@@ -1,3 +1,11 @@
+---
+title: Qual o processo de adesão?
+layout: qual-o-processo-de-adesao
+parent: eportugal
+has_children: true
+permalink: plataformas-comuns-da-administracao-publica/eportugal/qual-o-processo-de-adesao
+---
+
 # Qual o processo de adesão?
 
 Existem três modelos de adesão: “Modelo Aproximar”, “Modelo Integrar” e “Modelo Ligar".
