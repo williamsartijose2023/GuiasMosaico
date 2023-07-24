@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Catálogo de Entidades e Serviços (CES)
-nav_order: 8
+nav_order: 10
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/catalogo-de-entidades-e-servicos-ces
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plataforma de Integração da AP (iAP-PI)
-nav_order: 3
+nav_order: 5
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/plataforma-de-integracao-da-ap-iap-pi
 ---

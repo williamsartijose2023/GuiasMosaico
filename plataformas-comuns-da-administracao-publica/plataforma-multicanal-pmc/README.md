@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plataforma Multicanal (PMC)
-nav_order: 6
+nav_order: 8
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/plataforma-multicanal-pmc
 ---

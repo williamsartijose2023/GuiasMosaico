@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sistema de Autorizações
-nav_order: 10
+nav_order: 12
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/sistema-de-autorizacoes
 ---

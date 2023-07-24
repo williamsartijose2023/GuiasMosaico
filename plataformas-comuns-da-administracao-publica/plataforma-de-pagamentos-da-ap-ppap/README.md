@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plataforma de Pagamentos da AP (PPAP)
-nav_order: 4
+nav_order: 6
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/plataforma-de-pagamentos-da-ap-ppap
 ---
