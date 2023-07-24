@@ -1,3 +1,9 @@
+---
+layout: default
+title: Quais os pré-requisitos técnicos de adesão?
+parent: Serviço Público de Notificações Eletrónicas (SPNE)
+nav_order: 1
+---
 # Quais os pré-requisitos técnicos de adesão?
 
 As comunicações eletrónicas a realizar entre os sistemas de informação da Entidade Aderente e a Plataforma de Notificações Eletrónicas, como seja, o envio de notificações e outras trocas de informações, realizam-se através da Plataforma de Integração da iAP, pelo que os requisitos técnicos a verificar são os estabelecidos para a ligação a essa plataforma.
@@ -22,9 +28,31 @@ Os requisitos necessários para a ligação VPN à Plataforma de Interoperabilid
 * Um endereço IP público, com conectividade para qualquer destino da Internet, para assegurar a criação do túnel IPSec;
 * Suporte de protocolos e funcionalidades no equipamento de estabelecimento da VPN, de acordo com:
 
-| Phase 1 IKE                                                                                                                                                         | Phase 2 IPSec                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>Key Exchange Encryption: AES 256 bits</p><p>Data Integrity: SHA256<br>Diffie-Hellman (DH) group 14</p><p>Tempo de vida: 86400 segundos</p><p>Type: Main mode</p> | <p>UDP encapsulation: Yes</p><p>Protocol: ESP</p><p>IPSec Encryption: AES 256</p><p>Diffie-Hellman (DH) group 14</p><p>PFS: Yes</p><p>Tempo de vida: 3600 segundos</p> |
+<!-- Table Content -->
+<table>
+  <tr>
+    <td style="background-color: #f2f2f2; padding: 10px;">Phase 1 IKE</td>
+    <td style="background-color: #f2f2f2; padding: 10px;">Phase 2 IPSec</td>
+  </tr>
+  <tr>
+    <td>
+      Key Exchange Encryption: AES 256 bits<br>
+      Data Integrity: SHA256<br>
+      Diffie-Hellman (DH) group 14<br>
+      Tempo de vida: 86400 segundos<br>
+      Type: Main mode
+    </td>
+    <td>
+      UDP encapsulation: Yes<br>
+      Protocol: ESP<br>
+      IPSec Encryption: AES 256<br>
+      Diffie-Hellman (DH) group 14<br>
+      PFS: Yes<br>
+      Tempo de vida: 3600 segundos
+    </td>
+  </tr>
+</table>
+
 
 O equipamento deverá suportar o envio de keepalives de Dead Peer Detection e deverá ter a capacidade de manter e renegociar automaticamente as SA’s de IPSec, mesmo na ausência de tráfego.
 

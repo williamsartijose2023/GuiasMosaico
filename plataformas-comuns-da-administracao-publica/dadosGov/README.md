@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dados.Gov
-nav_order: 16
+nav_order: 15
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/dadosGov
 ---

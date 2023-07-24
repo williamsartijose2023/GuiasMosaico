@@ -1,3 +1,9 @@
+---
+layout: default
+title: Como está estruturada a plataforma?
+parent: Serviço Público de Notificações Eletrónicas (SPNE)
+nav_order: 3
+---
 # Como está estruturada a plataforma?
 
 O SPNE (Serviço Público de Notificações Eletrónicas) e a MUD (Morada Única Digital) a ele associada, foram implementados através de um sistema informático de suporte, a Plataforma de Notificações Eletrónicas (PNE) a gerir pela AMA, IP.
