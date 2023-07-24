@@ -1,10 +1,21 @@
+---
+layout: default
+title: Qual o processo de adesão?
+parent: Dados.Gov
+nav_order: 2
+---
+
 # Qual o processo de adesão?
 
 A adesão ao dados.gov, é feita diretamente no [portal](https://dados.gov.pt/pt/).
 
 Este processo de adesão refere-se apenas aos perfis de fornecedor/participante ou utilizador registado, pois o acesso ou consulta dos dados públicos disponíveis não requer registo ou adesão.
 
-![Processo de adesão ao dados.gov](<../../.gitbook/assets/dados 1.png>)
+<div align="center">
+  <img src="../../assets/images/dados 1.png" alt="Processo de adesão ao dados.gov">
+  <h5>Processo de adesão ao dados.gov</h5>
+</div>
+<br>
 
 **Participante\[1] / Fornecedor\[2]:**
 

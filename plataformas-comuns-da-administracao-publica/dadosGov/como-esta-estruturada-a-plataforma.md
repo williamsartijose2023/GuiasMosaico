@@ -1,3 +1,10 @@
+---
+layout: default
+title: Como está estruturada a plataforma?
+parent: Dados.Gov
+nav_order: 3
+---
+
 # Como está estruturada a plataforma?
 
 O dados.gov baseia-se na plataforma [Udata](https://udata.readthedocs.io/en/stable/), um produto criado pelo [Etalab](https://www.etalab.gouv.fr/), uma estrutura de missão da Administração Pública francesa. É desenvolvido e disponibilizado numa lógica _open source_.
