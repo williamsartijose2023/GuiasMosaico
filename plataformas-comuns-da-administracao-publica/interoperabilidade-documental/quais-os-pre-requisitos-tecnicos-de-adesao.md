@@ -1,3 +1,10 @@
+---
+layout: default
+title: Quais os pré-requisitos técnicos de adesão?
+parent: Interoperabilidade Documental
+nav_order: 1
+---
+
 # Quais os pré-requisitos técnicos de adesão?
 
 Para a adesão, por parte de uma qualquer entidade, terão de ser assegurados os requisitos técnicos necessários, de modo que possam ser garantidos os níveis de segurança e performance requeridos a uma plataforma como a presente.

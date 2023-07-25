@@ -1,3 +1,9 @@
+---
+layout: default
+title: Como está estruturada a plataforma?
+parent: Interoperabilidade Documental
+nav_order: 3
+---
 # Como está estruturada a plataforma?
 
 Abaixo o diagrama de alto nível do Interoperabilidade Documental, demonstrando na Camada de Negócio os atores e papéis envolvidos, os serviços de negócio e os processos, e na Camada Aplicacional os serviços aplicacionais que realizam seus processos.

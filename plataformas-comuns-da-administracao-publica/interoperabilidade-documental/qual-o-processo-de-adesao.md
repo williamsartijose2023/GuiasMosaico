@@ -1,3 +1,9 @@
+---
+layout: default
+title: Qual o processo de adesão?
+parent: Interoperabilidade Documental
+nav_order: 2
+---
 # Qual o processo de adesão?
 
 <div align="center">
