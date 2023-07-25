@@ -1,3 +1,10 @@
+---
+layout: default
+title: Quais os dados utilizados nos serviços de nova geração?
+parent: Catálogo de Dados
+nav_order: 1
+---
+
 # Quais os dados utilizados nos serviços de nova geração?
 
 Os dados mestre que serviram de base a este mapeamento são os que estão catalogados no Catálogo de Dados da AMA.
