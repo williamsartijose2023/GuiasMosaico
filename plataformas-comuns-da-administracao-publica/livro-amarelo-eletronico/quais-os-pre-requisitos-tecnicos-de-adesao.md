@@ -1,3 +1,9 @@
+---
+layout: default
+title: Quais os pré-requisitos técnicos de adesão?
+parent: Livro Amarelo Eletrónico
+nav_order: 1
+---
 # Quais os pré-requisitos técnicos de adesão?
 
 As entidades aderentes têm que ter informação disponível no CES, sobre a entidade, os locais de atendimento e os serviços que disponibilizam. Esta informação pode já ter sido registada, por via da presença da entidade no ePortugal. Caso a entidade não tenha dados no CES esse registo e validação de dados constitui a primeira fase do processo de adesão.

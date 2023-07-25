@@ -1,3 +1,9 @@
+---
+layout: default
+title: Qual o processo de adesão?
+parent: Livro Amarelo Eletrónico
+nav_order: 2
+---
 # Qual o processo de adesão?
 
 Apresenta-se nesta área as várias atividades a realizar para aderir ao LAE.

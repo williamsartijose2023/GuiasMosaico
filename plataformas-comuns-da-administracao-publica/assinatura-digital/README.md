@@ -3,7 +3,7 @@ layout: default
 title: Assinatura Digital
 nav_order: 4
 has_children: true
-permalink: docs/assinatura-digital
+permalink: plataformas-comuns-da-administracao-publica/assinatura-digital
 ---
 
 # Assinatura Digital

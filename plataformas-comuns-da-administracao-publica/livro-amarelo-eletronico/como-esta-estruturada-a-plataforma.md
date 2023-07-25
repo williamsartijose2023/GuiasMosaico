@@ -1,3 +1,9 @@
+---
+layout: default
+title: Como está estruturada a plataforma?
+parent: Livro Amarelo Eletrónico
+nav_order: 2
+---
 # Como está estruturada a plataforma?
 
 O LAE tem a **arquitetura** apresentada no **diagrama de alto nível** (abaixo), onde se representa, na **Camada de Negócio,** os atores e papéis desempenhados, os serviços e os processos de negócio, e na **Camada Aplicacional**, os serviços aplicacionais que realizam os processos de negócio.
