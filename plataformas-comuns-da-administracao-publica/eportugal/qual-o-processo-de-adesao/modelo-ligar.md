@@ -1,10 +1,9 @@
 ---
 title: Modelo Ligar
-layout: qual-o-processo-de-adesao
-parent: Qual o processo de adesão?
-grand_parent: eportugal
+layout: default
+parent: Qual o processo de adesão? 
+grand_parent: ePortugal
 nav_order: 1
-
 ---
 
 # Modelo Ligar
@@ -30,14 +29,96 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 
 ### Macro atividade: Definição do âmbito e Protocolo
 
-| Etapa                                  | Entidade Responsável | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| -------------------------------------- | :------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Analisar diplomas                      |    AMA e Entidade    | <p><strong>AMA:</strong></p><ul><li>identificar, em colaboração com a entidade, os diplomas legislativos associados aos serviços prestados pela Entidade;</li><li>identificar os serviços prestados pela Entidade, presentes nos diversos diplomas.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Identificar serviços a desmaterializar |    AMA e Entidade    | <p><strong>AMA:</strong></p><ul><li>definir, com a entidade, quais os serviços a desmaterializar;</li><li>listar os serviços no “DOC-01 Listagem de serviços” respeitando as regras taxonómicas e de nomenclatura em vigor, quer para o Catálogo, quer para o Portal ePortugal.gov.pt.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Elaborar _Project Charter_             |          AMA         | <p><strong>AMA:</strong></p><ul><li>elaborar o <em>Project Charter</em> do projeto de desmaterialização a realizar com recurso ao documento “DOC-02 <em>Project Charter</em>”;</li><li>solicitar a validação dos restantes elementos da equipa de projeto e da Entidade.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Definir SLAs                           |          AMA         | <p><strong>AMA:</strong></p><ul><li>enviar às diferentes equipas e à Entidade, os níveis de serviço (SLAs) estabelecidos em projetos anteriores;</li><li>aferir concordância de todos com os SLAs previstos;</li><li>efetuar alterações aos SLAs, se necessário;</li><li>elaborar documento “DOC-03 SLA” com os SLAs acordados para o presente projeto.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Elaborar protocolo                     |          AMA         | <p><strong>AMA:</strong></p><ul><li>verificar se o <em>template</em> do protocolo (DOC-04 Protocolo) se encontra atual e aplicável ao projeto;</li><li>rever o conteúdo do protocolo, se necessário;</li><li>anexar “DOC-01 Listagem de serviços”, “DOC-02 Project Charter” “DOC-03 SLA”, “DOC-04 Protocolo” com os respetivos anexos para o ponto de contacto da Entidade, para validação prévia (informal);</li><li>alterar conteúdo do protocolo, se solicitado pela EC:<br><br>a) elaborar pedido de novo protocolo, mediante preenchimento do documento “Comunicação_Protocolos”, do Gabinete Jurídico da AMA;<br><br>b) enviar pedido de novo protocolo ao Gabinete Jurídico da AMA, através da plataforma de gestão documental.</li></ul><ul><li>se necessário, solicitar alterações. Em função do pedido de alteração, submete à Entidade para nova validação;</li><li>validar o texto e submete para assinatura na AMA;</li><li>enviar o protocolo assinado pelo para a Entidade para assinatura.</li></ul><p><strong>Entidade:</strong></p><ul><li>devolver o protocolo assinado ao Gabinete Jurídico da AMA.</li></ul> |
-| Avaliar protocolo e dar resposta       |       Entidade       | <p><strong>Entidade:</strong></p><ul><li>Avaliação do protocolo:<br><br>a) caso aceite o protocolo será dada continuidade ao processo;<br><br>b)caso não aceite, o processo volta à etapa de “Elaboração do Protocolo”.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+<!-- Table Content -->
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Analisar diplomas</td>
+    <td>AMA e Entidade</td>
+    <td>
+      <p><strong>AMA:</strong></p>
+      <ul>
+        <li>identificar, em colaboração com a entidade, os diplomas legislativos associados aos serviços prestados pela Entidade;</li>
+        <li>identificar os serviços prestados pela Entidade, presentes nos diversos diplomas.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Identificar serviços a desmaterializar</td>
+    <td>AMA e Entidade</td>
+    <td>
+      <p><strong>AMA:</strong></p>
+      <ul>
+        <li>definir, com a entidade, quais os serviços a desmaterializar;</li>
+        <li>listar os serviços no “DOC-01 Listagem de serviços” respeitando as regras taxonómicas e de nomenclatura em vigor, quer para o Catálogo, quer para o Portal ePortugal.gov.pt.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Elaborar Project Charter</td>
+    <td>AMA</td>
+    <td>
+      <p><strong>AMA:</strong></p>
+      <ul>
+        <li>elaborar o Project Charter do projeto de desmaterialização a realizar com recurso ao documento “DOC-02 Project Charter”;</li>
+        <li>solicitar a validação dos restantes elementos da equipa de projeto e da Entidade.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Definir SLAs</td>
+    <td>AMA</td>
+    <td>
+      <p><strong>AMA:</strong></p>
+      <ul>
+        <li>enviar às diferentes equipas e à Entidade, os níveis de serviço (SLAs) estabelecidos em projetos anteriores;</li>
+        <li>aferir concordância de todos com os SLAs previstos;</li>
+        <li>efetuar alterações aos SLAs, se necessário;</li>
+        <li>elaborar documento “DOC-03 SLA” com os SLAs acordados para o presente projeto.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Elaborar protocolo</td>
+    <td>AMA</td>
+    <td>
+      <p><strong>AMA:</strong></p>
+      <ul>
+        <li>verificar se o <em>template</em> do protocolo (DOC-04 Protocolo) se encontra atual e aplicável ao projeto;</li>
+        <li>rever o conteúdo do protocolo, se necessário;</li>
+        <li>anexar “DOC-01 Listagem de serviços”, “DOC-02 Project Charter” “DOC-03 SLA”, “DOC-04 Protocolo” com os respetivos anexos para o ponto de contacto da Entidade, para validação prévia (informal);</li>
+        <li>alterar conteúdo do protocolo, se solicitado pela EC:<br><br>a) elaborar pedido de novo protocolo, mediante preenchimento do documento “Comunicação_Protocolos”, do Gabinete Jurídico da AMA;<br><br>b) enviar pedido de novo protocolo ao Gabinete Jurídico da AMA, através da plataforma de gestão documental.</li>
+      </ul>
+      <ul>
+        <li>se necessário, solicitar alterações. Em função do pedido de alteração, submete à Entidade para nova validação;</li>
+        <li>validar o texto e submete para assinatura na AMA;</li>
+        <li>enviar o protocolo assinado pelo para a Entidade para assinatura.</li>
+      </ul>
+      <p><strong>Entidade:</strong></p>
+      <ul>
+        <li>devolver o protocolo assinado ao Gabinete Jurídico da AMA.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Avaliar protocolo e dar resposta</td>
+    <td>Entidade</td>
+    <td>
+      <p><strong>Entidade:</strong></p>
+      <ul>
+        <li>Avaliação do protocolo:</li>
+        <ul>
+          <li>caso aceite o protocolo será dada continuidade ao processo;</li>
+          <li>caso não aceite, o processo volta à etapa de “Elaboração do Protocolo”.</li>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+  </table>
 
 ### Macro atividade: Caracterização de serviços
 
@@ -92,3 +173,4 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 | Monitorizar execução do projeto |          AMA         | <p><strong>AMA:</strong></p><ul><li><p>extrair informação para a monitorização, designadamente:</p><ul><li>Sobre os pedidos de suporte: DOC-13/DOC-14/DOC-15;</li><li>Sobre o cumprimento dos <em>Milestones</em> e do cronograma estabelecido;</li><li>Sobre a satisfação dos utilizadores: DOC-18;</li><li>Sobre o cumprimento dos SLAs: DOC-19.</li></ul></li></ul><ul><li>elaborar “DOC-20 Relatório de Monitorização do Projeto”;</li><li><p>apresentar o relatório na reunião mensal de acompanhamento do projeto com a Entidade. Se necessário propor alterações, por exemplo:</p><ul><li>Nas fichas de serviços;</li><li>No formulário de enquadramento;</li><li>Nos formulários eletrónicos;</li><li>No cronograma de execução do projeto.</li></ul></li></ul><ul><li>ajustar planeamento do projeto, se necessário. Validar com a Entidade as alterações.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Avaliar execução do projeto     |          AMA         | <p><strong>AMA:</strong></p><ul><li>extrair informação relativa à execução do projeto;</li><li>elaborar “DOC-21 Relatório de Avaliação do Projeto”, de acordo com as indicações do documento;</li><li>documentar as lições aprendidas no “DOC-21 Relatório de Avaliação do Projeto”, de forma a impulsionar a melhoria contínua na gestão de projetos de desmaterialização.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Avaliar impacto do projeto      |          AMA         | <p><strong>AMA:</strong></p><ul><li>solicitar à Entidade os dados relativos ao desempenho do serviço desmaterializado, 6 meses após conclusão do projeto. Os dados a solicitar são os constantes no “DOC-22 Relatório de Avaliação de Impacto do Projeto”;</li><li>monitorizar os contributos da Entidade, para que sejam fornecidos os dados requeridos dentro do prazo acordado;</li><li>elaborar “DOC-22 Relatório de Avaliação de Impacto do Projeto”, segundo indicações do documento;</li><li>documentar os impactos observados no “DOC-22 Relatório de Avaliação de Impacto do Projeto”, de forma a compreender os benefícios gerados pelos diferentes modelos de desmaterialização.</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+

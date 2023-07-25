@@ -1,9 +1,8 @@
 ---
 title: Qual o processo de adesão?
 layout: qual-o-processo-de-adesao
-parent: eportugal
+parent: ePortugal
 has_children: true
-permalink: plataformas-comuns-da-administracao-publica/eportugal/qual-o-processo-de-adesao
 ---
 
 # Qual o processo de adesão?
@@ -43,3 +42,4 @@ De seguida, é apresentada informação prévia sobre os documentos referidos ao
 | DOC-21 | Relatório de avaliação do impacto do projeto | Relatório que reporta os dados das métricas de execução dos serviços, após 6 meses do serviço estar disponível, comparando-os com os dados históricos ou à data de início do projeto.                          |
 | DOC-22 | Relatório de avaliação do projeto            | Relatório que reporta a forma com decorreu a execução do projeto até à entrada em produção do serviço no ePortugal e apresenta recomendações para projetos futuros.                                            |
 | DOC-23 | Manual Externo                               | Documento que visa conduzir a EC no processo de desmaterialização, para que haja uma melhor cooperação entre esta e a AMA.                                                                                     |
+

@@ -1,9 +1,9 @@
 ---
 title: Modelo Integrar
-layout: qual-o-processo-de-adesao
-parent: Qual o processo de adesão?
-grand_parent: eportugal
-nav_order: 2
+layout: default
+parent: Qual o processo de adesão? 
+grand_parent: ePortugal
+nav_order: 3
 ---
 
 # Modelo Integrar
