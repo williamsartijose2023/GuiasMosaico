@@ -17,17 +17,56 @@ Para a adesão à iAP – Plataforma de Mensagens, deverá ser seguido o procedi
 
 Devido à natureza do processo de adesão, não é possível estimar um tempo necessário médio. O tempo expectável para a realização do processo de adesão é de até 30 dias.
 
-| Passos                               | Entidade Responsável |                                                                                                                                                                                                                                             |
-| ------------------------------------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. Pedido de adesão formal à AMA     | AMA                  | Preencha o [formulário de adesão](https://www.iap.gov.pt/web/iap/formulario-de-adesao) a indicar o(s) serviço(s) a consumir, se possível uma estimativa do volume de invocações e o enquadramento legal para obter a informação pretendida. |
-| 2. Verificar elegibilidade           | AMA                  | Verificar elegibilidade da entidade.                                                                                                                                                                                                        |
-| 3. Assinar protocolo entre entidades | Entidade e AMA       | Acordar protocolo entre as partes envolvidas.                                                                                                                                                                                               |
-| 4. Criar os senders                  | AMA                  | Definir o número curto do serviço publico com as operadoras e configurar a GAP para se "ligar" aos SIs da Entidade.                                                                                                                         |
-| 5. Adaptar SI das entidades          | Entidade             | Adaptação dos sistemas de informação (SI) das entidades aderentes para integrar os dados do serviço.                                                                                                                                        |
-| 6. Desenvolver Serviço de integração | Entidade             | Caso o serviço ainda não esteja disponível é necessário o seu desenvolvimento pela entidade.                                                                                                                                                |
-| 7. Definir cenários de teste         | Entidade e AMA       | Definição e execução dos cenários de teste.                                                                                                                                                                                                 |
-| 8. Instalar em Produção              | Entidade e AMA       | Instalação do serviço em produção.                                                                                                                                                                                                          |
-| 9. Entrar em Produção                | Entidade e AMA       | Entrada em produção do serviço após validação de todos os requisitos técnicos, jurídicos e de privacidade.                                                                                                                                  |
-
-
-
+<!-- Table Content -->
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Passos</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>1.</strong> Pedido de adesão formal à AMA</td>
+    <td>AMA</td>
+    <td>Preencha o <a href="https://www.iap.gov.pt/web/iap/formulario-de-adesao">formulário de adesão</a> a indicar o(s) serviço(s) a consumir, se possível uma estimativa do volume de invocações e o enquadramento legal para obter a informação pretendida.</td>
+  </tr>
+  <tr>
+    <td><strong>2.</strong> Verificar elegibilidade</td>
+    <td>AMA</td>
+    <td>Verificar elegibilidade da entidade.</td>
+  </tr>
+  <tr>
+    <td><strong>3.</strong> Assinar protocolo entre entidades</td>
+    <td>Entidade e AMA</td>
+    <td>Acordar protocolo entre as partes envolvidas.</td>
+  </tr>
+  <tr>
+    <td><strong>4.</strong> Criar os senders</td>
+    <td>AMA</td>
+    <td>Definir o número curto do serviço público com as operadoras e configurar a GAP para se "ligar" aos SIs da Entidade.</td>
+  </tr>
+  <tr>
+    <td><strong>5.</strong> Adaptar SI das entidades</td>
+    <td>Entidade</td>
+    <td>Adaptação dos sistemas de informação (SI) das entidades aderentes para integrar os dados do serviço.</td>
+  </tr>
+  <tr>
+    <td><strong>6.</strong> Desenvolver Serviço de integração</td>
+    <td>Entidade</td>
+    <td>Caso o serviço ainda não esteja disponível é necessário o seu desenvolvimento pela entidade.</td>
+  </tr>
+  <tr>
+    <td><strong>7.</strong> Definir cenários de teste</td>
+    <td>Entidade e AMA</td>
+    <td>Definição e execução dos cenários de teste.</td>
+  </tr>
+  <tr>
+    <td><strong>8.</strong> Instalar em Produção</td>
+    <td>Entidade e AMA</td>
+    <td>Instalação do serviço em produção.</td>
+  </tr>
+  <tr>
+    <td><strong>9.</strong> Entrar em Produção</td>
+    <td>Entidade e AMA</td>
+    <td>Entrada em produção do serviço após validação de todos os requisitos técnicos, jurídicos e de privacidade.</td>
+  </tr>
+</table>

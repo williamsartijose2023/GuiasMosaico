@@ -17,12 +17,45 @@ Para a adesão ao Sistema de Autorizações deverá seguir os procedimentos:
 </div>
 <br>
 
-| Passo                                   | Entidade responsável     | Descrição                                                                                                                                                                         |
-| --------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1.** Comunicar interesse de adesão    | Entidade Aderente        | Efetue um contacto formal comunicando o interesse preenchendo o [formulário online](https://www.autenticacao.gov.pt/web/guest/integracao-entidade) opção Sistema de Autorizações. |
-| **2.** Resposta à adesão                | AMA                      | Resposta da EID com o envio do protocolo e respetivas condições de adesão.                                                                                                        |
-| **3.** Preenchimento de protocolo       | Entidade Aderente        | Preenchimento do protocolo por parte da entidade e envio para [eid@ama.pt](mailto:eid@ama.pt).                                                                                    |
-| **4.** Abertura de Processo             | AMA                      | Abertura de processo para validação jurídica.                                                                                                                                     |
-| **5.** Assinatura de protocolo          | AMA                      | Assinatura do protocolo pelo Conselho Diretivo da AMA.                                                                                                                            |
-| **6.** Assinatura de protocolo entidade | Entidade Aderente        | Assinatura do protocolo pelos representantes legais da entidade.                                                                                                                  |
-| **7.** Integração serviço               | AMA e Entidade Aderente  | Configuração e integração da entidade com o Sistema de Autorizações.                                                                                                              |
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>1.</strong> Comunicar interesse de adesão</td>
+    <td>Entidade Aderente</td>
+    <td>Efetue um contacto formal comunicando o interesse preenchendo o <a href="https://www.autenticacao.gov.pt/web/guest/integracao-entidade">formulário online</a> opção Sistema de Autorizações.</td>
+  </tr>
+  <tr>
+    <td><strong>2.</strong> Resposta à adesão</td>
+    <td>AMA</td>
+    <td>Resposta da EID com o envio do protocolo e respetivas condições de adesão.</td>
+  </tr>
+  <tr>
+    <td><strong>3.</strong> Preenchimento de protocolo</td>
+    <td>Entidade Aderente</td>
+    <td>Preenchimento do protocolo por parte da entidade e envio para <a href="mailto:eid@ama.pt">eid@ama.pt</a>.</td>
+  </tr>
+  <tr>
+    <td><strong>4.</strong> Abertura de Processo</td>
+    <td>AMA</td>
+    <td>Abertura de processo para validação jurídica.</td>
+  </tr>
+  <tr>
+    <td><strong>5.</strong> Assinatura de protocolo</td>
+    <td>AMA</td>
+    <td>Assinatura do protocolo pelo Conselho Diretivo da AMA.</td>
+  </tr>
+  <tr>
+    <td><strong>6.</strong> Assinatura de protocolo entidade</td>
+    <td>Entidade Aderente</td>
+    <td>Assinatura do protocolo pelos representantes legais da entidade.</td>
+  </tr>
+  <tr>
+    <td><strong>7.</strong> Integração serviço</td>
+    <td>AMA e Entidade Aderente</td>
+    <td>Configuração e integração da entidade com o Sistema de Autorizações.</td>
+  </tr>
+</table>

@@ -1,6 +1,6 @@
 ---
 title: Ativar Chave Móvel Digital (CMD) com biometria
-layout: ativar-chave-movel-digital-cmd-com-biometria
+layout: default
 parent: Representação de novos serviços públicos
 has_children: true
 nav_order: 1

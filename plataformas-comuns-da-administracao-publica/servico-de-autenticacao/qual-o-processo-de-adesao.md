@@ -15,12 +15,43 @@ Para a adesão ao com o Serviço de Autenticação deverá seguir os procediment
 </div>
 <br>
 
-| Passo                                   | Entidade Responsável    | Descrição                                                                                                                                         |
-| --------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1.** Comunicar interesse de adesão    | Entidade Aderente       | Efetue um contacto formal comunicando o interesse através do [formulário online](https://www.autenticacao.gov.pt/web/guest/integracao-entidade).  |
-| **2.** Resposta à adesão                | AMA                     | Resposta da EID com o envio do protocolo e respetivas condições de adesão.                                                                        |
-| **3.** Preenchimento de protocolo       | Entidade Aderente       | Preenchimento do protocolo por parte da entidade e envio para: [eid@ama.pt](mailto:eid@ama.pt)                                                    |
-| **4.** Abertura de Processo             | AMA                     | Abertura de processo para validação jurídica.                                                                                                     |
-| **5.** Assinatura de protocolo          | AMA                     | Assinatura do protocolo pelo Conselho Diretivo da AMA.                                                                                            |
-| **6.** Assinatura de protocolo entidade | Entidade Aderente       | Assinatura do protocolo pelos representantes legais da entidade.                                                                                  |
-| **7.** Integração serviço               | AMA e Entidade Aderente | Configuração e integração da entidade com o Serviço de Autenticação.                                                                              |
+<!-- Table Content -->
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>1.</strong></td>
+    <td>Entidade Aderente</td>
+    <td>Efetue um contacto formal comunicando o interesse através do <a href="https://www.autenticacao.gov.pt/web/guest/integracao-entidade">formulário online</a>.</td>
+  </tr>
+  <tr>
+    <td><strong>2.</strong></td>
+    <td>AMA</td>
+    <td>Resposta da EID com o envio do protocolo e respetivas condições de adesão.</td>
+  </tr>
+  <tr>
+    <td><strong>3.</strong></td>
+    <td>Entidade Aderente</td>
+    <td>Preenchimento do protocolo por parte da entidade e envio para: <a href="mailto:eid@ama.pt">eid@ama.pt</a>.</td>
+  </tr>
+  <tr>
+    <td><strong>4.</strong></td>
+    <td>AMA</td>
+    <td>Abertura de processo para validação jurídica.</td>
+  </tr>
+  <tr>
+    <td><strong>5.</strong></td>
+    <td>AMA</td>
+    <td>Assinatura do protocolo pelo Conselho Diretivo da AMA.</td>
+  </tr>
+  <tr>
+    <td><strong>6.</strong></td>
+    <td>Entidade Aderente</td>
+    <td>Assinatura do protocolo pelos representantes legais da entidade.</td>
+  </tr>
+  <tr>
+    <td><strong>7.</strong></td>
+    <td>AMA e Entidade Aderente</td>

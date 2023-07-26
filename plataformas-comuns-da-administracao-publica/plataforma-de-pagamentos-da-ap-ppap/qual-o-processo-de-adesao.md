@@ -15,16 +15,67 @@ A adesão à PPAP – Plataforma de Pagamentos da Administração Pública, no �
 </div>
 <br>
 
-| Passo                                                                            | Entidade Responsável    | Descrição                                                                                                                                                                                                                                               |
-| -------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1.** Pedido de adesão formal à AMA                                             | Entidade Aderente       | Preencha o [formulário de adesão](https://www.iap.gov.pt/web/iap/formulario-de-adesao?serviceId=2) a indicar o(s) serviço(s) a consumir, se possível uma estimativa do volume de invocações e o enquadramento legal para obter a informação pretendida. |
-| **2.** Verificação da Elegibilidade                                              | AMA                     | Verificação, pela AMA, da efetiva elegibilidade da Entidade para utilização da PPAP.                                                                                                                                                                    |
-| **3.** Contratação com _Acquirer_                                                | Entidade Aderente       | Contratação dos meios de pagamento às entidades que os disponibilizam.                                                                                                                                                                                  |
-| **4.** Fornecimento à AMA dos elementos para configuração dos meios de pagamento | Entidade Aderente       | Disponibilização de informação sobre a Entidade Aderente e sobre os meios de pagamento que pretende utilizar.                                                                                                                                           |
-| **5.** Criação de conectividades                                                 | AMA                     | Criação pela AMA, das conectividades à PPAP, caso a entidade não tenha.                                                                                                                                                                                 |
-| **6.** Criação do Ambiente de Testes                                             | AMA                     | Criação do ambiente de teste da Entidade, na PPAP.                                                                                                                                                                                                      |
-| **7.** Formalização do Protocolo                                                 | AMA e Entidade Aderente | Assinatura do protocolo redigido pela AMA (que possibilita a certificação da Entidade Aderente junto da SIBS).                                                                                                                                          |
-| **8.** Pedido de Passagem a Produção                                             | Entidade Aderente       | Pedido de Passagem a Produção.                                                                                                                                                                                                                          |
-| **9.** Certificação da Entidade na SIBS                                          | AMA                     | Certificação da Entidade na SIBS, com base no protocolo assinado.                                                                                                                                                                                       |
-| **10.** Testes de Validação                                                      | AMA                     | Testes de Validação / Certificação.                                                                                                                                                                                                                     |
-| **11.** Entrada em Produção                                                      | AMA                     | Entrada em Produção.                                                                                                                                                                                                                                    |
+<!-- Table Content -->
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>1.</strong> Pedido de adesão formal à AMA</td>
+    <td>Entidade Aderente</td>
+    <td>Preencha o <a href="https://www.iap.gov.pt/web/iap/formulario-de-adesao?serviceId=2">formulário de adesão</a> a indicar o(s) serviço(s) a consumir, se possível uma estimativa do volume de invocações e o enquadramento legal para obter a informação pretendida.</td>
+  </tr>
+  <tr>
+    <td><strong>2.</strong>Verificação da Elegibilidade</td>
+    <td>AMA</td>
+    <td>Verificação, pela AMA, da efetiva elegibilidade da Entidade para utilização da PPAP.</td>
+  </tr>
+  <tr>
+    <td><strong>3.</strong>Contratação com _Acquirer_</td>
+    <td>Entidade Aderente</td>
+    <td>Contratação dos meios de pagamento às entidades que os disponibilizam.</td>
+  </tr>
+  <tr>
+    <td><strong>4.</strong>Fornecimento à AMA dos elementos para configuração dos meios de pagamento</td>
+    <td>Entidade Aderente</td>
+    <td>Disponibilização de informação sobre a Entidade Aderente e sobre os meios de pagamento que pretende utilizar.</td>
+  </tr>
+  <tr>
+    <td><strong>5.</strong> Criação de conectividades</td>
+    <td>AMA</td>
+    <td>Criação pela AMA, das conectividades à PPAP, caso a entidade não tenha.</td>
+  </tr>
+  <tr>
+    <td><strong>6.</strong>Criação do Ambiente de Testes</td>
+    <td>AMA</td>
+    <td>Criação do ambiente de teste da Entidade, na PPAP.</td>
+  </tr>
+  <tr>
+    <td><strong>7.</strong> Formalização do Protocolo</td>
+    <td>AMA e Entidade Aderente</td>
+    <td>Assinatura do protocolo redigido pela AMA (que possibilita a certificação da Entidade Aderente junto da SIBS).</td>
+  </tr>
+  <tr>
+    <td><strong>8.</strong> Pedido de Passagem a Produção</td>
+    <td>Entidade Aderente</td>
+    <td>Pedido de Passagem a Produção.</td>
+  </tr>
+  <tr>
+    <td><strong>9.</strong>Certificação da Entidade na SIBS</td>
+    <td>AMA</td>
+    <td>Certificação da Entidade na SIBS, com base no protocolo assinado.</td>
+  </tr>
+  <tr>
+    <td><strong>10.</strong> Testes de Validação</td>
+    <td>AMA</td>
+    <td>Testes de Validação / Certificação.</td>
+  </tr>
+  <tr>
+    <td><strong>11.</strong> Entrada em Produção</td>
+    <td>AMA</td>
+    <td>Entrada em Produção.</td>
+  </tr>
+</table>
+

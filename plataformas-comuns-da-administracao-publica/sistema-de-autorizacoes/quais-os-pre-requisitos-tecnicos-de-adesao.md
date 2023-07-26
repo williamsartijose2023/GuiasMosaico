@@ -31,14 +31,36 @@ Os requisitos necessários para a ligação VPN à Plataforma de Interoperabilid
 * Um endereço IP público, com conectividade para qualquer destino da Internet, para assegurar a criação do túnel IPSec; &#x20;
 * Suporte de protocolos e funcionalidades no equipamento de estabelecimento da VPN, de acordo com:
 
-| Phase 1 IKE                           | Phase 2 IPSec                |
-| ------------------------------------- | ---------------------------- |
-| Key Exchange Encryption: AES 256 bits | UDP encapsulation: Yes       |
-| Data Integrity: SHA256                | Protocol: ESP                |
-| Diffie-Hellman (DH) group 14          | IPSec Encryption: AES 256    |
-| Tempo de vida: 86400 segundos         | Diffie-Hellman (DH) group 14 |
-| Type: Main mode                       | PFS: Yes                     |
-|                                       | Tempo de vida: 3600 segundos |
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Phase 1 IKE</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Phase 2 IPSec</th>
+  </tr>
+  <tr>
+    <td>Key Exchange Encryption: AES 256 bits</td>
+    <td>UDP encapsulation: Yes</td>
+  </tr>
+  <tr>
+    <td>Data Integrity: SHA256</td>
+    <td>Protocol: ESP</td>
+  </tr>
+  <tr>
+    <td>Diffie-Hellman (DH) group 14</td>
+    <td>IPSec Encryption: AES 256</td>
+  </tr>
+  <tr>
+    <td>Tempo de vida: 86400 segundos</td>
+    <td>Diffie-Hellman (DH) group 14</td>
+  </tr>
+  <tr>
+    <td>Type: Main mode</td>
+    <td>PFS: Yes</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Tempo de vida: 3600 segundos</td>
+  </tr>
+</table>
 
 O equipamento deverá suportar o envio de keepalives de Dead Peer Detection e deverá ter a capacidade de manter e renegociar automaticamente as SA’s de IPSec, mesmo na ausência de tráfego. &#x20;
 
