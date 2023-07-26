@@ -7,4 +7,3 @@ image: ../assets/images/Logo.png
 gems:
   - jekyll-default-layout
 
-table_of_contents: false 
