@@ -1,9 +1,11 @@
-
+favicon_ico: /assets/images/favicon.ico
+logo: /assets/images/logo.png
+logo_with_title: true
 title: Mosaico
-description: A starter template for a Jekyll site using the Just the Docs theme!
+description: Modelo comum para o desenho e desenvolvimento de serviços públicos digitais centrados nos cidadãos e empresas. 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://williamsartijose2023.github.io/ThemeJekyl/
 gems:
   - jekyll-default-layout
 
