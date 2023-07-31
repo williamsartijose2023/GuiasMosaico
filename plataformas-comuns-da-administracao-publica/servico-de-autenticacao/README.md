@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Serviço de Autenticação
+parent: PLATAFORMAS COMUNS DA ADMINISTRAÇÃO PÚBLICA
 nav_order: 3
 has_children: true
-permalink: docs/servico-de-autenticacao
+permalink: plataformas-comuns-da-administracao-publica/servico-de-autenticacao
 ---
+
+
 <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
 # Serviço de Autenticação
