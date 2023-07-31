@@ -5,6 +5,9 @@ title: Mosaico
 description: Modelo comum para o desenho e desenvolvimento de serviços públicos digitais centrados nos cidadãos e empresas. 
 theme: just-the-docs
 
+has_toc: false
+has_children: false
+
 url: https://williamsartijose2023.github.io/ThemeJekyl/
 gems:
   - jekyll-default-layout
