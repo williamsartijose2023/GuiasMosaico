@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Serviço de Autenticação
-parent: PLATAFORMAS COMUNS DA ADMINISTRAÇÃO PÚBLICA
 nav_order: 3
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/servico-de-autenticacao
