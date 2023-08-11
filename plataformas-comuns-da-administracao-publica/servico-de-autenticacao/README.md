@@ -7,7 +7,6 @@ permalink: plataformas-comuns-da-administracao-publica/servico-de-autenticacao
 ---
 
 
-<link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
 # Serviço de Autenticação
 
