@@ -4,6 +4,7 @@ title: Serviço Público de Notificações Eletrónicas (SPNE)
 nav_order: 16
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/servico-publico-de-notificacoes-eletronicas-spne
+has_toc: false
 ---
 # Serviço Público de Notificações Eletrónicas (SPNE)
 

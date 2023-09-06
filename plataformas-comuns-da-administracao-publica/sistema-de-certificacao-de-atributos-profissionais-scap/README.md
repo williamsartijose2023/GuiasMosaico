@@ -4,6 +4,7 @@ title: Sistema de Certificação de Atributos Profissionais (SCAP)
 nav_order: 11
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/sistema-de-certificacao-de-atributos-profissionais-scap
+has_toc: false
 ---
 
 # Sistema de Certificação de Atributos Profissionais (SCAP)

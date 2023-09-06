@@ -4,6 +4,7 @@ title: Plataforma de Mensagens (GAP)
 nav_order: 7
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/plataforma-de-mensagens-gap
+has_toc: false
 ---
 
 # Plataforma de Mensagens (GAP)

@@ -4,6 +4,8 @@ title: Como funciona o Serviço de Autenticação
 nav_order: 22
 has_children: true
 permalink: guias-praticos/como-funciona-o-servico-de-autenticacao
+redirect_to: guias-praticos/como-funciona-o-servico-de-autenticacao
+has_toc: false
 ---
 
 # Como funciona o Serviço de Autenticação

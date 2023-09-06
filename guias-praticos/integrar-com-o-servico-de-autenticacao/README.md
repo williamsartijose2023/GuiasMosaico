@@ -4,6 +4,7 @@ title: Integrar com o Serviço de Autenticação
 nav_order: 23
 has_children: true
 permalink: guias-praticos/integrar-com-o-servico-de-autenticacao
+has_toc: false
 ---
 
 # Integrar com o Serviço de Autenticação

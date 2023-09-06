@@ -4,6 +4,7 @@ title: Representação de novos serviços públicos
 nav_order: 36
 has_children: true
 permalink: servicos-de-nova-geracao/representacao-de-novos-servicos-publicos
+has_toc: false
 ---
 
 # Representação de novos serviços públicos

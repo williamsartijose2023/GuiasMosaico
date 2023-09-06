@@ -4,6 +4,7 @@ title: Sistema de Autorizações
 nav_order: 12
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/sistema-de-autorizacoes
+has_toc: false
 ---
 
 # Sistema de Autorizações

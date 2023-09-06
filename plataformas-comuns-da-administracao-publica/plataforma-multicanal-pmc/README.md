@@ -4,6 +4,7 @@ title: Plataforma Multicanal (PMC)
 nav_order: 8
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/plataforma-multicanal-pmc
+has_toc: false
 ---
 
 # Plataforma Multicanal (PMC)

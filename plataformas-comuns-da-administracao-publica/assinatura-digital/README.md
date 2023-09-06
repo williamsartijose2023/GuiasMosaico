@@ -4,6 +4,7 @@ title: Assinatura Digital
 nav_order: 4
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/assinatura-digital
+has_toc: false
 ---
 
 # Assinatura Digital

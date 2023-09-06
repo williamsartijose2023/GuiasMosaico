@@ -4,6 +4,7 @@ title: Cloud - Guia para modelos de serviço
 nav_order: 29
 has_children: true
 permalink: guias-praticos/cloud-guia-para-modelos-de-servico
+has_toc: false
 ---
 
 # Cloud - Guia para modelos de serviço

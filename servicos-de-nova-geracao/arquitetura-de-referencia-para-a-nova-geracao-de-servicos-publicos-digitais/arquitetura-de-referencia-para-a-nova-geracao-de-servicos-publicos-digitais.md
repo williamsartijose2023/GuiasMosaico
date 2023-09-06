@@ -4,6 +4,8 @@ title: Arquitetura de Referência para a nova geração de Serviços Públicos D
 nav_order: 33
 has_children: true
 permalink: servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais
+redirect_to: servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais
+has_toc: false
 ---
 
 

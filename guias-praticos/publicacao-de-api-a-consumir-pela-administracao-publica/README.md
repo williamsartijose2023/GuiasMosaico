@@ -4,6 +4,7 @@ title: Publicação de API a consumir pela Administração Pública
 nav_order: 25
 has_children: true
 permalink: guias-praticos/publicacao-de-api-a-consumir-pela-administracao-publica
+has_toc: false
 ---
 
 # Publicação de API a consumir pela Administração Pública

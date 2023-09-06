@@ -4,6 +4,7 @@ title: Bolsa de Documentos
 nav_order: 9
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/bolsa-de-documentos
+has_toc: false
 ---
 
 # Bolsa de Documentos

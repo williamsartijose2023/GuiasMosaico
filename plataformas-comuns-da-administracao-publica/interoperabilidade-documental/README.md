@@ -4,6 +4,7 @@ title: Interoperabilidade Documental
 nav_order: 19
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/interoperabilidade-documental
+has_toc: false
 ---
 
 # Interoperabilidade Documental

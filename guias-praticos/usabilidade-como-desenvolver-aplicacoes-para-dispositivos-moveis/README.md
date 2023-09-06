@@ -4,6 +4,7 @@ title: Usabilidade - Como desenvolver aplicações para dispositivos móveis?
 nav_order: 27
 has_children: true
 permalink: guias-praticos/usabilidade-como-desenvolver-aplicacoes-para-dispositivos-moveis
+has_toc: false
 ---
 
 # Usabilidade - Como desenvolver aplicações para dispositivos móveis?

@@ -4,6 +4,7 @@ title: Plataforma de Pagamentos da AP (PPAP)
 nav_order: 6
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/plataforma-de-pagamentos-da-ap-ppap
+has_toc: false
 ---
 
 # Plataforma de Pagamentos da AP (PPAP)

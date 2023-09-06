@@ -4,6 +4,7 @@ title: Catálogo de Dados
 nav_order: 20
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/catalogo-de-dados
+has_toc: false
 ---
 
 # Catálogo de Dados

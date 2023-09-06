@@ -4,7 +4,7 @@ layout: default
 nav_order: 17
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/eportugal
-
+has_toc: false
 ---
 
 # ePortugal

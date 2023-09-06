@@ -4,6 +4,7 @@ title: Livro Amarelo Eletrónico
 nav_order: 18
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/livro-amarelo-eletronico
+has_toc: false
 ---
 
 # Livro Amarelo Eletrónico

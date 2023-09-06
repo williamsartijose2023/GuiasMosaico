@@ -4,6 +4,7 @@ title: Cloud - Guia para modelos de implementação
 nav_order: 28
 has_children: true
 permalink: guias-praticos/cloud-guia-para-modelos-de-implementacao
+has_toc: false
 ---
 
 # Cloud - Guia para modelos de implementação

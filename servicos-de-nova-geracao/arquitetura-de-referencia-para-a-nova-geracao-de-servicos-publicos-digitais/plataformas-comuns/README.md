@@ -4,6 +4,7 @@ layout: default
 parent: Arquitetura de Referência para a nova geração de Serviços Públicos Digitais
 has_children: true
 nav_order: 5
+has_toc: false
 ---
 
 

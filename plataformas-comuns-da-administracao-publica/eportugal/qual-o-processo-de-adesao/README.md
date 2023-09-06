@@ -4,6 +4,7 @@ layout: default
 parent: ePortugal
 has_children: true
 permalink: plataformas-comuns-da-administracao-publica/eportugal/qual-o-processo-de-adesao
+has_toc: false
 ---
 
 # Qual o processo de adesão?

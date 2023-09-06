@@ -4,6 +4,7 @@ title: GuIA Responsável para a IA
 nav_order: 30
 has_children: true
 permalink: guias-praticos/guia-responsavel-para-a-ia
+has_toc: false
 ---
 
 # GuIA Responsável para a IA
