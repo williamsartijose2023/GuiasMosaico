@@ -1,39 +1,45 @@
-
 @font-face {
   font-family: 'Inter-Light';
   src: url('../../assets/fonts/Inter-Light.ttf') format('truetype');
   font-weight: 300;
 }
+
 @font-face {
   font-family: 'Inter-ExtraLight';
   src: url('../../assets/fonts/Inter-ExtraLight.ttf') format('truetype');
   font-weight: 200;
 }
+
 @font-face {
   font-family: 'Inter-Regular';
   src: url('../../assets/fonts/Inter-Regular.ttf') format('truetype');
   font-weight: 400;
 }
+
 @font-face {
   font-family: 'Inter-ExtraBold';
   src: url('../../assets/fonts/Inter-ExtraBold.ttf') format('truetype');
   font-weight: 800;
 }
+
 @font-face {
   font-family: 'SpaceGrotesk-Light';
   src: url('../../assets/fonts/SpaceGrotesk-Light.ttf') format('truetype');
   font-weight: 300;
 }
+
 @font-face {
   font-family: 'SpaceGrotesk-Regular';
   src: url('../../assets/fonts/SpaceGrotesk-Regular.ttf') format('truetype');
   font-weight: 300;
 }
+
 @font-face {
   font-family: 'SpaceGrotesk-Bold';
   src: url('../../assets/fonts/SpaceGrotesk-Bold.ttf') format('truetype');
   font-weight: 700;
 }
+
 p,
 a,
 li,
@@ -53,73 +59,85 @@ button {
   font-family: 'Inter', sans-serif;
   font-weight: normal;
   line-height: 28px;
-strong {
-    font-family: 'Inter-ExtraBold', sans-serif !important;
-    font-weight: 800;
-  }
-}
-h4 {
-    -webkit-font-smoothing: antialiased;
-    font-family: 'Inter-ExtraBold', sans-serif;
-    font-weight: 800;
-    line-height: 32px;
-    font-size: 1.25rem;
-    @media (max-width: 1199px) {
-      font-size: 1rem;
-      line-height: 28px;
-    }
-    strong {
-        font-family: 'Inter-ExtraBold', sans-serif !important;
-        font-weight: 800;
-      }
-  }
-  h3 {
-    -webkit-font-smoothing: antialiased;
-    font-family: 'SpaceGrotesk-Regular', sans-serif;
-    font-weight: 300;
-    line-height: 40px;
-    font-size: 1.75rem;
-    font-feature-settings: 'ss03' on, 'ss04' on;
-    strong {
-        font-family: 'SpaceGrotesk-Bold', sans-serif !important;
-        font-weight: 700;
-      }
-  } 
-  h2 {
-    -webkit-font-smoothing: antialiased;
-    font-family: 'SpaceGrotesk-Regular', sans-serif;
-    font-weight: 300;
-    line-height: 52px;
-    font-size: 2.5rem;
-    font-feature-settings: 'ss03' on, 'ss04' on;
 
-    @media (max-width: 1199px) {
-      font-size: 1.75rem;
-      line-height: 40px;
-    }
-    strong {
-        font-family: 'SpaceGrotesk-Bold', sans-serif !important;
-        font-weight: 700;
-      }
-  }
-  h1 {
-    -webkit-font-smoothing: antialiased;
-    font-family: 'SpaceGrotesk-Bold', sans-serif;
-    font-weight: 700;
-    line-height: 4.5rem;
-    font-size: 4rem;
-    font-feature-settings: 'ss03' on, 'ss04' on;
-  }
   strong {
     font-family: 'Inter-ExtraBold', sans-serif !important;
-    font-weight: 800 !important;
+    font-weight: 800;
   }
-  .site-logo {
-    width: 40px !important;
-    height: 40px !important;
-    overflow: hidden !important;
-    margin-right: 16px !important;
 }
+
+h4 {
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Inter-ExtraBold', sans-serif;
+  font-weight: 800;
+  line-height: 32px;
+  font-size: 1.25rem;
+
+  @media (max-width: 1199px) {
+    font-size: 1rem;
+    line-height: 28px;
+  }
+
+  strong {
+    font-family: 'Inter-ExtraBold', sans-serif !important;
+    font-weight: 800;
+  }
+}
+
+h3 {
+  -webkit-font-smoothing: antialiased;
+  font-family: 'SpaceGrotesk-Regular', sans-serif;
+  font-weight: 300;
+  line-height: 40px;
+  font-size: 1.75rem;
+  font-feature-settings: 'ss03' on, 'ss04' on;
+
+  strong {
+    font-family: 'SpaceGrotesk-Bold', sans-serif !important;
+    font-weight: 700;
+  }
+}
+
+h2 {
+  -webkit-font-smoothing: antialiased;
+  font-family: 'SpaceGrotesk-Regular', sans-serif;
+  font-weight: 300;
+  line-height: 52px;
+  font-size: 2.5rem;
+  font-feature-settings: 'ss03' on, 'ss04' on;
+
+  @media (max-width: 1199px) {
+    font-size: 1.75rem;
+    line-height: 40px;
+  }
+
+  strong {
+    font-family: 'SpaceGrotesk-Bold', sans-serif !important;
+    font-weight: 700;
+  }
+}
+
+h1 {
+  -webkit-font-smoothing: antialiased;
+  font-family: 'SpaceGrotesk-Bold', sans-serif;
+  font-weight: 700;
+  line-height: 4.5rem;
+  font-size: 4rem;
+  font-feature-settings: 'ss03' on, 'ss04' on;
+}
+
+strong {
+  font-family: 'Inter-ExtraBold', sans-serif !important;
+  font-weight: 800 !important;
+}
+
+.site-logo {
+  width: 40px !important;
+  height: 40px !important;
+  overflow: hidden !important;
+  margin-right: 16px !important;
+}
+
 .site-custom-title {
   color: $body-heading-color !important;
   font-weight: 700 !important;
@@ -129,26 +147,45 @@ h4 {
 }
 
 a {
-    cursor: pointer !important;
-  }
-    .button {
-      display: block;
-      margin-bottom: 10px;
-      padding: 10px 20px;
-      background-color: #FFFFFF;
-      color: #000000;
-      text-decoration: none;
-      border-radius: 5px;
-      border: 1px solid #000000;
-    }
-    .button:hover {
-      background-color: #f1f1f1;
-    }
-    .logo-title-container {
-      display: flex;
-      align-items: center;
-    }
-    .logo-title-container img {
-      height: 40px; 
-      margin-right: 10px; 
-    }
+  cursor: pointer !important;
+}
+
+.button {
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  background-color: #FFFFFF;
+  color: #000000;
+  text-decoration: none;
+  border-radius: 5px;
+  border: 1px solid #000000;
+}
+
+.button:hover {
+  background-color: #f1f1f1;
+}
+
+.logo-title-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-title-container img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.search-button {
+  padding: 10px 20px;
+  background-color: #FFFFFF;
+  color: #000000;
+  text-decoration: none;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  cursor: pointer;
+}
+
+
+.search-button:focus {
+  outline: 2px solid #007BFF;
+}
