@@ -7,9 +7,9 @@ nav_order: 2
 
 # Qual o processo de adesão?
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/BolsaDocumentos-ProcessodeAdes%C3%A3i.png" alt="Processo de Adesão à Bolsa de Documentos">
-  <h5>Processo de Adesão à Bolsa de Documentos</h5>
+  Processo de Adesão à Bolsa de Documentos
 </div>
 <br>
 

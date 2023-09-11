@@ -9,14 +9,15 @@ nav_order: 2
 
 A adesão à PPAP – Plataforma de Pagamentos da Administração Pública, no âmbito do Licenciamento Zero segue o seguinte fluxo, gerido no portal online da PPAP, complementado pela contratação entre a Entidade Aderente e as Entidades de Suporte aos meios de pagamento.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/MicrosoftTeams-image.png" alt="Processo de adesão à Plataforma de Pagamentos da AP">
-  <h5>Processo de adesão à Plataforma de Pagamentos da AP</h5>
+  Processo de adesão à Plataforma de Pagamentos da AP
 </div>
 <br>
 
 <!-- Table Content -->
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>

@@ -9,9 +9,9 @@ nav_order: 2
 
 O processo abaixo apenas se refere à adesão por parte da entidade à assinatura com Chave Móvel Digital. Para a utilização da assinatura com o Cartão do Cidadão, não há necessidade de celebrar qualquer protocolo com a AMA.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Assinatur-processoadesao.png" alt="Processo de adesão Assinatura Digital">
-  <h5>Processo de adesão Assinatura Digital</h5>
+  Processo de adesão Assinatura Digital
 </div>
 <br>
 
@@ -20,6 +20,7 @@ Os passos para estabelecimento do protocolo são os seguintes:
 
 <!-- Table Content -->
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>

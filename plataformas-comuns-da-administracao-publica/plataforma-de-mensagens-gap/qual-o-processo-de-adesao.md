@@ -9,9 +9,9 @@ nav_order: 2
 
 Para a adesão à iAP – Plataforma de Mensagens, deverá ser seguido o procedimento descrito de seguida.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/gap%20(1).png" alt="Processo de adesão à Plataforma de Mensagens iAP-GAP">
-  <h5>Processo de adesão à Plataforma de Mensagens iAP-GAP</h5>
+  Processo de adesão à Plataforma de Mensagens iAP-GAP
 </div>
 <br>
 
@@ -19,6 +19,7 @@ Devido à natureza do processo de adesão, não é possível estimar um tempo ne
 
 <!-- Table Content -->
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Passos</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>

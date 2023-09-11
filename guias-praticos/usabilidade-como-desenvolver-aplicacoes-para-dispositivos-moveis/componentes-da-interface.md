@@ -25,18 +25,18 @@ Caso exista informação secundária que possa ser pertinente, esta deverá ser 
 
 A distância a que o utilizador segura o dispositivo móvel, enquanto o utiliza, é variável e depende do contexto de utilização e do tamanho do dispositivo.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Components%20-%20Typography%20graph%201.jpg" alt="Distâncias do ecrã dependente no dispositivo">
-  <h5>Distâncias do ecrã dependente no dispositivo</h5>
+  Distâncias do ecrã dependente no dispositivo
 </div>
 <br>
 
 
 Além disso, quando se trata de dispositivos móveis maiores como _tablets_, os utilizadores habitualmente usam-nos com algum tipo de suporte:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Components%20-%20Typography%20graph%202.jpg" alt="Forma de uso dependente do tamanho do dispositivo">
-  <h5>Forma de uso dependente do tamanho do dispositivo</h5>
+  Forma de uso dependente do tamanho do dispositivo
 </div>
 <br>
 
@@ -86,25 +86,25 @@ O deslizar na horizontal funciona bem quando se pretende mostrar um subconjunto 
 
 1\.        Um catálogo de produtos ou itens, com muitos elementos:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(17).png" alt="Exemplo de apresentação de vários itens horizontalmente">
-  <h5>Exemplo de apresentação de vários itens horizontalmente</h5>
+  Exemplo de apresentação de vários itens horizontalmente
 </div>
 <br>
 
 2\.        Apresentar informação numa área visual muito grande que não é fácil de ver de relance como por exemplo num mapa.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Navigation%20-%20Horizontal%20Scroll%20Map.jpg" alt="Exemplo de deslizar horizontal usado num mapa">
-  <h5>Exemplo de deslizar horizontal usado num mapa</h5>
+  Exemplo de deslizar horizontal usado num mapa
 </div>
 <br>
 
 3\.     Mostrar secções discretas ou partes de informação em aplicações
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Navigation%20-%20Horizontal%20Scroll%20Products.jpg" alt="Exemplo de mostrar informações extra de uma secção">
-  <h5>Exemplo de mostrar informações extra de uma secção</h5>
+  Exemplo de mostrar informações extra de uma secção
 </div>
 <br>
 
@@ -112,9 +112,9 @@ O deslizar na horizontal funciona bem quando se pretende mostrar um subconjunto 
 
 &#x20;Embora muito útil, o deslizar na horizontal pode ser pouco intuitivo se não for apresentado da forma correta. É necessário indicar a possibilidade de poder efetuar um deslizar horizontal usando dicas visuais.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Navigation%20-%20Horizontal%20Scroll%20Hint%20more.jpg" alt="Exemplo do uso de deslizar horizontal no Netflix">
-  <h5>Exemplo do uso de deslizar horizontal no Netflix</h5>
+  Exemplo do uso de deslizar horizontal no Netflix
 </div>
 <br>
 
@@ -125,9 +125,9 @@ Além de perceber que o conteúdo pode ser deslizado horizontalmente, também é
 
 A forma mais recomendada para indicar o final do conteúdo horizontal é inserindo um espaço maior no final. Assim o utilizador entende que não mais conteúdo para o lado dentro das dimensões expectáveis.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/GuiaUsabilidade-Netflix%20(1).png" alt="Exemplo de espaço extra para indicar o final do conteúdo">
-  <h5>Exemplo de espaço extra para indicar o final do conteúdo</h5>
+  Exemplo de espaço extra para indicar o final do conteúdo
 </div>
 <br>
 
@@ -141,51 +141,51 @@ Algumas regras básicas para apresentar tabelas em dispositivos móveis são:
 
 * Rodar o dispositivo deveria ser um último recurso - quando se roda o telefone para uma vista horizontal, o espaço ganho em largura é diretamente inverso ao espaço perdido a nível vertical.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/GuiaUsabilidade-Orienta%C3%A7%C3%A3oTabelas.png" alt="Exemplo de visualização horizontal vs. vertical">
-  <h5>Exemplo de visualização horizontal vs. vertical</h5>
+  Exemplo de visualização horizontal vs. vertical
 </div>
 <br>
 
 * Indicar claramente se o _scroll_ horizontal é necessário - existem muitos casos onde será necessário disponibilizar um _scroll_ horizontal porque há mais conteúdo do que é possível apresentar. Nestes casos, para se conseguir que seja óbvio para o utilizador a utilização do _scroll_ horizontal, deverá ser apresentado o conteúdo cortado ou em alternativa apresentar setas que indiquem que há mais conteúdo na horizontal.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Tables%20-Horizontal%20Scroll%201.jpg" alt="Exemplo de indicação visual de mais conteúdo horizontal">
-  <h5>Exemplo de indicação visual de mais conteúdo horizontal</h5>
+  Exemplo de indicação visual de mais conteúdo horizontal
 </div>
 <br>
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Tables%20-Horizontal%20Scroll%202.jpg" alt="Exemplo de indicação  de mais conteúdo horizontal com o uso de setas">
-  <h5>Exemplo de indicação  de mais conteúdo horizontal com o uso de setas</h5>
+  Exemplo de indicação  de mais conteúdo horizontal com o uso de setas
 </div>
 <br>
 
 * Deixar o utilizador escolher a informação a visualizar - quando o espaço disponível não possibilita apresentar toda a informação, deveremos dar ao utilizador a possibilidade de filtrar a informação, para que possa selecionar a informação útil.
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Tables%20-%20Filtering.jpg" alt="Exemplo de como apresentar filtros">
-  <h5>Exemplo de como apresentar filtros</h5>
+  Exemplo de como apresentar filtros
 </div>
 <br>
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Tables%20-%20Ordering.jpg" alt="Exemplo de como apresentar ordenação">
-  <h5>Exemplo de como apresentar ordenação</h5>
+  Exemplo de como apresentar ordenação
 </div>
 <br>
 
 * Utilizar acordeões para grupos de dados - se o conteúdo inclui dados que conseguem ser agrupados em categorias lógicas, então poderá fazer sentido a utilização de um acordeão. Assim o utilizador consegue ter uma ideia geral do conteúdo, observando as categorias; e ter um acesso mais direto a informação que considera útil.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Tables%20-Accordion%20Group.jpg" alt="Exemplo de agrupamento de conteúdos e uso de acordeão">
-  <h5>Exemplo de agrupamento de conteúdos e uso de acordeão</h5>
+  Exemplo de agrupamento de conteúdos e uso de acordeão
 </div>
 <br>
 
 * Utilizar ícones e cores - com o uso correto de cores e ícones, o utilizador consegue distinguir os conteúdos da tabela de uma forma mais fácil e comparar dados de uma forma mais eficaz.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Tables%20-%20Icons%20and%20Calendars.jpg" alt="Exemplo de como usar cores e ícones">
-  <h5>Exemplo de como usar cores e ícones</h5>
+  Exemplo de como usar cores e ícones
 </div>
 <br>
 
@@ -212,14 +212,14 @@ Por vezes há alguma informação que só vamos precisar quando o utilizador qui
 
 O preenchimento de um campo num dispositivo móvel é uma tarefa complexa. Sempre que possível, deve ser apresentado ao utilizador um teclado adequado ao conteúdo a preencher:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/GuiaUsabilidade-Forms-ApresentacaoTecladoiOS.png" alt="Exemplo de apresentação do teclado apropriado iOS">
-  <h5>Exemplo de apresentação do teclado apropriado iOS</h5>
+  Exemplo de apresentação do teclado apropriado iOS
 </div>
 <br>
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/GuiaUsabilidade-Forms-ApresentacaoTecladoAndroidp.png" alt="Exemplo de apresentação do teclado apropriado Android">
-  <h5>Exemplo de apresentação do teclado apropriado Android</h5>
+  Exemplo de apresentação do teclado apropriado Android
 </div>
 <br>
 
@@ -227,9 +227,9 @@ O preenchimento de um campo num dispositivo móvel é uma tarefa complexa. Sempr
 
 No preenchimento da morada do utilizador, uma boa prática deve ser a de permitir que o utilizador pré-selecione a sua localização com base na sua georreferenciação, o que permitirá o preenchimento automático desse campo. Usando, por exemplo, a _API_ do _Google Places_, é possível apresentar uma solução híbrida que ajuda a resolver questões de georreferenciação imprecisas.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Forms%20-%20Geo%20referencing.jpg" alt="Exemplo do uso de serviço de localização para facilitar preenchimento da morada">
-  <h5>Exemplo do uso de serviço de localização para facilitar preenchimento da morada</h5>
+  Exemplo do uso de serviço de localização para facilitar preenchimento da morada
 </div>
 <br>
 
@@ -239,9 +239,9 @@ No preenchimento da morada do utilizador, uma boa prática deve ser a de permiti
 
 Um dos maiores problemas do utilizador é tentar lembrar-se da sua palavra passe. Hoje em dia, já é possível realizar a autenticação usando a impressão digital ou reconhecimento facial.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Forms%20-%20Touch%20ID.jpg" alt="Autenticação biométrica">
-  <h5>Autenticação biométrica</h5>
+  Autenticação biométrica
 </div>
 <br>
 
@@ -251,9 +251,9 @@ Hoje em dia já é possível utilizar a câmara fotográfica do dispositivo móv
 
 Sempre que possível, esta opção deve ser explorada para ajudar a reduzir o tempo e o esforço necessário por parte do utilizador para preencher um formulário. Esta solução, embora muito prática, ainda pode apresentar alguma taxa de erro, pelo que o utilizador deverá sempre ter a opção de conseguir editar os campos, para que possa corrigir alguma informação que esteja errada.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Forms%20-%20ID%20Scan.jpg" alt="Exemplo do uso da câmara fotográfica">
-  <h5>Exemplo do uso da câmara fotográfica</h5>
+  Exemplo do uso da câmara fotográfica
 </div>
 <br>
 
@@ -261,22 +261,22 @@ Sempre que possível, esta opção deve ser explorada para ajudar a reduzir o te
 
 Com o desenvolvimento de reconhecimento de voz em dispositivos móveis, cada vez mais é comum haver a possibilidade de completar tarefas utilizando comandos de voz. Esta opção poderá ser uma grande ajuda para um cidadão que tenha dificuldades de visão ou mesmo de literacia digital reduzida.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Forms%20-%20Voice%20input%20Google.jpg" alt="Exemplo de uso de voz em sistema Android">
-  <h5>Exemplo de uso de voz em sistema Android</h5>
+  Exemplo de uso de voz em sistema Android
 </div>
 <br>
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Forms%20-%20Voice%20input%20iOS.jpg" alt="Exemplo de uso de voz em sistema iOS">
-  <h5>Exemplo de uso de voz em sistema iOS</h5>
+  Exemplo de uso de voz em sistema iOS
 </div>
 <br>
 
 Todos os dias, os utilizadores são confrontados com inúmeras notificações que os interrompem ou distraem das suas tarefas diárias, o que pode tornar a aplicação muito incomodativa.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Components%20-%20Notifications.jpg" alt="Razões principais para desinstalar uma aplicação">
-  <h5>Razões principais para desinstalar uma aplicação</h5>
+  Razões principais para desinstalar uma aplicação
 </div>
 <br>
 
@@ -295,9 +295,9 @@ O uso de dispositivos móveis é feito maioritariamente através do toque com os
 
 Ao observar os hábitos comuns de utilização de dispositivos móveis, foram identificadas 6 posições principais:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Touch%20-%20Image%201.jpg" alt="– 6 posições mais comuns de utilização dos smartphones – fonte: UXMatters">
-  <h5>– 6 posições mais comuns de utilização dos smartphones – fonte: UXMatters</h5>
+  – 6 posições mais comuns de utilização dos smartphones – fonte: UXMatters
 </div>
 <br>
 
@@ -308,9 +308,9 @@ Abaixo há um exemplo de como os utilizadores mudam de posição dependendo da a
 
 O ponto importante a ter em mente ao desenvolver as aplicações é manter a estrutura consistente para não obrigar o utilizador a mudar de posição de mãos ou a posição do dispositivo continuamente.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Touch%20-%20Image%202.jpg" alt="Posições mais usadas vs. atividade a realizar – fonte: UXMatters">
-  <h5>Posições mais usadas vs. atividade a realizar – fonte: UXMatters</h5>
+  Posições mais usadas vs. atividade a realizar – fonte: UXMatters
 </div>
 <br>
 
@@ -319,9 +319,9 @@ O ponto importante a ter em mente ao desenvolver as aplicações é manter a est
 
 O espaço mais utlizado em dispositivos móveis é o espaço central do ecrã. Esta interação também coincide com a posição no ecrã onde o utilizador é mais preciso com o toque.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Touch%20-%20Image3.jpg" alt="Precisão do toque relativo à zona do ecrã – fonte: UXMatters">
-  <h5>Precisão do toque relativo à zona do ecrã – fonte: UXMatters</h5>
+  Precisão do toque relativo à zona do ecrã – fonte: UXMatters
 </div>
 <br>
 
@@ -329,9 +329,9 @@ Os utilizadores habitualmente efetuam scroll para colocar a informação mais im
 
 A melhor prática de desenvolvimento de conteúdo para dispositivos móveis é colocar a informação primária no centro, a informação secundária na parte inferior da página e a informação menos relevante em cima, mais longe dos dedos como o exemplo abaixo.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Touch%20-%20Image4.jpg" alt="Melhor estrutura base para os conteúdos principais">
-  <h5>Melhor estrutura base para os conteúdos principais</h5>
+  Melhor estrutura base para os conteúdos principais
 </div>
 <br>
 
@@ -354,18 +354,18 @@ Para que as aplicações possam ser utilizadas pelo maior número possível de u
 
 * 25x25mm (Recomendado) para interações com polegar (72 x 72 pixéis)
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Touch%20-%20Size%20Thumb%20(1).jpg" alt="Dimensões recomendadas para uso com polegares">
-  <h5>Dimensões recomendadas para uso com polegares</h5>
+  Dimensões recomendadas para uso com polegares
 </div>
 <br>
 
 
 * 16x16mm para interações com o dedo indicador (57 x 57 pixéis)
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Touch%20-%20Size%20Index.jpg" alt="Dimensões recomendadas para uso com dedo indicador">
-  <h5>Dimensões recomendadas para uso com dedo indicador</h5>
+  Dimensões recomendadas para uso com dedo indicador
 </div>
 <br>
 
@@ -396,7 +396,7 @@ Se um gesto parece intuitivo para nós não significa que seja intuitivo para ou
 
 Isto acontece porque os gestos não são visíveis, como no caso dos botões. Os utilizadores precisam de descobrir a existência desta opção. Quanto mais dependermos do uso de gestos para interações, mas aumenta a possibilidade de causar confusão.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Touch%20-%20Gesture%20types.jpg" alt="">
 </div>
 <br>
@@ -483,17 +483,17 @@ A melhor forma de ajudar o utilizador a conseguir completar uma determinada tare
 
 O botão de ação principal deverá ter sempre destaque relativo aos restantes elementos da página. Um tamanho maior indica que é o elemento mais relevante e uma cor que contrasta com os restantes elementos da página permite chamar mais a atenção do utilizador.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Bot%C3%A3o%20Prim%C3%A1rio.jpg" alt="Exemplo de call-to-action com destaque relativo aos restantes elementos">
-  <h5>Exemplo de call-to-action com destaque relativo aos restantes elementos</h5>
+  Exemplo de call-to-action com destaque relativo aos restantes elementos
 </div>
 <br>
 
 O _call-to-action_ principal é normalmente associado à opção de avançar para o próximo passo numa tarefa ou então terminar uma tarefa, por isso é aconselhável a sua apresentação no final do conteúdo da página conforme a figura abaixo.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Bot%C3%A3o%20Prim%C3%A1rio%20-%20Fixed%20scroll.jpg" alt="Exemplo de call-to-action que está no fundo da página e mantém-se fixo">
-  <h5>Exemplo de call-to-action que está no fundo da página e mantém-se fixo</h5>
+  Exemplo de call-to-action que está no fundo da página e mantém-se fixo
 </div>
 <br>
 
@@ -522,9 +522,9 @@ Ao apresentar o campo completo, o utilizador precisa de apenas duas interações
 
 Se a pesquisa for a forma predominante de navegação, deverá ser apresentada em primeiro plano ao entrar na aplicação:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Search%20-%20Prominent.jpg" alt="Exemplo campo de pesquisa numa posição predominante">
-  <h5>Exemplo campo de pesquisa numa posição predominante</h5>
+  Exemplo campo de pesquisa numa posição predominante
 </div>
 <br>
 
@@ -532,9 +532,9 @@ Se a pesquisa for a forma predominante de navegação, deverá ser apresentada e
 
 Uma barra de pesquisa deve sempre ser acompanhada por um ícone de lupa. Os utilizadores já estão acostumados a este padrão, e ajuda a identificar mais facilmente o campo. O ícone deverá ser o mais simples possível. Quanto mais detalhe apresentar o desenho do ícone, mais complicada será a sua interpretação pelo utilizador.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/GuiaUsabilidade-IconPesquisa.png" alt="Exemplo de ícone simples de lupa">
-  <h5>Exemplo de ícone simples de lupa</h5>
+  Exemplo de ícone simples de lupa
 </div>
 <br>
 
@@ -550,9 +550,9 @@ Provavelmente, o padrão de pesquisa mais útil que surgiu na _Web_ 2.0 foi a ap
 
 Deverá sempre fornecer sugestões automáticas da forma mais rápida possível, como após introduzir um terceiro caracter para fornecer valor imediato e reduzir o esforço de entrada de dados no campo de pesquisa.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Search%20-%20Auto%20suggestions%20(1).jpg" alt="Exemplo do uso de sugestões automáticas">
-  <h5>Exemplo do uso de sugestões automáticas</h5>
+  Exemplo do uso de sugestões automáticas
 </div>
 <br>
 
@@ -562,9 +562,9 @@ Mesmo quando os utilizadores estão familiarizados com o uso de pesquisa, a pesq
 
 Esta opção funciona particularmente bem em aplicações onde o utilizador precisa de repetir a mesma pesquisa.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Search%20-%20Pesquisa%20guardada.jpg" alt="Exemplo de pesquisas guardadas">
-  <h5>Exemplo de pesquisas guardadas</h5>
+  Exemplo de pesquisas guardadas
 </div>
 <br>
 
@@ -572,9 +572,9 @@ Esta opção funciona particularmente bem em aplicações onde o utilizador prec
 
 Por vezes surgem situações em que, para o utilizador, se torna difícil escrever no telefone e é propenso cometer erros. Em alguns casos, para utilizadores com alguma limitação momentânea ou mais definitiva, a escrita pode limitar a acessibilidade da aplicação. Nestes casos a opção de poder realizar a pesquisa por voz apresenta-se como uma boa alternativa.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/Search%20-%20Pesquisa%20por%20voz.jpg" alt="Exemplo do uso de pesquisa por voz">
-  <h5>Exemplo do uso de pesquisa por voz</h5>
+  Exemplo do uso de pesquisa por voz
 </div>
 <br>
 

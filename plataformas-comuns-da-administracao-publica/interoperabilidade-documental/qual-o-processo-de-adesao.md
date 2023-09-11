@@ -6,9 +6,9 @@ nav_order: 2
 ---
 # Qual o processo de adesão?
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/inter%20doc.png" alt="Processo de Adesão Interoperabilidade Documental">
-  <h5>Processo de Adesão Interoperabilidade Documental</h5>
+  Processo de Adesão Interoperabilidade Documental
 </div>
 <br>
 

@@ -90,9 +90,9 @@ Apresenta:
 
 Confirmar Alteração de Morada
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(14).png" alt="Vista alto nível do serviço">
-  <h5>Vista alto nível do serviço</h5>
+  Vista alto nível do serviço
 </div>
 <br>
 
@@ -106,9 +106,9 @@ Confirmar Alteração de Morada
 
 ### Processo de negócio: confirmar alteração de morada
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(12).png" alt="Vista do Processo de Negócio: Confirmar Alteração de Morada">
-  <h5>Vista do Processo de Negócio: Confirmar Alteração de Morada</h5>
+  Vista do Processo de Negócio: Confirmar Alteração de Morada
 </div>
 <br>
 
@@ -130,9 +130,9 @@ Confirmar Alteração de Morada
 
 Confirmar Alteração de Morada
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(9).png" alt="Vista do Processo Aplicacional: Confirmar Alteração de Morada">
-  <h5>Vista do Processo Aplicacional: Confirmar Alteração de Morada</h5>
+  Vista do Processo Aplicacional: Confirmar Alteração de Morada
 </div>
 <br>
 
@@ -144,9 +144,9 @@ Confirmar Alteração de Morada
 
 A realização das etapas do processo aplicacional, é suportada pela solução:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(29).png" alt="Vista da Solução Aplicacional que suporta o serviço">
-  <h5>Vista da Solução Aplicacional que suporta o serviço</h5>
+  Vista da Solução Aplicacional que suporta o serviço
 </div>
 <br>
 
@@ -156,9 +156,9 @@ A realização das etapas do processo aplicacional, é suportada pela solução:
 
 E é suportada também pelas Plataformas Comuns:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(21).png" alt="Vista das Plataformas comuns utilizadas no serviço">
-  <h5>Vista das Plataformas comuns utilizadas no serviço</h5>
+  Vista das Plataformas comuns utilizadas no serviço
 </div>
 <br>
 
@@ -170,9 +170,9 @@ E é suportada também pelas Plataformas Comuns:
 
 ### Arquitetura completa do serviço confirmação de alteração de morada
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/confirmar%20morada%201%20(1).png" alt="Vista Global do serviço">
-  <h5>Vista Global do serviço</h5>
+  Vista Global do serviço
 </div>
 <br>
 

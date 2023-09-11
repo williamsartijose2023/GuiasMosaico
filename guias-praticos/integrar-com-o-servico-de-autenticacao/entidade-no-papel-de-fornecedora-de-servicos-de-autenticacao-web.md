@@ -24,9 +24,8 @@ O Serviço de Autenticação responde à entidade com informação autorizada pe
 
 
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/MicrosoftTeams-image (2).png" alt="">
-  <h5></h5>
 </div>
 <br>
 
@@ -41,9 +40,9 @@ A imagem acima descreve as interações entre o portal da entidade e o Serviço 
 
 O FA também utiliza a autenticação Implicit Grant do OAuth2 para fazer a autenticação e devolver os atributos pedidos em três passos. Primeiro é necessário obter um token de autenticação, sendo que o processo de autenticação é semelhante ao fluxo de autenticação via SAML (inclusivamente as mensagens trocadas entre os subsistemas do FA e a CMD são feitos via SAML). De seguida é necessário fazer um pedido REST com esse token de forma a iniciar o processo de obtenção de dados, e o FA retorna um identificador do processo de autenticação que o sistema requerente deve depois utilizar para realizar um ou mais pedidos de obtenção de dados. Este fluxo assíncrono pode ser representado de forma simplificada pelo seguinte esquema:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(45).png" alt="Autenticação baseada em OAuth">
-  <h5>Autenticação baseada em OAuth</h5>
+  Autenticação baseada em OAuth
 </div>
 <br>
 

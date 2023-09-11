@@ -13,7 +13,7 @@ Os objetos de dados e as respetivas características, propriedades e eventuais a
 
 Este catálogo de dados, é o que é utilizado por todos os novos serviços digitais, para reger todas as interações dos mesmos com objetos de dados.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/CatalogoDados.png" alt="">
 </div>
 <br>

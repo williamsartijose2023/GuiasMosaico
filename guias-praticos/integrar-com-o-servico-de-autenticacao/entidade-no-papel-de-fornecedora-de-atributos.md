@@ -9,9 +9,8 @@ nav_order: 2
 
 Numa fase do fluxo de autenticação, já posterior à verificação da autenticidade do Cartão de Cidadão, o Serviço de Autenticação irá obter os atributos necessários para responder ao pedido de autenticação da entidade requisitante. Caso os dados solicitados não se encontrem no certificado público do Cartão de Cidadão ou no próprio chip deste, o Serviço de Autenticação irá promover a sua obtenção junto de fornecedores de atributos externos, conforme ilustrado na figura seguinte.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/MicrosoftTeams-image (1) (1).png" alt="">
-  <h5></h5>
 </div>
 <br>
 

@@ -10,9 +10,9 @@ nav_order: 2
 
 Na seguinte estão representadas as Plataformas Comuns, de acordo com a sua estrutura classificativa.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/arq%20ref%20classifica%C3%A7%C3%A3o%20plataformas%20comuns.PNG" alt="Classificação das Plataformas Comuns">
-  <h5>Classificação das Plataformas Comuns</h5>
+  Classificação das Plataformas Comuns
 </div>
 <br>
 

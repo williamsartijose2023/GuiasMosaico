@@ -17,9 +17,9 @@ O processo formalizar-se-á através da assinatura de um protocolo cuja minuta c
 
 Devido à natureza do processo de adesão, não é possível estimar um tempo necessário médio.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images//spne 11.png" alt="Processo de adesão ao SPNE">
-  <h5>Processo de adesão ao SPNE</h5>
+  Processo de adesão ao SPNE
 </div>
 <br>   
 

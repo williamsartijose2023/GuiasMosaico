@@ -12,9 +12,9 @@ O **Modelo Integrar** foi concebido para as entidades que pretendam **desmateria
 
 ## Processo
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/eportugal%20integrar.png" alt="Processo de adesão ePortugal – Modelo Integrar">
-  <h5>Processo de adesão ePortugal – Modelo Integrar</h5>
+  Processo de adesão ePortugal – Modelo Integrar
 </div>
 <br>
 

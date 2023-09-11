@@ -91,9 +91,9 @@ Na verdade, em qualquer projeto de serviço público digital todos os momentos s
 
 Naturalmente que conforme a linha do tempo do projeto avança e a quantidade de artefactos e protótipos disponíveis aumenta, os ciclos de testes vão ficando mais completos, porque o detalhe do que pode ser testado aumenta também. Contudo, isto não pode querer dizer, que os testes de usabilidade só entram em cena no projeto numa fase já muito tardia.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../assets/images/costOfChangeTraditional.gif" alt="Relação entre Custo de mudança vs tempo (Scott Ambler)">
-  <h5>Relação entre Custo de mudança vs tempo (Scott Ambler)</h5>
+  Relação entre Custo de mudança vs tempo (Scott Ambler)
 </div>
 <br>
 
@@ -113,9 +113,9 @@ Se o objetivo for fazer uma análise qualitativa da usabilidade serão necessár
 
 Posto isto, é fundamental, perceber qual o número de utilizadores mínimo a envolver em testes de usabilidade numa análise qualitativa. Um estudo da Nielsen Norman Group, uma das empresas de referência na área da usabilidade a nível mundial, refere que a partir dos 5 testes é possível encontrar quase 90% dos problemas de usabilidade do produto.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../assets/images/usabilityproblemsNNG.png" alt="Número de problemas encontrados vs Número de utilizadores que fazem testes – Nielsen Norman Group">
-  <h5>Número de problemas encontrados vs Número de utilizadores que fazem testes (Nielsen Norman Group)</h5>
+  <Número de problemas encontrados vs Número de utilizadores que fazem testes (Nielsen Norman Group)
 </div>
 <br>
 

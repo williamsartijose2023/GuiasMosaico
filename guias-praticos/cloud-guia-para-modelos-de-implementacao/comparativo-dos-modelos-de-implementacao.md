@@ -7,9 +7,9 @@ nav_order: 5
 
 # Comparativo dos modelos de implementação
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/ComparacaoModelosImplementacaoCloud.png" alt="Fonte: Estratégia Cloud para a Administração Pública em Portugal Novembro 2020">
-  <h5>Fonte: Estratégia Cloud para a Administração Pública em Portugal Novembro 2020</h5>
+  Fonte: Estratégia Cloud para a Administração Pública em Portugal Novembro 2020
 </div>
 <br>
 

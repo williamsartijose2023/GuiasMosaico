@@ -11,8 +11,8 @@ A arquitetura tecnológica deste serviço é baseada numa _gateway_ (infraestrut
 
 Abaixo o diagrama de alto nível da GAP, demonstrando na Camada de Negócio os atores e papéis envolvidos, os serviços de negócio e os processos, e na Camada Aplicacional os serviços aplicacionais que realizam seus processos.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/iap-gap.png" alt="Diagrama de alto nível da Plataforma de Mensagens iAP-GAP">
-  <h5>Diagrama de alto nível da Plataforma de Mensagens iAP-GAP</h5>
+  Diagrama de alto nível da Plataforma de Mensagens iAP-GAP
 </div>
 <br>

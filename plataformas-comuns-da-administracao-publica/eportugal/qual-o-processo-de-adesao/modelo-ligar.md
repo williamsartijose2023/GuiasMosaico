@@ -14,9 +14,9 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 
 ## Processo
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/eportugal%20ligar.png" alt="Processo de adesão ePortugal – Modelo Ligar">
-  <h5>Processo de adesão ePortugal – Modelo Ligar</h5>
+  Processo de adesão ePortugal – Modelo Ligar
 </div>
 <br>
 

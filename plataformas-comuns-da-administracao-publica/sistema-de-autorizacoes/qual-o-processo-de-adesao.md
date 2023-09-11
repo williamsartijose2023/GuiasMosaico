@@ -11,9 +11,9 @@ nav_order: 2
 
 Para a adesão ao Sistema de Autorizações deverá seguir os procedimentos:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/MicrosoftTeams-image (11).png" alt="Processo de adesão ao Sistema de Autorizações">
-  <h5>Processo de adesão ao Sistema de Autorizações</h5>
+  Processo de adesão ao Sistema de Autorizações
 </div>
 <br>
 

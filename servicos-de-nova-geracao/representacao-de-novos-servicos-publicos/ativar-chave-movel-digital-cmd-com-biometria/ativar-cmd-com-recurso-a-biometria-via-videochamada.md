@@ -141,9 +141,9 @@ Para a ativação da CMD por identificação à distância com recurso a videoch
 
 Ativação de CMD com recurso a biometria
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(13).png" alt="Vista alto nível do serviço">
-  <h5>Vista alto nível do serviço</h5>
+  Vista alto nível do serviço
 </div>
 <br>
 
@@ -166,9 +166,9 @@ Ativação de CMD com recurso a biometria
 
 ### Processo de negócio: Efetuar pedido de agendamento de videochamada
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(15).png" alt="Vista Completa do Processo de Negócio do serviço">
-  <h5>Vista Completa do Processo de Negócio do serviço</h5>
+  Vista Completa do Processo de Negócio do serviço
 </div>
 <br>
 
@@ -185,9 +185,9 @@ Ativação de CMD com recurso a biometria
 
 ### Processo de negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Cidadão
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(24).png" alt="Vista do Processo de Negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Cidadão">
-  <h5>Vista do Processo de Negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Cidadão</h5>
+  Vista do Processo de Negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Cidadão
 </div>
 <br>
 
@@ -207,9 +207,9 @@ Ativação de CMD com recurso a biometria
 
 ### Processo de negócio: Aderir à CMD por identificação à distância com recurso a videochamada – Operador
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(6).png" alt="Vista do Processo de Negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Operador">
-  <h5>Vista do Processo de Negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Operador</h5>
+  Vista do Processo de Negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Operador
 </div>
 <br>
 
@@ -232,17 +232,17 @@ Ativação de CMD com recurso a biometria
 
 O processo aplicacional completo, necessário à realização do serviço, é o seguinte:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(28).png" alt="Vista Completa do Processo Aplicacional do Serviço">
-  <h5>Vista Completa do Processo Aplicacional do Serviço</h5>
+  Vista Completa do Processo Aplicacional do Serviço
 </div>
 <br>
 
 ### Processo aplicacional: Efetuar pedido de agendamento de videochamada
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(5).png" alt="Vista do Processo Aplicacional: Efetuar pedido de agendamento de videochamada">
-  <h5>Vista do Processo Aplicacional: Efetuar pedido de agendamento de videochamada</h5>
+  Vista do Processo Aplicacional: Efetuar pedido de agendamento de videochamada
 </div>
 <br>
 
@@ -258,9 +258,9 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 
 ### Processo aplicacional: Aderir à CMD por identificação à distância com recurso a videochamada
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(7).png" alt="Vista do Processo Aplicacional: Aderir à CMD por identificação à distância com recurso a videochamada">
-  <h5>Vista do Processo Aplicacional: Aderir à CMD por identificação à distância com recurso a videochamada</h5>
+  Vista do Processo Aplicacional: Aderir à CMD por identificação à distância com recurso a videochamada
 </div>
 <br>
 
@@ -279,9 +279,9 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 
 #### Soluções aplicacionais
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(1).png" alt="Vista das Soluções Aplicacionais que suportam o serviço">
-  <h5>Vista das Soluções Aplicacionais que suportam o serviço</h5>
+  Vista das Soluções Aplicacionais que suportam o serviço
 </div>
 <br>
 
@@ -294,9 +294,9 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 
 A solução aplicacional é suportada pelas Plataformas Comuns:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image.png" alt="Vista das Plataformas comuns utilizadas no serviço">
-  <h5>Vista das Plataformas comuns utilizadas no serviço</h5>
+  Vista das Plataformas comuns utilizadas no serviço
 </div>
 <br>
 
@@ -313,9 +313,9 @@ A solução aplicacional é suportada pelas Plataformas Comuns:
 
 Arquitetura aplicacional completa do serviçlo ativar CMD com rescurso a biometria via videochamada:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/cmd%20biometria%20videochamada.png" alt="Vista Global do serviço">
-  <h5>Vista Global do serviço</h5>
+  Vista Global do serviço
 </div>
 <br>
 

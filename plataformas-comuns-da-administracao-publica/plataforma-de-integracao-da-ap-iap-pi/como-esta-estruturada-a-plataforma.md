@@ -9,8 +9,8 @@ nav_order: 3
 
 ## Arquitetura de Alto Nível
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/iap-pi.png" alt="Arquitetura de alto nível da iAP-PI">
-  <h5>Arquitetura de alto nível da iAP-PI</h5>
+  Arquitetura de alto nível da iAP-PI
 </div>
 <br>

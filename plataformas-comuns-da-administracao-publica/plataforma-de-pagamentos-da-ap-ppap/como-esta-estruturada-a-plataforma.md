@@ -15,9 +15,9 @@ O back office Web do produto possibilita uma gestão operacional dos pagamentos,
 
 Abaixo o diagrama de alto nível da PPAP, demonstrando na Camada de Negócio os atores e papéis envolvidos, os serviços de negócio e os processos, e na Camada Aplicacional os serviços aplicacionais que realizam os seus processos.&#x20;
 
-<div align="center">
+<div style="text-align: center;">
 <img src="../../assets/images/MicrosoftTeams-image (1).png" alt="Arquitetura de alto nível da PPAP">
-  <h5>Arquitetura de alto nível da PPAP</h5>
+  Arquitetura de alto nível da PPAP
 </div>
 <br>
 

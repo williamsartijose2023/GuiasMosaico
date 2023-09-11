@@ -7,18 +7,21 @@ nav_order: 2
 
 
 # Qual o processo de adesão?
-## Consulte o processo de adesão para um serviço existente ou um serviço novo.
+Consulte o processo de adesão para um serviço existente ou um serviço novo.
 
 ## Processo de Adesão a Serviço Existente
 
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/1.png" alt="Processo de adesão a um serviço existente na iAP-PI">
-  <h5>Processo de adesão a um serviço existente na iAP-PI</h5>
+  Processo de adesão a um serviço existente na iAP-PI
 </div>
+
+
 
 <!-- Table Content -->
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -100,13 +103,14 @@ nav_order: 2
 
 
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/2.png" alt="Desenho do Processo de adesão a um novo serviço na iAP-PI">
-  <h5>Desenho do Processo de adesão a um novo serviço na iAP-PI</h5>
+  Desenho do Processo de adesão a um novo serviço na iAP-PI
 </div>
 <br>
 <!-- Table Content -->
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>

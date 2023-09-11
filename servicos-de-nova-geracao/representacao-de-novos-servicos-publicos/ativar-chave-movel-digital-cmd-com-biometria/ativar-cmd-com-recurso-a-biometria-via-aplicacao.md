@@ -115,9 +115,9 @@ Para a ativação da CMD, será necessário recolher dados pessoais discriminado
 
 Ativação de CMD com recurso a biometria via Aplicação
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(37).png" alt="Vista alto nível do serviço">
-  <h5>Vista alto nível do serviço</h5>
+  Vista alto nível do serviço
 </div>
 <br>
 
@@ -136,9 +136,9 @@ Ativação de CMD com recurso a biometria via Aplicação
 
 Aderir à CMD com recurso a biometria via Aplicação.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(36).png" alt="Vista Completa do Processo de Negócio do serviço">
-  <h5>Vista Completa do Processo de Negócio do serviço</h5>
+  Vista Completa do Processo de Negócio do serviço
 </div>
 <br>
 
@@ -167,9 +167,9 @@ Aderir à CMD com recurso a biometria via Aplicação.
 
 Aderir à CMD por identificação à distância com recurso a Aplicação.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(30).png" alt="Vista do Processo Aplicacional">
-  <h5>Vista do Processo Aplicacional</h5>
+  Vista do Processo Aplicacional
 </div>
 <br>
 
@@ -199,9 +199,9 @@ Aderir à CMD por identificação à distância com recurso a Aplicação.
 
 A realização das etapas do processo aplicacional, é suportada pelas soluções:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(38).png" alt="Vista das Soluções Aplicacionais que suportam o serviço">
-  <h5>Vista das Soluções Aplicacionais que suportam o serviço</h5>
+  Vista das Soluções Aplicacionais que suportam o serviço
 </div>
 <br>
 
@@ -218,9 +218,9 @@ A realização das etapas do processo aplicacional, é suportada pelas soluçõe
 
 É suportada pelas Plataformas comuns:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/image%20(32).png" alt="Vista das Plataformas comuns utilizadas no serviço">
-  <h5>Vista das Plataformas comuns utilizadas no serviço</h5>
+  Vista das Plataformas comuns utilizadas no serviço
 </div>
 <br>
 
@@ -236,9 +236,9 @@ A realização das etapas do processo aplicacional, é suportada pelas soluçõe
 
 Arquitetura completa do serviço ativar CMD com recurso à biometria via aplicação:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/cmd%20app%206%20(1).png" alt="Vista Global do serviço">
-  <h5>Vista Global do serviço</h5>
+  Vista Global do serviço
 </div>
 <br>
 

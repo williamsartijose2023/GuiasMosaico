@@ -20,9 +20,9 @@ Durante a fase de visão, identifica-se o Serviço Público Digital, os seus int
 Nesta fase, o desenho do Serviço Público Digital começa com a modelação do seu comportamento em atividades de negócio, tal como percecionadas pelos seus participantes. Sugere-se a adoção de um método de desenho de processos (por exemplo, o “Process Modeling Method” apresentado em “Fundalemtals of Business Process Management”, by Marlon Dumas et al, Second Edition, Springer. Também acessível em [http://fundamentals-of-bpm.org/](http://fundamentals-of-bpm.org/)) e das técnicas de “Process Quality” subjacentes ao método de desenho de processos.
 
 O resultado desta primeira iteração do desenho da arquitetura é a especificação da sequência de atividades (processos de negócio), necessárias à realização do Serviço Público Digital.
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20happy%20flow.png" alt="Figura 1 - Padrão de Utilização das Plataformas Comuns - Happy-flow">
-  <h5>Figura 1 - Padrão de Utilização das Plataformas Comuns - Happy-flow</h5>
+  Figura 1 - Padrão de Utilização das Plataformas Comuns - Happy-flow
 </div>
 <br>
 
@@ -39,18 +39,18 @@ A Figura 1 corresponde a uma instanciação do Processo de Negócio sem situaç�
 
 Esta é apenas uma das múltiplas sequências possíveis. No padrão incluímos também a atividade “\[…]” para expressar podem ser incluídas outras atividades, associadas a outras Plataformas Comuns, e não apenas as que estão aqui listadas.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20fluxo%20etapas.PNG" alt="Figura 2 - Padrão de Utilização das Plataformas Comuns – Fluxo de Etapas">
-  <h5>Figura 2 - Padrão de Utilização das Plataformas Comuns – Fluxo de Etapas</h5>
+  Figura 2 - Padrão de Utilização das Plataformas Comuns – Fluxo de Etapas
 </div>
 <br>
 
 
 A Figura 2 apresenta as sequências possíveis do Processo de Negócio, tanto as mais curtas, por exemplo, apenas como a Leitura de Conteúdo, como as mais complexas, por exemplo com repetições, como ainda a mudança de ordem das atividades do exemplo da Figura 1.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20padr%C3%A3o%20completo.PNG" alt="Figura 3 - Padrão de Utilização das Plataformas Comuns - Completo">
-  <h5>Figura 3 - Padrão de Utilização das Plataformas Comuns - Completo</h5>
+  Figura 3 - Padrão de Utilização das Plataformas Comuns - Completo
 </div>
 <br>
 

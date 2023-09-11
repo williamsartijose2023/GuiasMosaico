@@ -85,9 +85,9 @@ O resultado desta primeira iteração do desenho da arquitetura é a especifica�
 * Rececionar cartão físico via postal
 * Pagar IUC
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20trocar%20matricula.PNG" alt="Processo de Negócio - Trocar Matrícula Estrangeira">
-  <h5>Processo de Negócio - Trocar Matrícula Estrangeira</h5>
+  Processo de Negócio - Trocar Matrícula Estrangeira
 </div>
 <br>
 
@@ -134,9 +134,9 @@ Na camada de “Solução Aplicacional a Desenvolver”, podemos ver uma instanc
 * Emissão do DUA eletrônico
 * Adição do DUA no id.go
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20trocar%20matricula%20processo%20aplicacional.PNG" alt="Processo Aplicacional - Trocar Matrícula Estrangeira">
-  <h5>Processo Aplicacional - Trocar Matrícula Estrangeira</h5>
+  Processo Aplicacional - Trocar Matrícula Estrangeira
 </div>
 <br>
 
@@ -145,9 +145,9 @@ Seguidamente, modelou-se a solução que realiza as etapas do processo aplicacio
 
 Podem ser adotadas outras soluções de suporte aos processos aplicacionais acima descritos, mas nesta arquitetura de solução foram contemplados apenas estes elementos.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20trocar%20matricula%20processo%20aplicacional%202.PNG" alt="Solução Aplicacional - Troca de Matrícula Estrangeira">
-  <h5>Solução Aplicacional - Troca de Matrícula Estrangeira</h5>
+  Solução Aplicacional - Troca de Matrícula Estrangeira
 </div>
 <br>
 
@@ -186,17 +186,17 @@ Mensagens e Notificações
 | --------------------------------------------------- | ------------- |
 | Plataforma de Notificações Eletrónicas da AP (SPNE) | Notificações  |
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20plataformas%20comuns.PNG" alt="Plataformas Comuns Utilizadas - Troca de Matrícula Estrangeira">
-  <h5>Plataformas Comuns Utilizadas - Troca de Matrícula Estrangeira</h5>
+  Plataformas Comuns Utilizadas - Troca de Matrícula Estrangeira
 </div>
 <br>
 
 
 A figura seguinte apresenta o diagrama completo:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20trocar%20de%20matricula%20completo.png" alt="Troca de Matrícula Estrangeira">
-  <h5>Troca de Matrícula Estrangeira</h5>
+  Troca de Matrícula Estrangeira
 </div>
 <br>

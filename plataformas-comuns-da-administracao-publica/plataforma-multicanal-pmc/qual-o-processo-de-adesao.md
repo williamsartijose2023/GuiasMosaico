@@ -31,9 +31,9 @@ Visa melhoria do frontoffice da Entidade, mas também alterações ao backoffice
 
 ## Processo de Adesão
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/pmc (2).png" alt="Processo de adesão à PMC">
-  <h5>Processo de adesão à PMC</h5>
+  Processo de adesão à PMC
 </div>
 <br>
 

@@ -14,9 +14,9 @@ Na Camada Aplicacional estão representados os serviços aplicacionais que reali
 
 Este bloco de construção tem dependência com outros blocos de construção (iAP e CES), para disponibilizar algumas das suas funcionalidades. Esta representação é mostrada no diagrama como “dependências da solução”.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/spne.png" alt="Diagrama de Arquitetura de alto nível SPNE">
-  <h5>Diagrama de Arquitetura de alto nível SPNE</h5>
+  Diagrama de Arquitetura de alto nível SPNE
 </div>
 <br>
 

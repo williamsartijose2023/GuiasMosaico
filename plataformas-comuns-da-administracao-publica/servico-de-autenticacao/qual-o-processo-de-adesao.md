@@ -9,14 +9,14 @@ nav_order: 2
 
 Para a adesão ao com o Serviço de Autenticação deverá seguir os procedimentos:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/autenticacao_adesao.png" alt="Processo de adesão ao com o Serviço de Autenticação">
-  <h5>Processo de adesão ao com o Serviço de Autenticação</h5>
+Processo de adesão ao com o Serviço de Autenticação
 </div>
 <br>
 
-<!-- Table Content -->
 <table>
+  <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -55,3 +55,5 @@ Para a adesão ao com o Serviço de Autenticação deverá seguir os procediment
   <tr>
     <td><strong>7.</strong></td>
     <td>AMA e Entidade Aderente</td>
+</table>
+

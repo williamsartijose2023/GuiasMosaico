@@ -11,9 +11,9 @@ A adesão ao dados.gov, é feita diretamente no [portal](https://dados.gov.pt/pt
 
 Este processo de adesão refere-se apenas aos perfis de fornecedor/participante ou utilizador registado, pois o acesso ou consulta dos dados públicos disponíveis não requer registo ou adesão.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/dados 1.png" alt="Processo de adesão ao dados.gov">
-  <h5>Processo de adesão ao dados.gov</h5>
+  Processo de adesão ao dados.gov
 </div>
 <br>
 

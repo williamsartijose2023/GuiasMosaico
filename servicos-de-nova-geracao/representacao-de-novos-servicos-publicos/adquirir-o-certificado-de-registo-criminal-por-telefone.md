@@ -93,9 +93,9 @@ Os diagramas de arquitetura apresentados neste documento, foram definidos com ba
 
 Pedido do certificado de registo criminal de pessoas singulares
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(2).png" alt="Vista alto nível do serviço">
-  <h5>Vista alto nível do serviço</h5>
+  Vista alto nível do serviço
 </div>
 <br>
 
@@ -112,9 +112,9 @@ Pedido do certificado de registo criminal de pessoas singulares
 
 Processo de Negócio: Pedir o certificado de registo criminal de pessoas singulares - Cidadão
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(39).png" alt="Vista do Processo de Negócio: Pedir o certificado de registo criminal de pessoas singulares - Cidadão">
-  <h5>Vista do Processo de Negócio: Pedir o certificado de registo criminal de pessoas singulares - Cidadão</h5>
+  Vista do Processo de Negócio: Pedir o certificado de registo criminal de pessoas singulares - Cidadão
 </div>
 <br>
 
@@ -131,9 +131,9 @@ Processo de Negócio: Pedir o certificado de registo criminal de pessoas singula
 
 Processo de Negócio: Pedir o certificado de registo criminal de pessoas singulares – Operador
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(31).png" alt="Vista do Processo de Negócio: Pedir o certificado de registo criminal de pessoas singulares - Operador">
-  <h5>Vista do Processo de Negócio: Pedir o certificado de registo criminal de pessoas singulares - Operador</h5>
+  Vista do Processo de Negócio: Pedir o certificado de registo criminal de pessoas singulares - Operador
 </div>
 <br>
 
@@ -158,9 +158,9 @@ Processo de Negócio: Pedir o certificado de registo criminal de pessoas singula
 
 Processo Aplicacional: Pedir o certificado de registo criminal de pessoas singulares no canal telefónico - Cidadão
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(33).png" alt="Vista do Processo Aplicacional do serviço - Pedir o certificado de registo criminal de pessoas singulares no canal telefónico - Cidadão">
-  <h5>Vista do Processo Aplicacional do serviço - Pedir o certificado de registo criminal de pessoas singulares no canal telefónico - Cidadão</h5>
+  Vista do Processo Aplicacional do serviço - Pedir o certificado de registo criminal de pessoas singulares no canal telefónico - Cidadão
 </div>
 <br>
 
@@ -173,9 +173,9 @@ Processo Aplicacional: Pedir o certificado de registo criminal de pessoas singul
 
 Processo Aplicacional: Pedir o certificado de registo criminal de pessoas singulares no canal telefónico – Operador
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(35).png" alt="Vista do Processo Aplicacional do serviço - Pedir o certificado de registo criminal de pessoas singulares no canal telefónico - Operador">
-  <h5>Vista do Processo Aplicacional do serviço - Pedir o certificado de registo criminal de pessoas singulares no canal telefónico - Operador</h5>
+  Vista do Processo Aplicacional do serviço - Pedir o certificado de registo criminal de pessoas singulares no canal telefónico - Operador
 </div>
 <br>
 
@@ -190,9 +190,9 @@ Processo Aplicacional: Pedir o certificado de registo criminal de pessoas singul
 
 E é suportada pelas Plataformas Comuns:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(34).png" alt="Vista das Plataformas comuns utilizadas no serviço">
-  <h5>Vista das Plataformas comuns utilizadas no serviço</h5>
+  Vista das Plataformas comuns utilizadas no serviço
 </div>
 <br>
 
@@ -206,9 +206,9 @@ E é suportada pelas Plataformas Comuns:
 
 Arquitetura completa do serviço Pedido do certificado de registo criminal de pessoas singulares
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/registo%20criminal%201.png" alt="Vista Global do serviço">
-  <h5>Vista Global do serviço</h5>
+  Vista Global do serviço
 </div>
 <br>
 

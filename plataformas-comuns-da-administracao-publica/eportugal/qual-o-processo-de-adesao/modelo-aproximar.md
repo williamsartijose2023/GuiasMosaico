@@ -14,9 +14,9 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 
 ## Processo
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/eportugal%20aproximar.png" alt="Processo de adesão ePortugal – Modelo Aproximar">
-  <h5>Processo de adesão ePortugal – Modelo Aproximar</h5>
+  Processo de adesão ePortugal – Modelo Aproximar
 </div>
 <br>
 

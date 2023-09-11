@@ -8,9 +8,9 @@ nav_order: 2
 
 Apresenta-se nesta área as várias atividades a realizar para aderir ao LAE.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../../assets/images/LAE%20adesao.png" alt="Processo de Adesão do LAE">
-  <h5>Processo de Adesão do LAE</h5>
+  Processo de Adesão do LAE
 </div>
 <br>
 

@@ -8,9 +8,9 @@ nav_order: 2
 
 O LAE tem a **arquitetura** apresentada no **diagrama de alto nível** (abaixo), onde se representa, na **Camada de Negócio,** os atores e papéis desempenhados, os serviços e os processos de negócio, e na **Camada Aplicacional**, os serviços aplicacionais que realizam os processos de negócio.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/lae.png" alt="Diagrama de alto nível do LAE – Livro Amarelo Eletrónico">
-  <h5>Diagrama de alto nível do LAE – Livro Amarelo Eletrónico</h5>
+  Diagrama de alto nível do LAE – Livro Amarelo Eletrónico
 </div>
 <br>
 

@@ -11,9 +11,9 @@ nav_order: 1
 A figura seguinte pretende exemplificar, de forma sumária e transversal, a utilização do Serviço de Autenticação com base num caso de uso de autenticação de um utilizador junto de uma entidade utilizando o Cartão de Cidadão.
 
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/MicrosoftTeams-image (3) (1).png" alt="No diagrama acima identificam-se as seguintes interações:">
-  <h5>No diagrama acima identificam-se as seguintes interações:</h5>
+  No diagrama acima identificam-se as seguintes interações:
 </div>
 <br>
 

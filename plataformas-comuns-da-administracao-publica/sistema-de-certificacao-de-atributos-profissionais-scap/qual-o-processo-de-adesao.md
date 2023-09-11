@@ -13,9 +13,9 @@ A integração de novos Fornecedores de Atributos no SCAP é da responsabilidade
 
 Para a adesão ao SCAP seguir os procedimentos:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/MicrosoftTeams-image (8) (1).png" alt="Processo de adesão ao SCAP">
-  <h5>Processo de adesão ao SCAP</h5>
+  Processo de adesão ao SCAP
 </div>
 <br>
 

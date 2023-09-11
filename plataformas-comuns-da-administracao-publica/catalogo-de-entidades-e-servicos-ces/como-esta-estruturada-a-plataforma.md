@@ -14,9 +14,9 @@ Na Camada Aplicacional estão representados os objetos de dados que realizam os 
 
 Este bloco de construção tem dependência com outro bloco de contrução (iAP-PI), para disponibilizar algumas das suas funcionalidades, e também com outra aplicação (SIOE). Esta representação é mostrada no diagrama como “dependências da solução”.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/ces.png" alt="Diagrama de alto nível do CES">
-  <h5>Diagrama de alto nível do CES</h5>
+  Diagrama de alto nível do CES
 </div>
 <br>
 

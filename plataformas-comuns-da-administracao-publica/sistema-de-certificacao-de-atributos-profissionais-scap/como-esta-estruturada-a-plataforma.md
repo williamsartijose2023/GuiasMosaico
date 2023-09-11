@@ -14,9 +14,9 @@ Na Camada Aplicacional estão representados os serviços aplicacionais que reali
 
 Este bloco de construção tem dependência com outros blocos de contrução (iAP e Portal Autenticação.gov), para disponibilizar algumas das suas funcionalidades, e também de outras aplicações externas (SIRCOM e Fornecedor de Atributos). Esta representação é mostrada no diagrama como “dependências da solução”.&#x20;
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/scap.png" alt="Diagrama de Arquitetura alto nível do SCAP">
-  <h5>Diagrama de Arquitetura alto nível do SCAP</h5>
+  Diagrama de Arquitetura alto nível do SCAP
 </div>
 <br>
 
@@ -54,9 +54,9 @@ Os atributos profissionais podem ser:
 
 A comunicação entre o SCAP e os Fornecedores de Atributos é feita de forma assíncrona e é despoletada pelo SCAP.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/SCAP-estrutura.png" alt="Integração do SCAP">
-  <h5>Integração do SCAP</h5>
+  Integração do SCAP
 </div>
 <br>
 O SCAP envia um pedido de consulta de atributos ao Fornecedor de Atributos de um cidadão, o Fornecedor de Atributos efetua o processamento do pedido e invoca, sequencialmente, um serviço da iAP com a resposta ao pedido de atributos e outro serviço para validação da operação. Este último serviço só pode ser invocado se o cidadão tiver atributos ativos.

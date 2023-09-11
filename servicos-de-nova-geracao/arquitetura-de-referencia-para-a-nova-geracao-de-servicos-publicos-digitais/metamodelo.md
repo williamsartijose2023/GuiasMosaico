@@ -11,9 +11,9 @@ O Metamodelo é um modelo que permite explicitar que elementos são essenciais n
 
 Tendo em conta o âmbito e foco da Arquitetura de Referência aqui descrita, e tendo em vista a apresentação de uma arquitetura tão simples quanto possível, optou-se por apresentar apenas os elementos arquiteturais essenciais ao âmbito e objetivos da presente arquitetura, e que estão ilustrados na figura seguinte.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20metamodelo.PNG" alt="Metamodelo da Arquitetura de Solução">
-  <h5>Metamodelo da Arquitetura de Solução</h5>
+  Metamodelo da Arquitetura de Solução
 </div>
 <br>
 
@@ -22,9 +22,9 @@ Na **camada de Negócio** apresentamos:
 * O Serviço Público Digital a criar, a informação necessária e resultante do serviço (Objeto de Negócio) e os papeis de negócio que acedem ao serviço (Utilizador de Serviços Digitais).
 * A sequência de atividades necessárias à realização do serviço, expressa num Processo de Negócio, bem como os seus intervenientes, tanto os utilizadores do serviço, como os elementos dos organismos que asseguram a prestação do serviço (Prestador de Serviços Digitais). Podem ser adicionadas etapas que não requerem suporte tecnológico, mas traduzem a jornada de utilizador.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20fase%201.PNG" alt="Processo de Negócio">
-  <h5>Processo de Negócio</h5>
+  Processo de Negócio
 </div>
 <br>
 
@@ -36,9 +36,9 @@ Na camada Aplicacional apresentamos os elementos essenciais da solução aplicac
 
 * Processos aplicacionais, que desagregam o comportamento (funcionalidades) da solução aplicacional a desenvolver em etapas, para que, em cada etapa, se possa associar aos componentes das Plataformas Comuns a reutilizar (mais especificamente às suas interfaces), ou a novos componentes da solução a desenvolver.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20fase%202.PNG" alt="Processo Aplicacional">
-  <h5>Processo Aplicacional</h5>
+  Processo Aplicacional
 </div>
 <br>
 

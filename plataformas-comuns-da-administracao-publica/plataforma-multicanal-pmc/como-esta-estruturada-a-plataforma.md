@@ -13,8 +13,8 @@ Na Camada Aplicacional estão representados os serviços aplicacionais que reali
 
 Este bloco de construção tem dependência com outros blocos de construção (eForms, Gateway de SMS, ePortugal, Plataforma de Pagamentos, iAP-PI, Catálogo de Entidades e Serviços, e Plataforma de Notificações Eletrónicas), e também com a solução _Enterprise Service Bus_ (ESB).
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/pmc.png" alt="Diagrama de Arquitetura alto nível PMC">
-  <h5>Diagrama de Arquitetura alto nível PMC</h5>
+  Diagrama de Arquitetura alto nível PMC
 </div>
 <br>

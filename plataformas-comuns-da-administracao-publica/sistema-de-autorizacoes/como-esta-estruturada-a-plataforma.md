@@ -7,9 +7,9 @@ nav_order: 3
 
 # Como está estruturada a plataforma?
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/sistema%20autorizacoes.png" alt="Diagrama de arquitetura de alto nível do Sistema de Autorizações">
-  <h5>Diagrama de arquitetura de alto nível do Sistema de Autorizações</h5>
+  Diagrama de arquitetura de alto nível do Sistema de Autorizações
 </div>
 <br>
 

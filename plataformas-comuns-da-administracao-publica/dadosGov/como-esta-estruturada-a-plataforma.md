@@ -11,8 +11,8 @@ O dados.gov baseia-se na plataforma [Udata](https://udata.readthedocs.io/en/stab
 
 Abaixo o diagrama de alto nível do dados.gov, demonstrando na Camada de Negócio os atores e papéis envolvidos, os serviços de negócio e os processos, e na Camada Aplicacional os serviços aplicacionais que realizam seus processos.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/dadosgov.png" alt="Diagrama de arquitetura de alto nível dados.gov">
-  <h5>Diagrama de arquitetura de alto nível dados.gov</h5>
+  Diagrama de arquitetura de alto nível dados.gov
 </div>
 <br>

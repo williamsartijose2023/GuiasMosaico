@@ -84,9 +84,9 @@ Apresenta:
 
 Consulta de pontos da carta de condução.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(8).png" alt="Vista alto nível do serviço Consulta de pontos da carta de condução">
-  <h5>Vista alto nível do serviço Consulta de pontos da carta de condução</h5>
+  Vista alto nível do serviço Consulta de pontos da carta de condução
 </div>
 <br>
 
@@ -102,9 +102,9 @@ Consulta de pontos da carta de condução.
 
 Consultar pontos da carta de condução.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(19).png" alt="Vista do Processo de Negócio do serviço Consultar pontos da carta de condução">
-  <h5>Vista do Processo de Negócio do serviço Consultar pontos da carta de condução</h5>
+  Vista do Processo de Negócio do serviço Consultar pontos da carta de condução
 </div>
 <br>
 
@@ -129,9 +129,9 @@ Consultar pontos da carta de condução.
 
 Consulta de processos de contraordenação rodoviária.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(16).png" alt="Vista alto nível do serviço Consulta de processos de contraordenação rodoviária">
-  <h5>Vista alto nível do serviço Consulta de processos de contraordenação rodoviária</h5>
+  Vista alto nível do serviço Consulta de processos de contraordenação rodoviária
 </div>
 <br>
 
@@ -150,9 +150,9 @@ Condutor:
 
 Consulta de processos de contraordenação rodoviária.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(26).png" alt="Vista do Processo de Negócio Consulta de processos de contraordenação rodoviária">
-  <h5>Vista do Processo de Negócio Consulta de processos de contraordenação rodoviária</h5>
+  Vista do Processo de Negócio Consulta de processos de contraordenação rodoviária
 </div>
 <br>
 
@@ -178,9 +178,9 @@ Consulta de processos de contraordenação rodoviária.
 
 Consultar pontos da carta de condução.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(18).png" alt="Vista do Processo Aplicacional do serviço Consultar Pontos da Carta de Condução">
-  <h5>Vista do Processo Aplicacional do serviço Consultar Pontos da Carta de Condução</h5>
+  Vista do Processo Aplicacional do serviço Consultar Pontos da Carta de Condução
 </div>
 <br>
 
@@ -194,9 +194,9 @@ Consultar pontos da carta de condução.
 
 A realização das etapas do processo aplicacional, é suportada pelas soluções:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(27).png" alt="Vista das Solução Aplicacionais que suportam o serviço Consulta de pontos da carta de condução">
-  <h5>Vista das Solução Aplicacionais que suportam o serviço Consulta de pontos da carta de condução</h5>
+  Vista das Solução Aplicacionais que suportam o serviço Consulta de pontos da carta de condução
 </div>
 <br>
 
@@ -209,9 +209,9 @@ A realização das etapas do processo aplicacional, é suportada pelas soluçõe
 
 E é suportada também pelas Plataformas Comuns:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(4).png" alt="Vista das Plataformas comuns utilizadas no serviço Consulta de pontos da carta de condução">
-  <h5>Vista das Plataformas comuns utilizadas no serviço Consulta de pontos da carta de condução</h5>
+  Vista das Plataformas comuns utilizadas no serviço Consulta de pontos da carta de condução
 </div>
 <br>
 
@@ -226,9 +226,9 @@ E é suportada também pelas Plataformas Comuns:
 
 #### Arquitetura completa do serviço
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/MicrosoftTeams-image%20(8).png" alt="Vista Global do serviço Consulta de pontos da carta de condução">
-  <h5>Vista Global do serviço Consulta de pontos da carta de condução</h5>
+  Vista Global do serviço Consulta de pontos da carta de condução
 </div>
 <br>
 
@@ -239,9 +239,9 @@ E é suportada também pelas Plataformas Comuns:
 
 Consultar Processos de Contraordenação Rodoviária.
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(23).png" alt="Vista do Processo Aplicacional Consultar processos de contraordenação rodoviária">
-  <h5>Vista do Processo Aplicacional Consultar processos de contraordenação rodoviária</h5>
+  Vista do Processo Aplicacional Consultar processos de contraordenação rodoviária
 </div>
 <br>
 
@@ -257,9 +257,9 @@ Consultar Processos de Contraordenação Rodoviária.
 
 A realização das etapas do processo aplicacional, é suportada pelas soluções:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(20).png" alt="Vista das Soluções Aplicacionais que suportam o serviço Consulta de processos de contraordenação rodoviária">
-  <h5>Vista das Soluções Aplicacionais que suportam o serviço Consulta de processos de contraordenação rodoviária</h5>
+  Vista das Soluções Aplicacionais que suportam o serviço Consulta de processos de contraordenação rodoviária
 </div>
 <br>
 
@@ -273,9 +273,9 @@ A realização das etapas do processo aplicacional, é suportada pelas soluçõe
 
 E é suportada também pelas Plataformas Comuns:
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/image%20(22).png" alt="Vista das Plataformas comuns utilizadas no serviço Consulta de Processos de contraordenação rodoviária">
-  <h5>Vista das Plataformas comuns utilizadas no serviço Consulta de Processos de contraordenação rodoviária</h5>
+  Vista das Plataformas comuns utilizadas no serviço Consulta de Processos de contraordenação rodoviária
 </div>
 <br>
 
@@ -293,9 +293,9 @@ E é suportada também pelas Plataformas Comuns:
 Arquitetura completa do serviço consulta de processos de contraordenação rodoviária.
 
 
-<div align="center">
+<div style="text-align: center;">
   <img src="../../assets/images/MicrosoftTeams-image%20(9).png" alt="Vista Global do serviço Consulta de processos de contraordenação rodoviária">
-  <h5>Vista Global do serviço Consulta de processos de contraordenação rodoviária</h5>
+  Vista Global do serviço Consulta de processos de contraordenação rodoviária
 </div>
 <br>
 
