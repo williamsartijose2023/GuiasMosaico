@@ -93,21 +93,62 @@ O resultado desta primeira iteração do desenho da arquitetura é a especifica�
 
 
 ### Necessidades e Preocupações de negócio
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">ID</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Necessidade Identificada</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Preocupações</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Solução Atual</th>
+  </tr>
+  <tr>
+    <td>N1</td>
+    <td>Capacidade de integração do ePortugal com o SIVH do IMT e com o SFA2 da AT</td>
+    <td>Interoperabilidade entre os vários sistemas de informação que permitam a disponibilização de uma visão global e integrada da informação dos procedimentos de troca de matrícula</td>
+    <td>Os funcionários do IMT têm acesso ao backoffice das plataformas do IMT e da AT, onde registam os pedidos manualmente</td>
+  </tr>
+  <tr>
+    <td>N2</td>
+    <td>Capacidade de Integração do SCCT do IMT com SFA2 da AT</td>
+    <td>Interoperabilidade entre os vários sistemas de informação que permitam a tramitação eficiente dos procedimentos de troca de matrícula</td>
+    <td>Inexistente</td>
+  </tr>
+  <tr>
+    <td>N3</td>
+    <td>Organização dos documentos relativos ao procedimento</td>
+    <td>Desmaterialização de documentos que circulam para execução dos procedimentos de troca de matrícula</td>
+    <td>Inexistente</td>
+  </tr>
+</table>
 
-| ID | Necessidade Identificada                                                   | Preocupações                                                                                                                                                                    | Solução Atual                                                                                                       |
-| -- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| N1 | Capacidade de integração do ePortugal com o SIVH do IMT e com o SFA2 da AT | Interoperabilidade entre os vários sistemas de informação que permitam a disponibilização de uma visão global e integrada da informação dos procedimentos de troca de matrícula | Os funcionários do IMT tem acesso ao backoffice das plataformas do IMT e da AT onde registam os pedidos manualmente |
-| N2 | Capacidade de Integração do SCCT do IMT com SFA2 da AT                     | Interoperabilidade entre os vários sistemas de informação que permitam a tramitação eficiente dos procedimentos de troca de matrícula                                           | Inexistente                                                                                                         |
-| N3 | Organização dos documentos relativos ao procedimento                       | Desmaterialização de documentos que circulam para execução dos procedimentos de troca de matrícula                                                                              | Inexistente                                                                                                         |
+
 
 ### Constrangimentos
 
-| ID | Constrangimento                                                                                                                                                                                                                                                                                            |
-| -- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| C1 | Dependência da mudança cultural dos utilizadores nas suas atividades para a nova solução.                                                                                                                                                                                                                  |
-| C2 | Os recursos tecnológicos usados pelos utilizadores do serviço sejam compatíveis com os padrões tecnológicos usados.                                                                                                                                                                                        |
-| C3 | Os serviços disponibilizados pela solução pressupõem que os seus utilizadores já se encontram registados no ePortugal.GOV. O registo só é necessário para acesso à área reservada. Para executar os serviços tipicamente é apenas solicitada a autenticação pelo Cartão do Cidadão ou Chave Móvel Digital. |
-| C4 | Os serviços disponibilizados pelas plataformas comuns para esta solução pressupõem que as partes interessadas procedam à respetiva adesão.                                                                                                                                                                 |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">ID</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Constrangimento</th>
+  </tr>
+  <tr>
+    <td>C1</td>
+    <td>Dependência da mudança cultural dos utilizadores nas suas atividades para a nova solução.</td>
+  </tr>
+  <tr>
+    <td>C2</td>
+    <td>Os recursos tecnológicos usados pelos utilizadores do serviço sejam compatíveis com os padrões tecnológicos usados.</td>
+  </tr>
+  <tr>
+    <td>C3</td>
+    <td>Os serviços disponibilizados pela solução pressupõem que os seus utilizadores já se encontram registados no ePortugal.GOV. O registo só é necessário para acesso à área reservada. Para executar os serviços tipicamente é apenas solicitada a autenticação pelo Cartão do Cidadão ou Chave Móvel Digital.</td>
+  </tr>
+  <tr>
+    <td>C4</td>
+    <td>Os serviços disponibilizados pelas plataformas comuns para esta solução pressupõem que as partes interessadas procedam à respetiva adesão.</td>
+  </tr>
+</table>
+
 
 ## TOGAF ADM - Arquitetura de Sistemas de Informação
 
@@ -155,36 +196,90 @@ Podem ser adotadas outras soluções de suporte aos processos aplicacionais acim
 
 Identificação e Autenticação
 
-| Plataforma Comum                | Macro Serviço                           |
-| ------------------------------- | --------------------------------------- |
-| Fornecedor de Autenticação (FA) | Autenticação                            |
-| Fornecedor de Autenticação (FA) | Obtenção de atributos cartão de cidadão |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Macro Serviço</th>
+  </tr>
+  <tr>
+    <td>Fornecedor de Autenticação (FA)</td>
+    <td>Autenticação</td>
+  </tr>
+  <tr>
+    <td>Fornecedor de Autenticação (FA)</td>
+    <td>Obtenção de atributos cartão de cidadão</td>
+  </tr>
+</table>
+
 
 Integração e Interoperabilidade
 
-| Plataforma Comum                        | Macro Serviço     |
-| --------------------------------------- | ----------------- |
-| iAP-Plataforma de Integração da AP (PI) | Integração        |
-| iAP-Plataforma de Integração da AP (PI) | Gestão do serviço |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Macro Serviço</th>
+  </tr>
+  <tr>
+    <td>iAP-Plataforma de Integração da AP (PI)</td>
+    <td>Integração</td>
+  </tr>
+  <tr>
+    <td>iAP-Plataforma de Integração da AP (PI)</td>
+    <td>Gestão do serviço</td>
+  </tr>
+</table>
+
 
 Pagamentos
 
-| Plataforma Comum                    | Macro Serviço                |
-| ----------------------------------- | ---------------------------- |
-| iAP-Plataforma de Pagamentos (PPAP) | Geração de meios de cobrança |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Macro Serviço</th>
+  </tr>
+  <tr>
+    <td>iAP-Plataforma de Pagamentos (PPAP)</td>
+    <td>Geração de meios de cobrança</td>
+  </tr>
+</table>
+
+
 
 Atendimento/Suporte a Canais
 
-| Plataforma Comum    | Macro Serviço                           |
-| ------------------- | --------------------------------------- |
-| Bolsa de Documentos | Gestão de documentos                    |
-| ePortugal.gov       | Acesso eletrónico aos serviços públicos |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Macro Serviço</th>
+  </tr>
+  <tr>
+    <td>Bolsa de Documentos</td>
+    <td>Gestão de documentos</td>
+  </tr>
+  <tr>
+    <td>ePortugal.gov</td>
+    <td>Acesso eletrónico aos serviços públicos</td>
+  </tr>
+</table>
+
 
 Mensagens e Notificações
 
-| Plataforma Comum                                    | Macro Serviço |
-| --------------------------------------------------- | ------------- |
-| Plataforma de Notificações Eletrónicas da AP (SPNE) | Notificações  |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Macro Serviço</th>
+  </tr>
+  <tr>
+    <td>Plataforma de Notificações Eletrónicas da AP (SPNE)</td>
+    <td>Notificações</td>
+  </tr>
+</table>
 
 <div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20plataformas%20comuns.PNG" alt="Plataformas Comuns Utilizadas - Troca de Matrícula Estrangeira">

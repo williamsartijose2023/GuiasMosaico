@@ -44,13 +44,33 @@ O conjunto de serviços integrados no evento de vida “Mudar de Morada é Fáci
 
 O evento de vida “Mudar de Morada é Fácil”, inclui também os serviços listados na tabela abaixo.
 
-| Serviço Digital                                             | Entidade Responsável                                             |
-| ----------------------------------------------------------- | ---------------------------------------------------------------- |
-| Inscrição nos serviços municipalizados de água e saneamento | Serviços da Administração local/regional (CIM’s e/ou Municípios) |
-| Inscrição na Rede de Bibliotecas Municipais                 | Serviços da Administração local/regional (CIM’s e/ou Municípios) |
-| Pedido de título de transporte​                             | Serviços da Administração local/regional (CIM’s e/ou Municípios) |
-| Transferir educandos para a nova escola                     | Serviços da Administração Central - Educação (DGEEC)             |
-| Confirmar a Alteração da Morada no Cartão de Cidadão.       | Instituto dos Registos e do Notariado, I.P. (IRN)                |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Serviço Digital</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
+  </tr>
+  <tr>
+    <td>Inscrição nos serviços municipalizados de água e saneamento</td>
+    <td>Serviços da Administração local/regional (CIM’s e/ou Municípios)</td>
+  </tr>
+  <tr>
+    <td>Inscrição na Rede de Bibliotecas Municipais</td>
+    <td>Serviços da Administração local/regional (CIM’s e/ou Municípios)</td>
+  </tr>
+  <tr>
+    <td>Pedido de título de transporte</td>
+    <td>Serviços da Administração local/regional (CIM’s e/ou Municípios)</td>
+  </tr>
+  <tr>
+    <td>Transferir educandos para a nova escola</td>
+    <td>Serviços da Administração Central - Educação (DGEEC)</td>
+  </tr>
+  <tr>
+    <td>Confirmar a Alteração da Morada no Cartão de Cidadão.</td>
+    <td>Instituto dos Registos e do Notariado, I.P. (IRN)</td>
+  </tr>
+</table>
 
 Conforme definido no Programa de Recuperação e Resiliência (PRR), estes serviços devem cumprir um conjunto de requisitos associados ao paradigma de “Serviços Públicos de Nova Geração”, nomeadamente:
 
@@ -69,12 +89,32 @@ Apresenta:
 
 ### Necessidades de negócio
 
-| Necessidade                                                                            | Descrição                                                                                                                                                                                                                                                                                                                                                                     |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Simplificar o atual processo de mudança de morada                                      | <p>É necessário simplificar o processo atual de mudança de morada do cidadão, que atualmente necessita da aplicação autenticação.gov para computador e de um leitor de cartões, para confirmação da alteração da mesma.</p><p>A confirmação de alteração de morada deverá ser feita no portal ePortugal, através do novo serviço digital “Confirmar alteração de morada”.</p> |
-| Disponibilizar ao cidadão um conjunto de serviços relacionados com a mudança de morada | No portal ePortugal, o evento de vida “Mudar de Morada é Fácil”, deverá disponibilizar ao cidadão, numa área comum, um conjunto de serviços relacionados com a mudança de morada.                                                                                                                                                                                             |
-| Autenticar utilizando plataforma comum autenticação.gov                                | O novo serviço de confirmação de morada, deverá utilizar a plataforma comum autenticação.gov para o cidadão se autenticar no mesmo.                                                                                                                                                                                                                                           |
-| Disponibilizar informação sobre Município da nova morada                               | Após a conclusão do processo de confirmação de morada, o cidadão poderá escolher a opção “conhecer serviços disponíveis” para aceder a uma página, também disponibilizada no portal ePortugal, com os serviços disponíveis para o seu novo município.                                                                                                                         |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Necessidade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Simplificar o atual processo de mudança de morada</td>
+    <td>
+      <p>É necessário simplificar o processo atual de mudança de morada do cidadão, que atualmente necessita da aplicação autenticação.gov para computador e de um leitor de cartões, para confirmação da alteração da mesma.</p>
+      <p>A confirmação de alteração de morada deverá ser feita no portal ePortugal, através do novo serviço digital “Confirmar alteração de morada”.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Disponibilizar ao cidadão um conjunto de serviços relacionados com a mudança de morada</td>
+    <td>No portal ePortugal, o evento de vida “Mudar de Morada é Fácil”, deverá disponibilizar ao cidadão, numa área comum, um conjunto de serviços relacionados com a mudança de morada.</td>
+  </tr>
+  <tr>
+    <td>Autenticar utilizando plataforma comum autenticação.gov</td>
+    <td>O novo serviço de confirmação de morada, deverá utilizar a plataforma comum autenticação.gov para o cidadão se autenticar no mesmo.</td>
+  </tr>
+  <tr>
+    <td>Disponibilizar informação sobre Município da nova morada</td>
+    <td>Após a conclusão do processo de confirmação de morada, o cidadão poderá escolher a opção “conhecer serviços disponíveis” para aceder a uma página, também disponibilizada no portal ePortugal, com os serviços disponíveis para o seu novo município.</td>
+  </tr>
+</table>
 
 ### Pressupostos
 
@@ -92,8 +132,9 @@ Confirmar Alteração de Morada
 
 <div style="text-align: center;">
   <img src="../../assets/images/image%20(14).png" alt="Vista alto nível do serviço">
-  Vista alto nível do serviço
 </div>
+ <div style="text-align: center;">Vista alto nível do serviço</div>
+
 <br>
 
 ### Objetos de negócio do serviço
@@ -112,17 +153,49 @@ Confirmar Alteração de Morada
 </div>
 <br>
 
-| Atividade                           | Descrição                                                                                                                                                                                                                                                   |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Acesso ePortugal após receber carta | O processo começa com o recebimento, por parte do cidadão, de uma carta de confirmação com um código, enviada para a morada registada no pedido de alteração de morada. Após receber a carta o cidadão acede ao portal ePortugal.                           |
-| Aceder Guia Prático Mudar de Casa   | No portal ePortugal, o cidadão acede à página Guia Prático - Mudar de Casa.                                                                                                                                                                                 |
-| Selecionar serviço                  | Na página Guia Prático - Mudar de Casa, o cidadão seleciona serviço Confirmação de troca de morada e acede ao mesmo.                                                                                                                                        |
-| Visualizar Ficha de Serviço         | O cidadão é redirecionado para a ficha de serviço, com informação sobre o mesmo.                                                                                                                                                                            |
-| Autenticar                          | O cidadão efetua o login, utilizando o cartão de cidadão, ou chave móvel digital.                                                                                                                                                                           |
-| Visualizar Informação do Serviço    | O cidadão é encaminhado para uma página, onde visualiza informação sobre o serviço. Nesta página, seleciona uma opção para continuar.                                                                                                                       |
-| Visualizar Informação do Processo   | O cidadão é encaminhado para uma página, onde visualiza informação sobre o estado do processo de alteração de morada. Nesta página, seleciona uma opção para continuar.                                                                                     |
-| Inserir Código de Confirmação       | O cidadão insere o código enviado na carta de confirmação, para a morada registada no pedido de alteração de morada                                                                                                                                         |
-| Visualizar página de Conclusão      | O cidadão é encaminhado para a página de conclusão do processo. Nesta, poderá escolher a opção “conhecer serviços disponíveis” para aceder a uma página, também disponibilizada no portal ePortugal, com os serviços disponíveis para o seu novo município. |
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Acesso ePortugal após receber carta</td>
+    <td>O processo começa com o recebimento, por parte do cidadão, de uma carta de confirmação com um código, enviada para a morada registada no pedido de alteração de morada. Após receber a carta o cidadão acede ao portal ePortugal.</td>
+  </tr>
+  <tr>
+    <td>Aceder Guia Prático Mudar de Casa</td>
+    <td>No portal ePortugal, o cidadão acede à página Guia Prático - Mudar de Casa.</td>
+  </tr>
+  <tr>
+    <td>Selecionar serviço</td>
+    <td>Na página Guia Prático - Mudar de Casa, o cidadão seleciona serviço Confirmação de troca de morada e acede ao mesmo.</td>
+  </tr>
+  <tr>
+    <td>Visualizar Ficha de Serviço</td>
+    <td>O cidadão é redirecionado para a ficha de serviço, com informação sobre o mesmo.</td>
+  </tr>
+  <tr>
+    <td>Autenticar</td>
+    <td>O cidadão efetua o login, utilizando o cartão de cidadão, ou chave móvel digital.</td>
+  </tr>
+  <tr>
+    <td>Visualizar Informação do Serviço</td>
+    <td>O cidadão é encaminhado para uma página, onde visualiza informação sobre o serviço. Nesta página, seleciona uma opção para continuar.</td>
+  </tr>
+  <tr>
+    <td>Visualizar Informação do Processo</td>
+    <td>O cidadão é encaminhado para uma página, onde visualiza informação sobre o estado do processo de alteração de morada. Nesta página, seleciona uma opção para continuar.</td>
+  </tr>
+  <tr>
+    <td>Inserir Código de Confirmação</td>
+    <td>O cidadão insere o código enviado na carta de confirmação, para a morada registada no pedido de alteração de morada.</td>
+  </tr>
+  <tr>
+    <td>Visualizar página de Conclusão</td>
+    <td>O cidadão é encaminhado para a página de conclusão do processo. Nesta, poderá escolher a opção “conhecer serviços disponíveis” para aceder a uma página, também disponibilizada no portal ePortugal, com os serviços disponíveis para o seu novo município.</td>
+  </tr>
+</table>
+
 
 ## Arquitetura aplicacional
 
@@ -136,11 +209,25 @@ Confirmar Alteração de Morada
 </div>
 <br>
 
-| Atividade                       | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Apresentação de Conteúdos       | <p>O serviço de alteração de morada é totalmente realizado pela interface do portal ePortugal.</p><p>Ao aceder ao portal ePortugal, o cidadão pode pesquisar pelos serviços disponíveis.</p><p>Ao clicar no serviço que pretende realizar, o cidadão é redirecionado para a página do mesmo.</p><p>A apresentação da página inicial é feita pela interface do ePortugal, com base na informação registada na Ficha do Serviço no CES, onde também consta o destino e o tipo do redireccionamento a realizar.</p>                                                                                                                                                                                                                                  |
-| Autenticação com single sign-on | <p>O cidadão seleciona o serviço a que pretende aceder no portal ePortugal. É redirecionado para a página correspondente ao serviço, de acordo com o mapeamento definido na Ficha de Serviço.</p><p>Neste caso, a realização do serviço requer a prévia autenticação do cidadão.</p><p>A recolha dos dados de autenticação é feita pela plataforma comum “FA – Fornecedor de Autenticação”, que:</p><ul><li>informa o cidadão dos dados que serão recolhidos, de acordo com o solicitado pela solução;</li><li>aceita e valida as credenciais de autenticação introduzidas pelo cidadão;</li><li>obtém e transmite à solução, os dados solicitados.</li></ul><p>Após a autenticação com sucesso do cidadão, o controlo é atribuído à solução.</p> |
-| Apresentar Formulário           | A página de confirmação disponibilizará um formulário com um campo que recebe o código de confirmação. Este formulário é disponibilizado pela solução SAM.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Apresentação de Conteúdos</td>
+    <td>O serviço de alteração de morada é totalmente realizado pela interface do portal ePortugal. Ao aceder ao portal ePortugal, o cidadão pode pesquisar pelos serviços disponíveis. Ao clicar no serviço que pretende realizar, o cidadão é redirecionado para a página do mesmo. A apresentação da página inicial é feita pela interface do ePortugal, com base na informação registada na Ficha do Serviço no CES, onde também consta o destino e o tipo do redireccionamento a realizar.</td>
+  </tr>
+  <tr>
+    <td>Autenticação com single sign-on</td>
+    <td>O cidadão seleciona o serviço a que pretende aceder no portal ePortugal. É redirecionado para a página correspondente ao serviço, de acordo com o mapeamento definido na Ficha de Serviço. Neste caso, a realização do serviço requer a prévia autenticação do cidadão. A recolha dos dados de autenticação é feita pela plataforma comum “FA – Fornecedor de Autenticação”, que: informa o cidadão dos dados que serão recolhidos, de acordo com o solicitado pela solução; aceita e valida as credenciais de autenticação introduzidas pelo cidadão; obtém e transmite à solução, os dados solicitados. Após a autenticação com sucesso do cidadão, o controlo é atribuído à solução.</td>
+  </tr>
+  <tr>
+    <td>Apresentar Formulário</td>
+    <td>A página de confirmação disponibilizará um formulário com um campo que recebe o código de confirmação. Este formulário é disponibilizado pela solução SAM.</td>
+  </tr>
+</table>
 
 A realização das etapas do processo aplicacional, é suportada pela solução:
 
@@ -150,9 +237,17 @@ A realização das etapas do processo aplicacional, é suportada pela solução:
 </div>
 <br>
 
-| Solução Aplicacional | Serviços                                                                                            |
-| -------------------- | --------------------------------------------------------------------------------------------------- |
-| SAM                  | A solução SAM disponibiliza no portal ePortugal os serviços relacionados com a alteração de morada. |
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Solução Aplicacional</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+  </tr>
+  <tr>
+    <td>SAM</td>
+    <td>A solução SAM disponibiliza no portal ePortugal os serviços relacionados com a alteração de morada.</td>
+  </tr>
+</table>
+
 
 E é suportada também pelas Plataformas Comuns:
 
@@ -162,11 +257,24 @@ E é suportada também pelas Plataformas Comuns:
 </div>
 <br>
 
-| Plataforma Comum                       | Serviços                                                                                                                                                                                             |
-| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| FA - Fornecedor de Autenticação        | Realiza o serviço de autenticação no portal ePortugal.                                                                                                                                               |
-| ePortugal.gov                          | É através da interface do portal ePortugal, da aplicação ePortugal.gov, que o serviço de confirmação de alteração de morada é realizado.                                                             |
-| Catálogo de Entidades e Serviços (CES) | A apresentação da página inicial feita pela interface do ePortugal, tem como base a informação registada na Ficha do Serviço no CES, onde consta o destino e o tipo do redireccionamento a realizar. |
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+  </tr>
+  <tr>
+    <td>FA - Fornecedor de Autenticação</td>
+    <td>Realiza o serviço de autenticação no portal ePortugal.</td>
+  </tr>
+  <tr>
+    <td>ePortugal.gov</td>
+    <td>É através da interface do portal ePortugal, da aplicação ePortugal.gov, que o serviço de confirmação de alteração de morada é realizado.</td>
+  </tr>
+  <tr>
+    <td>Catálogo de Entidades e Serviços (CES)</td>
+    <td>A apresentação da página inicial feita pela interface do ePortugal, tem como base a informação registada na Ficha do Serviço no CES, onde consta o destino e o tipo do redireccionamento a realizar.</td>
+  </tr>
+</table>
 
 ### Arquitetura completa do serviço confirmação de alteração de morada
 

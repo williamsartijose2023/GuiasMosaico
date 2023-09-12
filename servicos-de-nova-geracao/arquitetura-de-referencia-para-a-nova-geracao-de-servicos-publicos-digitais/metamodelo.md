@@ -24,8 +24,8 @@ Na **camada de Negócio** apresentamos:
 
 <div style="text-align: center;">
   <img src="../../assets/images/arq%20ref%20fase%201.PNG" alt="Processo de Negócio">
-  Processo de Negócio
 </div>
+ <div style="text-align: center;">Processo de Negócio</div>
 <br>
 
 Em síntese, um Serviço Público Digital, serve um utilizador, acede a objetos de negócio, e é realizado por um processo de negócio, que tem como intervenientes o utilizador e o prestador do Serviço Público Digital, estando este a ele assignados.&#x20;

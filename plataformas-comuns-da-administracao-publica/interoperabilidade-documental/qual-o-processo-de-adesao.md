@@ -8,13 +8,35 @@ nav_order: 2
 
 <div style="text-align: center;">
   <img src="../../assets/images/inter%20doc.png" alt="Processo de Adesão Interoperabilidade Documental">
-  Processo de Adesão Interoperabilidade Documental
 </div>
+ <div style="text-align: center;">Processo de Adesão Interoperabilidade Documental</div>
 <br>
 
-| Passos                           | Entidade Responsável | Descrição                                                                                                                                                                                                                                               |
-| -------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. Pedido de adesão formal à AMA | AMA                  | Preencha o [formulário de adesão](https://www.iap.gov.pt/web/iap/formulario-de-adesao?serviceId=4) a indicar o(s) serviço(s) a consumir, se possível uma estimativa do volume de invocações e o enquadramento legal para obter a informação pretendida. |
-| 2. Criação de VPN                | AMA                  | Estabelecimento da ligação à Plataforma de Interoperabilidade através de _Virtual Private Network_ (VPN) permanente (mais informação em Ligação VPN).                                                                                                   |
-| 3. Assinar protocolo             | Entidade e AMA       | Assinatura do protocolo acordado entre as partes.                                                                                                                                                                                                       |
-| 4. Atribuir credenciais e links  | Entidade e AMA       | Atribuir credenciais e links para os serviços constantes do catálogo.                                                                                                                                                                                   |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Passos</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>1. Pedido de adesão formal à AMA</td>
+    <td>AMA</td>
+    <td>Preencha o <a href="https://www.iap.gov.pt/web/iap/formulario-de-adesao?serviceId=4" target="_blank">formulário de adesão</a> a indicar o(s) serviço(s) a consumir, se possível uma estimativa do volume de invocações e o enquadramento legal para obter a informação pretendida.</td>
+  </tr>
+  <tr>
+    <td>2. Criação de VPN</td>
+    <td>AMA</td>
+    <td>Estabelecimento da ligação à Plataforma de Interoperabilidade através de <em>Virtual Private Network</em> (VPN) permanente (mais informação em Ligação VPN).</td>
+  </tr>
+  <tr>
+    <td>3. Assinar protocolo</td>
+    <td>Entidade e AMA</td>
+    <td>Assinatura do protocolo acordado entre as partes.</td>
+  </tr>
+  <tr>
+    <td>4. Atribuir credenciais e links</td>
+    <td>Entidade e AMA</td>
+    <td>Atribuir credenciais e links para os serviços constantes do catálogo.</td>
+  </tr>
+</table>

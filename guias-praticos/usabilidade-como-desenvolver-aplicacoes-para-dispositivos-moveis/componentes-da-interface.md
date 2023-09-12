@@ -27,17 +27,16 @@ A distância a que o utilizador segura o dispositivo móvel, enquanto o utiliza,
 
 <div style="text-align: center;">
   <img src="../../assets/images/Components%20-%20Typography%20graph%201.jpg" alt="Distâncias do ecrã dependente no dispositivo">
-  Distâncias do ecrã dependente no dispositivo
 </div>
+ <div style="text-align: center;">Distâncias do ecrã dependente no dispositivo</div>
 <br>
-
 
 Além disso, quando se trata de dispositivos móveis maiores como _tablets_, os utilizadores habitualmente usam-nos com algum tipo de suporte:
 
 <div style="text-align: center;">
   <img src="../../assets/images/Components%20-%20Typography%20graph%202.jpg" alt="Forma de uso dependente do tamanho do dispositivo">
-  Forma de uso dependente do tamanho do dispositivo
 </div>
+ <div style="text-align: center;"> Forma de uso dependente do tamanho do dispositivo</div>
 <br>
 
 Os dispositivos mais pequenos são mais utilizados quando o utilizador está em movimento, tanto na rua, como em casa. Os dispositivos maiores normalmente são utilizados à distância de um portátil.
@@ -46,19 +45,66 @@ Abaixo encontra-se uma tabela que apresenta as melhores práticas para usar tipo
 
 **Tamanho dos conteúdos e subtítulos, em pontos tipográficos**
 
-| <p> </p><p>Classe do Dispositivo</p> | Tamanho Mínimo    | Conteúdo Básico   | Conteúdo Melhorado | <p> </p><p>H3</p> | <p> </p><p>H2</p> | <p> </p><p>H1</p> |
-| ------------------------------------ | ----------------- | ----------------- | ------------------ | ----------------- | ----------------- | ----------------- |
-| Telemóvel Pequeno                    | 4                 | 5.5               | 7.2                | 8.5               | 10.8              | 14.4              |
-| Telemóvel Grande                     | 6                 | 8.5               | 10.8               | 12.6              | 16.2              | 21.6              |
-| Phablet                              | 7                 | 9.8               | 12.6               | 14.7              | 18.9              | 25.2              |
-| Tablet Pequeno                       | 8                 | 11.2              | 14.4               | 18.8              | 21.6              | 28.8              |
-| Tablet Grande/ Desktop               | <p> </p><p>10</p> | <p> </p><p>14</p> | <p> </p><p>18</p>  | <p> </p><p>21</p> | <p> </p><p>27</p> | <p> </p><p>36</p> |
-
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Classe do Dispositivo</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Tamanho Mínimo</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Conteúdo Básico</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Conteúdo Melhorado</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">H3</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">H2</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">H1</th>
+  </tr>
+  <tr>
+    <td>Telemóvel Pequeno</td>
+    <td>4</td>
+    <td>5.5</td>
+    <td>7.2</td>
+    <td>8.5</td>
+    <td>10.8</td>
+    <td>14.4</td>
+  </tr>
+  <tr>
+    <td>Telemóvel Grande</td>
+    <td>6</td>
+    <td>8.5</td>
+    <td>10.8</td>
+    <td>12.6</td>
+    <td>16.2</td>
+    <td>21.6</td>
+  </tr>
+  <tr>
+    <td>Phablet</td>
+    <td>7</td>
+    <td>9.8</td>
+    <td>12.6</td>
+    <td>14.7</td>
+    <td>18.9</td>
+    <td>25.2</td>
+  </tr>
+  <tr>
+    <td>Tablet Pequeno</td>
+    <td>8</td>
+    <td>11.2</td>
+    <td>14.4</td>
+    <td>18.8</td>
+    <td>21.6</td>
+    <td>28.8</td>
+  </tr>
+  <tr>
+    <td>Tablet Grande/ Desktop</td>
+    <td>10</td>
+    <td>14</td>
+    <td>18</td>
+    <td>21</td>
+    <td>27</td>
+    <td>36</td>
+  </tr>
+</table>
 _Tabela 1 - guia para tipografia_
 
 ## Navegação
-
-&#x20;
 
 As boas práticas de usabilidade indicam que a navegação deverá ser evidente, uma vez que disponibilizar a melhor funcionalidade ou conteúdo não tem qualquer utilidade se o utilizador não conseguir encontrar essa funcionalidade ou conteúdo.
 

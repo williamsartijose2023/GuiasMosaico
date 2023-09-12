@@ -93,8 +93,9 @@ Naturalmente que conforme a linha do tempo do projeto avança e a quantidade de 
 
 <div style="text-align: center;">
   <img src="../assets/images/costOfChangeTraditional.gif" alt="Relação entre Custo de mudança vs tempo (Scott Ambler)">
-  Relação entre Custo de mudança vs tempo (Scott Ambler)
 </div>
+ <div style="text-align: center;">Relação entre Custo de mudança vs tempo (Scott Ambler)</div>
+
 <br>
 
 A pior altura para realizar testes de usabilidade pela primeira vez no projeto é antes de lançamento da primeira versão do produto. Claro que é melhor realizar algum ciclo de testes do que nenhum, mas realizar testes de usabilidade numa fase tão tardia, vai fazer disparar exponencialmente os custos de alterações no produto.
@@ -115,8 +116,8 @@ Posto isto, é fundamental, perceber qual o número de utilizadores mínimo a en
 
 <div style="text-align: center;">
   <img src="../assets/images/usabilityproblemsNNG.png" alt="Número de problemas encontrados vs Número de utilizadores que fazem testes – Nielsen Norman Group">
-  <Número de problemas encontrados vs Número de utilizadores que fazem testes (Nielsen Norman Group)
 </div>
+ <div style="text-align: center;">Número de problemas encontrados vs Número de utilizadores que fazem testes (Nielsen Norman Group)</div>
 <br>
 
 Sobre estas descobertas é importante clarificar que numa análise qualitativa da usabilidade, não se procura descobrir quantas pessoas encararam determinados problemas, mas sim descobrir que problemas existem. Se um utilizador encontrar um problema, ele continuará a ser um problema de usabilidade quer tenha sido encontrado por um ou por cinco utilizadores.

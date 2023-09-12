@@ -10,8 +10,8 @@ O LAE tem a **arquitetura** apresentada no **diagrama de alto nível** (abaixo),
 
 <div style="text-align: center;">
   <img src="../../assets/images/lae.png" alt="Diagrama de alto nível do LAE – Livro Amarelo Eletrónico">
-  Diagrama de alto nível do LAE – Livro Amarelo Eletrónico
 </div>
+ <div style="text-align: center;"> Diagrama de alto nível do LAE – Livro Amarelo Eletrónico</div>
 <br>
 
 O diagrama acima apresenta (de cima para baixo):

@@ -5,16 +5,16 @@ parent: Como funciona o Serviço de Autenticação
 nav_order: 1
 ---
 
-# Autenticação de um utilizador junto de uma entidade utilizando o Cartão do Cidadão
-
+## Autenticação de um utilizador junto de uma entidade utilizando o Cartão do Cidadão
 
 A figura seguinte pretende exemplificar, de forma sumária e transversal, a utilização do Serviço de Autenticação com base num caso de uso de autenticação de um utilizador junto de uma entidade utilizando o Cartão de Cidadão.
 
 
 <div style="text-align: center;">
   <img src="../../assets/images/MicrosoftTeams-image (3) (1).png" alt="No diagrama acima identificam-se as seguintes interações:">
-  No diagrama acima identificam-se as seguintes interações:
 </div>
+ <div style="text-align: center;">No diagrama acima identificam-se as seguintes interações:</div>
+
 <br>
 
 

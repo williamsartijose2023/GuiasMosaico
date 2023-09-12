@@ -68,15 +68,41 @@ Os diagramas de arquitetura apresentados neste documento, foram definidos com ba
 
 ### Necessidades de negócio
 
-| Necessidade                                                                    | Descrição                                                                                                                                              |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Oferecer ao cidadão um novo canal para pedir o certificado de registo criminal | O pedido do certificado de registo criminal será feito através de uma chamada do cidadão ao Call Center. Este processo será conduzido por um operador. |
-| Utilização da CMD                                                              | Durante o processo de pedido do certificado de registo criminal por chamada telefónica, o operador deve validar se o cidadão tem CMD ativada.          |
-| Autenticar utilizando plataforma comum autenticação.gov                        | O serviço de pedido de registo criminal por canal telefónico deverá utilizar a plataforma comum autenticação.gov para realizar autenticação.           |
-| Garantir a autenticidade da identidade do requerente                           | Durante o processo de pedido do certificado de registo criminal por chamada telefónica, o operador deve validar se os dados do cidadão estão corretos. |
-| Disponibilizar ao Operador, uma plataforma Multicanal                          | O operador terá acesso aos serviços passíveis de serem realizados por telefone, através de uma Plataforma Multicanal.                                  |
-| Aplicar normas de segurança como por exemplo o 2FA (Two Factor Authentication) | A autorização de acesso a dados, por parte do cidadão, deve ser feita através da aplicação Móvel Autenticação.gov                                      |
-| Quaisquer integrações utilizam a Plataforma de Integração (iAP-PI)             | A integração dos serviços da Plataforma Multicanal e do Fornecedor de Autenticação deve ser feita através da Plataforma de Integração (iAP-PI).        |
+
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Necessidade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Oferecer ao cidadão um novo canal para pedir o certificado de registo criminal</td>
+    <td>O pedido do certificado de registo criminal será feito através de uma chamada do cidadão ao Call Center. Este processo será conduzido por um operador.</td>
+  </tr>
+  <tr>
+    <td>Utilização da CMD</td>
+    <td>Durante o processo de pedido do certificado de registo criminal por chamada telefónica, o operador deve validar se o cidadão tem CMD ativada.</td>
+  </tr>
+  <tr>
+    <td>Autenticar utilizando plataforma comum autenticação.gov</td>
+    <td>O serviço de pedido de registo criminal por canal telefónico deverá utilizar a plataforma comum autenticação.gov para realizar autenticação.</td>
+  </tr>
+  <tr>
+    <td>Garantir a autenticidade da identidade do requerente</td>
+    <td>Durante o processo de pedido do certificado de registo criminal por chamada telefónica, o operador deve validar se os dados do cidadão estão corretos.</td>
+  </tr>
+  <tr>
+    <td>Disponibilizar ao Operador, uma plataforma Multicanal</td>
+    <td>O operador terá acesso aos serviços passíveis de serem realizados por telefone, através de uma Plataforma Multicanal.</td>
+  </tr>
+  <tr>
+    <td>Aplicar normas de segurança como por exemplo o 2FA (Two Factor Authentication)</td>
+    <td>A autorização de acesso a dados, por parte do cidadão, deve ser feita através da aplicação Móvel Autenticação.gov.</td>
+  </tr>
+  <tr>
+    <td>Quaisquer integrações utilizam a Plataforma de Integração (iAP-PI)</td>
+    <td>A integração dos serviços da Plataforma Multicanal e do Fornecedor de Autenticação deve ser feita através da Plataforma de Integração (iAP-PI).</td>
+  </tr>
+</table>
 
 ### Pressupostos
 
@@ -119,13 +145,33 @@ Processo de Negócio: Pedir o certificado de registo criminal de pessoas singula
 <br>
 
 
-| Atividade                                 | Descrição                                                                                               |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Realizar chamada para Contact Center      | O processo é despoletado por uma chamada do cidadão ao Contact Center.                                  |
-| Receber Pedido de Autenticação Telefónica | O cidadão recebe um pedido de autorização de acesso a dados na sua aplicação Autenticação.Gov.          |
-| Autorizar Acesso a Dados                  | Para continuar o processo, o cidadão deve escolher a opção “Autorizar”, na aplicação Autenticação.Gov.  |
-| Fornecer Código de Segurança Gerado       | A aplicação Autenticação.Gov apresenta um código de segurança, que o cidadão deve fornecer ao operador. |
-| Confirmar se os Dados estão corretos      | O cidadão, confirma com o operador se os seus dados estão corretos.                                     |
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Realizar chamada para Contact Center</td>
+    <td>O processo é despoletado por uma chamada do cidadão ao Contact Center.</td>
+  </tr>
+  <tr>
+    <td>Receber Pedido de Autenticação Telefónica</td>
+    <td>O cidadão recebe um pedido de autorização de acesso a dados na sua aplicação Autenticação.Gov.</td>
+  </tr>
+  <tr>
+    <td>Autorizar Acesso a Dados</td>
+    <td>Para continuar o processo, o cidadão deve escolher a opção “Autorizar”, na aplicação Autenticação.Gov.</td>
+  </tr>
+  <tr>
+    <td>Fornecer Código de Segurança Gerado</td>
+    <td>A aplicação Autenticação.Gov apresenta um código de segurança, que o cidadão deve fornecer ao operador.</td>
+  </tr>
+  <tr>
+    <td>Confirmar se os Dados estão corretos</td>
+    <td>O cidadão, confirma com o operador se os seus dados estão corretos.</td>
+  </tr>
+</table>
+
 
 ### Pedir o certificado de registo criminal de pessoas singulares no canal telefónico – Procedimento do Operador
 
@@ -138,19 +184,57 @@ Processo de Negócio: Pedir o certificado de registo criminal de pessoas singula
 <br>
 
 
-| Atividade                                      | Descrição                                                                                                                                                                         |
-| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Acesso à aplicação de Backoffice               | O operador acede ao Portal de Backoffice Autenticação.gov e visualiza os serviços passíveis de serem realizados por telefone.                                                     |
-| Aceder Serviço Registo Criminal                | No Portal de Backoffice Autenticação.Gov, o operador seleciona o serviço Registo Criminal.                                                                                        |
-| Validar Chave Móvel Digital                    | O operador insere o número de telemóvel e seleciona a opção “Validar Chave Móvel Digital”.                                                                                        |
-| Enviar Pedido de Autorização de Acesso a Dados | O Sistema de Autorizações envia um pedido de autorização de acesso a dados à aplicação Autenticação.Gov do cidadão.                                                               |
-| Validar Código de Segurança                    | O operador insere o código de segurança fornecido pelo cidadão, após este ter aceitado o pedido de autorização de acesso a dados à aplicação.                                     |
-| Obter e Validar Dados                          | O Portal de Backoffice Autenticação.Gov apresenta os dados do cidadão, e o operador valida com o cidadão se estes estão corretos.                                                 |
-| Confirmar e Copiar Token                       | O operador seleciona a opção “Confirmar e copiar token”.                                                                                                                          |
-| Escolher opção "Serviço por Telefone"          | No Portal de Backoffice Autenticação.Gov, o Operador escolhe a opção “Serviço por Telefone”.                                                                                      |
-| Colar Token                                    | O operador insere o token previamente copiado, no campo “Inserir Token”.                                                                                                          |
-| Autenticar                                     | <p>O operador seleciona a opção “Autenticar”.</p><p> </p>                                                                                                                         |
-| Visualizar página do Serviço Federado          | O Operador autenticado, é encaminhado para a página do serviço federado do registo criminal, onde poderá efetuar o pedido do certificado de registo criminal, em nome do cidadão. |
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Acesso à aplicação de Backoffice</td>
+    <td>O operador acede ao Portal de Backoffice Autenticação.gov e visualiza os serviços passíveis de serem realizados por telefone.</td>
+  </tr>
+  <tr>
+    <td>Aceder Serviço Registo Criminal</td>
+    <td>No Portal de Backoffice Autenticação.Gov, o operador seleciona o serviço Registo Criminal.</td>
+  </tr>
+  <tr>
+    <td>Validar Chave Móvel Digital</td>
+    <td>O operador insere o número de telemóvel e seleciona a opção “Validar Chave Móvel Digital”.</td>
+  </tr>
+  <tr>
+    <td>Enviar Pedido de Autorização de Acesso a Dados</td>
+    <td>O Sistema de Autorizações envia um pedido de autorização de acesso a dados à aplicação Autenticação.Gov do cidadão.</td>
+  </tr>
+  <tr>
+    <td>Validar Código de Segurança</td>
+    <td>O operador insere o código de segurança fornecido pelo cidadão, após este ter aceitado o pedido de autorização de acesso a dados à aplicação.</td>
+  </tr>
+  <tr>
+    <td>Obter e Validar Dados</td>
+    <td>O Portal de Backoffice Autenticação.Gov apresenta os dados do cidadão, e o operador valida com o cidadão se estes estão corretos.</td>
+  </tr>
+  <tr>
+    <td>Confirmar e Copiar Token</td>
+    <td>O operador seleciona a opção “Confirmar e copiar token”.</td>
+  </tr>
+  <tr>
+    <td>Escolher opção "Serviço por Telefone"</td>
+    <td>No Portal de Backoffice Autenticação.Gov, o Operador escolhe a opção “Serviço por Telefone”.</td>
+  </tr>
+  <tr>
+    <td>Colar Token</td>
+    <td>O operador insere o token previamente copiado, no campo “Inserir Token”.</td>
+  </tr>
+  <tr>
+    <td>Autenticar</td>
+    <td>O operador seleciona a opção “Autenticar”.</td>
+  </tr>
+  <tr>
+    <td>Visualizar página do Serviço Federado</td>
+    <td>O Operador autenticado, é encaminhado para a página do serviço federado do registo criminal, onde poderá efetuar o pedido do certificado de registo criminal, em nome do cidadão.</td>
+  </tr>
+</table>
+
 
 ## Arquitetura aplicacional
 
@@ -164,10 +248,20 @@ Processo Aplicacional: Pedir o certificado de registo criminal de pessoas singul
 </div>
 <br>
 
-| Atividade                                            | Descrição                                                                                                                                                                                 |
-| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Apresentação de Conteúdos Ap. Móvel Autenticação.Gov | A Plataforma do Serviço de Autenticação apresenta os conteúdos ao cidadão, através da interface Aplicação Móvel Autenticação.gov.                                                         |
-| Autorizar Acesso a Dados                             | O Sistema de Autorizações, integrado com a Aplicação Móvel Autenticação.gov. através da Plataforma de Integração (iAP-PI), realiza o serviço de autorização de acesso a dados do cidadão. |
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Apresentação de Conteúdos Ap. Móvel Autenticação.Gov</td>
+    <td>A Plataforma do Serviço de Autenticação apresenta os conteúdos ao cidadão, através da interface Aplicação Móvel Autenticação.gov.</td>
+  </tr>
+  <tr>
+    <td>Autorizar Acesso a Dados</td>
+    <td>O Sistema de Autorizações, integrado com a Aplicação Móvel Autenticação.gov. através da Plataforma de Integração (iAP-PI), realiza o serviço de autorização de acesso a dados do cidadão.</td>
+  </tr>
+</table>
 
 ### Pedir o certificado de registo criminal de pessoas singulares no canal telefónico - Procedimento aplicacional para o ponto de vista do Operador
 
@@ -180,13 +274,32 @@ Processo Aplicacional: Pedir o certificado de registo criminal de pessoas singul
 <br>
 
 
-| Atividade                                               | Descrição                                                                                                                            |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Apresentação de Conteúdos do Portal BO Autenticação.gov | A Plataforma do Serviço de Autenticação apresenta os conteúdos ao operador, através da interface Portal Backoffice Autenticação.Gov. |
-| Validar CMD                                             | A Plataforma do Serviço de Autenticação, efetua a Validação da CMD.                                                                  |
-| Pedido Autorizações                                     | O Sistema de Autorizações, efetua o Pedido de Autorização aos dados do cidadão.                                                      |
-| Autenticar                                              | A Plataforma do Serviço de Autenticação realiza o serviço de autenticação, através do Portal Backoffice Autenticação.gov.            |
-| Reencaminhar para página do Serviço Federado            | O Portal Backoffice Autenticação.Gov, reencaminha o operador para a página do serviço federado.                                      |
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Apresentação de Conteúdos do Portal BO Autenticação.gov</td>
+    <td>A Plataforma do Serviço de Autenticação apresenta os conteúdos ao operador, através da interface Portal Backoffice Autenticação.Gov.</td>
+  </tr>
+  <tr>
+    <td>Validar CMD</td>
+    <td>A Plataforma do Serviço de Autenticação, efetua a Validação da CMD.</td>
+  </tr>
+  <tr>
+    <td>Pedido Autorizações</td>
+    <td>O Sistema de Autorizações, efetua o Pedido de Autorização aos dados do cidadão.</td>
+  </tr>
+  <tr>
+    <td>Autenticar</td>
+    <td>A Plataforma do Serviço de Autenticação realiza o serviço de autenticação, através do Portal Backoffice Autenticação.gov.</td>
+  </tr>
+  <tr>
+    <td>Reencaminhar para página do Serviço Federado</td>
+    <td>O Portal Backoffice Autenticação.Gov, reencaminha o operador para a página do serviço federado.</td>
+  </tr>
+</table>
 
 E é suportada pelas Plataformas Comuns:
 
@@ -196,11 +309,25 @@ E é suportada pelas Plataformas Comuns:
 </div>
 <br>
 
-| Plataforma Comum                      | Serviços                                                                                                                                                                                      |
-| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Plataforma de Integração (iAP-PI)     | Realiza a integração da Plataforma do Serviço de Autenticação, que é composta pela Aplicação Móvel Autenticação.gov e pelo Portal Backoffice Autenticação.gov, com o Sistema de Autorizações. |
-| Sistema de Autorizações               | Realiza os serviços de autorizações, para permitir o acesso aos dados do cidadão.                                                                                                             |
-| Plataforma do Serviço de Autenticação | Realiza os serviços realizados na Aplicação Móvel Autenticação.gov e no Portal Backoffice Autenticação.gov.                                                                                   |
+<table>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+  </tr>
+  <tr>
+    <td>Plataforma de Integração (iAP-PI)</td>
+    <td>Realiza a integração da Plataforma do Serviço de Autenticação, que é composta pela Aplicação Móvel Autenticação.gov e pelo Portal Backoffice Autenticação.gov, com o Sistema de Autorizações.</td>
+  </tr>
+  <tr>
+    <td>Sistema de Autorizações</td>
+    <td>Realiza os serviços de autorizações, para permitir o acesso aos dados do cidadão.</td>
+  </tr>
+  <tr>
+    <td>Plataforma do Serviço de Autenticação</td>
+    <td>Realiza os serviços realizados na Aplicação Móvel Autenticação.gov e no Portal Backoffice Autenticação.gov.</td>
+  </tr>
+</table>
+
 
 ### Arquitetura completa
 

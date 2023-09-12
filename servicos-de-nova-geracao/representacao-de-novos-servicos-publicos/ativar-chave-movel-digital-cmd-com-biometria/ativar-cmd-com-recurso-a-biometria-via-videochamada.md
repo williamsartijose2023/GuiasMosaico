@@ -67,15 +67,42 @@ A realização de cada etapa do processo aplicacional quer por novos componentes
 
 ### Necessidades de negócio
 
-| Necessidade                                                                              | Descrição                                                                                                                                                                                                                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Oferecer ao cidadão um novo meio à distância para aderir à CMD.                          | A adesão à CMD poderá ser efetuada por identificação à distância com recurso a videochamada. Este processo será conduzido por um operador, com o auxílio de ferramentas que permitam a validação dos dados do cidadão de forma automática.                                                                                                                                                            |
-| Permitir que o cidadão agende a videochamada, no dia e hora que lhe seja conveniente.    | No calendário disponibilizado ao cidadão durante o processo de agendamento da videochamada, deverão estar indicadas as datas já indisponíveis, para que o cidadão saiba desde logo quando lhe é permitido agendar a videochamada.                                                                                                                                                                     |
-| Confirmar agendamento da videochamada por email.                                         | A confirmação da data e hora da videochamada deverá ser feita mediante envio de um email com link de confirmação ao cidadão.                                                                                                                                                                                                                                                                          |
-| Validar de forma automática, os dados do cidadão, durante a videochamada.                | <p>Os dados do cidadão deverão ser comparados com os dados associados ao cidadão no IRN.</p><p>A fotografia do cidadão tirada do cartão de cidadão e a fotografia registada no IRN, deverão ter uma percentagem de comparação aceitável.</p><p>A fotografia tirada ao cidadão durante a videochamada e a fotografia registada no IRN, deverão também ter uma percentagem de comparação aceitável.</p> |
-| Oferecer ao cidadão a possibilidade de subscrever o serviço de assinatura digital.       | A opção de subscrever o serviço de assinatura digital, se o cidadão o pretender, deverá ser oferecida durante a videochamada.                                                                                                                                                                                                                                                                         |
-| Confirmar o número de telefone do cidadão, através de um SMS com Código OTP.             | Deverá ser enviado um código OTP para o telemóvel do cidadão, como medida final de segurança e para garantir que o telemóvel que o cidadão indicou está correto.                                                                                                                                                                                                                                      |
-| Disponibilizar ao Operador, uma plataforma de consulta dos agendamentos a si assignados. | O operador deverá aceder a uma plataforma de agendamentos e, mediante login, aceder às videochamadas que lhe estão assignadas.                                                                                                                                                                                                                                                                        |
+
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Necessidade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Oferecer ao cidadão um novo meio à distância para aderir à CMD.</td>
+    <td>A adesão à CMD poderá ser efetuada por identificação à distância com recurso a videochamada. Este processo será conduzido por um operador, com o auxílio de ferramentas que permitam a validação dos dados do cidadão de forma automática.</td>
+  </tr>
+  <tr>
+    <td>Permitir que o cidadão agende a videochamada, no dia e hora que lhe seja conveniente.</td>
+    <td>No calendário disponibilizado ao cidadão durante o processo de agendamento da videochamada, deverão estar indicadas as datas já indisponíveis, para que o cidadão saiba desde logo quando lhe é permitido agendar a videochamada.</td>
+  </tr>
+  <tr>
+    <td>Confirmar agendamento da videochamada por email.</td>
+    <td>A confirmação da data e hora da videochamada deverá ser feita mediante envio de um email com link de confirmação ao cidadão.</td>
+  </tr>
+  <tr>
+    <td>Validar de forma automática, os dados do cidadão, durante a videochamada.</td>
+    <td>Os dados do cidadão deverão ser comparados com os dados associados ao cidadão no IRN. A fotografia do cidadão tirada do cartão de cidadão e a fotografia registada no IRN, deverão ter uma percentagem de comparação aceitável. A fotografia tirada ao cidadão durante a videochamada e a fotografia registada no IRN, deverão também ter uma percentagem de comparação aceitável.</td>
+  </tr>
+  <tr>
+    <td>Oferecer ao cidadão a possibilidade de subscrever o serviço de assinatura digital.</td>
+    <td>A opção de subscrever o serviço de assinatura digital, se o cidadão o pretender, deverá ser oferecida durante a videochamada.</td>
+  </tr>
+  <tr>
+    <td>Confirmar o número de telefone do cidadão, através de um SMS com Código OTP.</td>
+    <td>Deverá ser enviado um código OTP para o telemóvel do cidadão, como medida final de segurança e para garantir que o telemóvel que o cidadão indicou está correto.</td>
+  </tr>
+  <tr>
+    <td>Disponibilizar ao Operador, uma plataforma de consulta dos agendamentos a si assignados.</td>
+    <td>O operador deverá aceder a uma plataforma de agendamentos e, mediante login, aceder às videochamadas que lhe estão assignadas.</td>
+  </tr>
+</table>
 
 ### Pressupostos
 
@@ -127,13 +154,34 @@ O processo de adesão pode ser cancelado em qualquer altura da sessão de videoc
 
 Para a ativação da CMD por identificação à distância com recurso a videochamada, será necessário recolher dados pessoais discriminados na tabela abaixo. No âmbito destes serviços os dados recolhidos são também conservados pelos prazos indicados.
 
-| Dados Pessoais                                                                                                                                                                                                                                                                                            | Prazo de conservação                                                                                                                                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fotografia do rosto e respetivo template biométrico.                                                                                                                                                                                                                                                      | Eliminado em processo diário, após conclusão do processo de adesão, conforme ponto 5.3.1.2 do Despacho n.º 2705/2021 do Gabinete Nacional de Segurança                                                                                                   |
-| Fotografia da frente e verso do cartão de cidadão                                                                                                                                                                                                                                                         | Eliminada no prazo de 10 dias, conforme ponto 19 do artigo 2º da Lei n.º 37/2014 (com a redação introduzida pelo Decreto-Lei n.º 88/2021) e, ponto 5.3.1.3 do Despacho n.º 2705/2021 do Gabinete Nacional de Segurança.                                  |
-| Dados recolhidos aquando do pedido do cartão de cidadão (código postal, fotografia, número de Identificação civil, data de nascimento, data de expiração, nome, apelido, sexo, nacionalidade, nome do pai e nome da mãe)                                                                                  | Apenas utilizados para validação dos documentos apresentados no registo, sendo eliminados imediatamente (à exceção dos dados necessário para o registo, indicados nos Dados relativos ao registo de atribuição da CMD).                                  |
-| Dados relativos ao registo de atribuição da CMD (nome, apelido, data de nascimento, data de expiração do cartão de cidadão, número de telemóvel, endereço de correio eletrónico, representação criptográfica da palavra-chave de autenticação, representação criptográfica da palavra-chave de assinatura | Conservados durante sete anos após o fim da validade do respetivo certificado, de acordo com a alínea f) do artigo 13º do Decreto-Lei nº 12/2021.                                                                                                        |
-| Vídeo do processo de adesão por videochamada                                                                                                                                                                                                                                                              | Conservado por um período máximo de 3 anos, para garantia da qualidade de serviço e ao abrigo da responsabilidade extracontratual do Estado (conforme artigo 5º da Lei n.º 67/2007, de 31 de Dezembro, determinado conforme o Artº 498 do Código Civil). |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Dados Pessoais</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Prazo de Conservação</th>
+  </tr>
+  <tr>
+    <td>Fotografia do rosto e respetivo template biométrico.</td>
+    <td>Eliminado em processo diário, após conclusão do processo de adesão, conforme ponto 5.3.1.2 do Despacho n.º 2705/2021 do Gabinete Nacional de Segurança</td>
+  </tr>
+  <tr>
+    <td>Fotografia da frente e verso do cartão de cidadão</td>
+    <td>Eliminada no prazo de 10 dias, conforme ponto 19 do artigo 2º da Lei n.º 37/2014 (com a redação introduzida pelo Decreto-Lei n.º 88/2021) e, ponto 5.3.1.3 do Despacho n.º 2705/2021 do Gabinete Nacional de Segurança.</td>
+  </tr>
+  <tr>
+    <td>Dados recolhidos aquando do pedido do cartão de cidadão (código postal, fotografia, número de Identificação civil, data de nascimento, data de expiração, nome, apelido, sexo, nacionalidade, nome do pai e nome da mãe)</td>
+    <td>Apenas utilizados para validação dos documentos apresentados no registo, sendo eliminados imediatamente (à exceção dos dados necessário para o registo, indicados nos Dados relativos ao registo de atribuição da CMD).</td>
+  </tr>
+  <tr>
+    <td>Dados relativos ao registo de atribuição da CMD (nome, apelido, data de nascimento, data de expiração do cartão de cidadão, número de telemóvel, endereço de correio eletrónico, representação criptográfica da palavra-chave de autenticação, representação criptográfica da palavra-chave de assinatura</td>
+    <td>Conservados durante sete anos após o fim da validade do respetivo certificado, de acordo com a alínea f) do artigo 13º do Decreto-Lei nº 12/2021.</td>
+  </tr>
+  <tr>
+    <td>Vídeo do processo de adesão por videochamada</td>
+    <td>Conservado por um período máximo de 3 anos, para garantia da qualidade de serviço e ao abrigo da responsabilidade extracontratual do Estado (conforme artigo 5º da Lei n.º 67/2007, de 31 de Dezembro, determinado conforme o Artº 498 do Código Civil).</td>
+  </tr>
+</table>
+
 
 ## Arquitetura de negócio
 
@@ -143,23 +191,53 @@ Ativação de CMD com recurso a biometria
 
 <div style="text-align: center;">
   <img src="../../../assets/images/image%20(13).png" alt="Vista alto nível do serviço">
-  Vista alto nível do serviço
 </div>
+ <div style="text-align: center;">  Vista alto nível do serviço</div>
 <br>
 
 #### Objetos de negócio do serviço
 
-| Objeto de Negócio   | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chave Móvel Digital | <p>A Chave Móvel Digital é um meio de autenticação e assinatura digital certificado pelo Estado português. Permite ao utilizador aceder a vários portais públicos ou privados, e assinar documentos digitais.</p><p>A Chave Móvel Digital associa um número de telemóvel ao número de identificação civil para um cidadão português, e o número de passaporte ou título/cartão de residência para um cidadão estrangeiro.</p> |
-| Assinatura Digital  | A assinatura digital possui certificados digitais associados que asseguram a identidade de quem assina um documento digital. O Estado português garante a certificação de assinaturas digitais realizadas com Cartão de Cidadão ou Chave Móvel Digital.                                                                                                                                                                       |
+
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Objeto de Negócio</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Chave Móvel Digital</td>
+    <td>
+      <p>A Chave Móvel Digital é um meio de autenticação e assinatura digital certificado pelo Estado português. Permite ao utilizador aceder a vários portais públicos ou privados, e assinar documentos digitais.</p>
+      <p>A Chave Móvel Digital associa um número de telemóvel ao número de identificação civil para um cidadão português, e o número de passaporte ou título/cartão de residência para um cidadão estrangeiro.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Assinatura Digital</td>
+    <td>A assinatura digital possui certificados digitais associados que asseguram a identidade de quem assina um documento digital. O Estado português garante a certificação de assinaturas digitais realizadas com Cartão de Cidadão ou Chave Móvel Digital.</td>
+  </tr>
+</table>
 
 #### Utilizadores do serviço
 
-| Papel    | Função                                                                                                                                                                                                                                                          |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cidadão  | Entidade requerente da CMD.  Agenda e participa no processo de adesão à CMD por identificação à distância com recurso a videochamada, disponibilizando a informação que lhe é pedida pelo Operador.                                                             |
-| Operador | Conduz o processo de adesão à CMD por identificação à distância com recurso a videochamada, com auxílio de ferramentas automáticas de reconhecimento facial e de leitura automática dos dados do Cartão de Cidadão, para validação da identidade do requerente. |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Papel</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Função</th>
+  </tr>
+  <tr>
+    <td>Cidadão</td>
+    <td>
+      Entidade requerente da CMD. Agenda e participa no processo de adesão à CMD por identificação à distância com recurso a videochamada, disponibilizando a informação que lhe é pedida pelo Operador.
+    </td>
+  </tr>
+  <tr>
+    <td>Operador</td>
+    <td>
+      Conduz o processo de adesão à CMD por identificação à distância com recurso a videochamada, com auxílio de ferramentas automáticas de reconhecimento facial e de leitura automática dos dados do Cartão de Cidadão, para validação da identidade do requerente.
+    </td>
+  </tr>
+</table>
 
 #### Processo de negócio completo
 
@@ -173,37 +251,122 @@ Ativação de CMD com recurso a biometria
 <br>
 
 
-| Atividade                                         | Descrição                                                                                                                                                                                                                                                                                                                    |
-| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Aceder ao ePortugal                               | O processo começa com o acesso do cidadão ao portal ePortugal.                                                                                                                                                                                                                                                               |
-| Procurar por serviço: Ativar Chave Móvel Digital  | Ao procurar pelo serviço “Ativar Chave Móvel Digital” e clicar no mesmo, o cidadão é redirecionado para a página da CMD, no portal Autenticação.Gov.                                                                                                                                                                         |
-| Escolher opção Agendamento por Videochamada       |  Ao escolher a opção “ativar” na página da CMD no portal Autenticação.Gov, estará disponível a opção de ativação por videochamada, além das opções já existentes.                                                                                                                                                            |
-| Preencher informação referente ao agendamento     | O cidadão preenche alguns dados essenciais ao processo: nome, endereço de email, e número de telemóvel. Tem também ao seu dispor um calendário onde pode escolher o dia e hora da videochamada. Neste calendário são indicadas as datas já indisponíveis para que o cidadão saiba desde logo quando lhe é permitido agendar. |
-| Visualizar email com informação sobre agendamento | O cidadão recebe no endereço de email indicado, um email com um link para a confirmação do agendamento.                                                                                                                                                                                                                      |
-| Clicar no link de confirmação do email            | O cidadão clica no link de confirmação, e a videochamada fica agendada.                                                                                                                                                                                                                                                      |
-| Visualizar email de confirmação de agendamento    | O cidadão recebe um segundo email onde lhe é indicado que o agendamento da videochamada está confirmado. Este e-mail contém também um link no qual o cidadão deve clicar, no dia e hora que marcou, para iniciar a videochamada. Contém também um link para cancelar o agendamento caso o pretenda.                          |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Aceder ao ePortugal</td>
+    <td>O processo começa com o acesso do cidadão ao portal ePortugal.</td>
+  </tr>
+  <tr>
+    <td>Procurar por serviço: Ativar Chave Móvel Digital</td>
+    <td>Ao procurar pelo serviço “Ativar Chave Móvel Digital” e clicar no mesmo, o cidadão é redirecionado para a página da CMD, no portal Autenticação.Gov.</td>
+  </tr>
+  <tr>
+    <td>Escolher opção Agendamento por Videochamada</td>
+    <td>Ao escolher a opção “ativar” na página da CMD no portal Autenticação.Gov, estará disponível a opção de ativação por videochamada, além das opções já existentes.</td>
+  </tr>
+  <tr>
+    <td>Preencher informação referente ao agendamento</td>
+    <td>O cidadão preenche alguns dados essenciais ao processo: nome, endereço de email, e número de telemóvel. Tem também ao seu dispor um calendário onde pode escolher o dia e hora da videochamada. Neste calendário são indicadas as datas já indisponíveis para que o cidadão saiba desde logo quando lhe é permitido agendar.</td>
+  </tr>
+  <tr>
+    <td>Visualizar email com informação sobre agendamento</td>
+    <td>O cidadão recebe no endereço de email indicado, um email com um link para a confirmação do agendamento.</td>
+  </tr>
+  <tr>
+    <td>Clicar no link de confirmação do email</td>
+    <td>O cidadão clica no link de confirmação, e a videochamada fica agendada.</td>
+  </tr>
+  <tr>
+    <td>Visualizar email de confirmação de agendamento</td>
+    <td>O cidadão recebe um segundo email onde lhe é indicado que o agendamento da videochamada está confirmado. Este e-mail contém também um link no qual o cidadão deve clicar, no dia e hora que marcou, para iniciar a videochamada. Contém também um link para cancelar o agendamento caso o pretenda.</td>
+  </tr>
+</table>
+
 
 ### Processo de negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Cidadão
 
 <div style="text-align: center;">
   <img src="../../../assets/images/image%20(24).png" alt="Vista do Processo de Negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Cidadão">
-  Vista do Processo de Negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Cidadão
 </div>
+ <div style="text-align: center;"> Vista do Processo de Negócio: Aderir à CMD por identificação à distância com recurso a videochamada - Cidadão
+</div>
+
 <br>
 
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Clicar no link enviado no email de confirmação</td>
+    <td>
+      <p>O processo começa com o cidadão clicar no link indicado no e-mail de confirmação de agendamento da videochamada, no dia e hora agendados.</p>
+      <p>É mandatório que o cidadão aceite os termos e condições que lhe são mostrados. É-lhe também descrito de que forma os seus dados pessoais serão utilizados e protegidos. Ao aceitar, são-lhe disponibilizadas algumas instruções sobre como se posicionar da forma mais adequada durante a videochamada. Clicando no botão “iniciar”, o cidadão poderá dar início à videochamada.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Iniciar videochamada</td>
+    <td>
+      Quando o operador aceita a chamada, é aberto um ecrã onde o cidadão vê o operador em ponto grande, e a si mesmo no canto superior direito. Neste ecrã existe também um espaço para ambas as partes trocarem mensagens. De notar que a chamada é inteiramente gravada.
+    </td>
+  </tr>
+  <tr>
+    <td>Videochamada - Interação com o Operador</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Mostrar Cartão de Cidadão</td>
+    <td>
+      O operador pede ao cidadão para mostrar o seu cartão de cidadão, e tira fotografia da frente e do verso do mesmo. O ecrã mostra o cidadão em plano grande, para que este possa posicionar o cartão de cidadão da forma mais visível e nítida em frente à câmara.
+    </td>
+  </tr>
+  <tr>
+    <td>Posicionar para Fotografia</td>
+    <td>
+      O operador explica ao cidadão que lhe irá ser tirada uma fotografia e dá-lhe instruções sobre como se posicionar. Quando o operador tira a fotografia, o ecrã mostra apenas o cidadão, o que o ajuda a posicionar-se melhor.
+    </td>
+  </tr>
+  <tr>
+    <td>Validar Dados comunicados pelo Operador</td>
+    <td>
+      <p>Após recolha dos dados, o operador faz o pedido de adesão à CMD. Os dados recolhidos são validados e se tudo estiver correto, começa o registo da CMD.</p>
+      <p>Se existir algum problema durante a validação, o operador informa o cidadão do problema e possível solução, antes de terminar a videochamada.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Fornecer número de telefone e email</td>
+    <td>
+      Ao começar o registo da CMD, é pedido ao cidadão os seus dados de contacto, nomeadamente o número de telemóvel e endereço de email.
+    </td>
+  </tr>
+  <tr>
+    <td>Aceitar subscrição ao serviço de assinatura digital (opcional)</td>
+    <td>
+      Durante a fase de registo da CMD, é dada ao cidadão a opção de subscrever o serviço de assinatura digital.
+    </td>
+  </tr>
+  <tr>
+    <td>Visualizar SMS com Código OTP</td>
+    <td>
+      É enviado um SMS com Código OTP para o número de telemóvel que o cidadão disponibilizou, como medida final de segurança e para garantir que o número está correto.
+    </td>
+  </tr>
+  <tr>
+    <td>Comunicar Código ao Operador</td>
+    <td>
+      O cidadão comunica ao operador o Código OTP. O processo fica concluído e a CMD ativa.
+    </td>
+  </tr>
+</table>
 
-| Atividade                                                      | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Clicar no link enviado no email de confirmação                 | <p>O processo começa com o cidadão clicar no link indicado no e-mail de confirmação de agendamento da videochamada, no dia e hora agendados.</p><p>É mandatório que o cidadão aceite os termos e condições que lhe são mostrados. É-lhe também descrito de que forma os seus dados pessoais serão utilizados e protegidos.  Ao aceitar, são-lhe disponibilizadas algumas instruções sobre como se posicionar da forma mais adequada durante a videochamada. Clicando no botão “iniciar”, o cidadão poderá dar início à videochamada.</p> |
-| Iniciar videochamada                                           | Quando o operador aceita a chamada, é aberto um ecrã onde o cidadão vê o operador em ponto grande, e a si mesmo no canto superior direito. Neste ecrã existe também um espaço para ambas as partes trocarem mensagens. De notar que a chamada é inteiramente gravada.                                                                                                                                                                                                                                                                    |
-| Videochamada - Interação com o Operador                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Mostrar Cartão de Cidadão                                      | O operador pede ao cidadão para mostrar o seu cartão de cidadão, e tira fotografia da frente e do verso do mesmo. O ecrã mostra o cidadão em plano grande, para que este possa posicionar o cartão de cidadão da forma mais visível e nítida em frente à câmara.                                                                                                                                                                                                                                                                         |
-| Posicionar para Fotografia                                     | O operador explica ao cidadão que lhe irá ser tirada uma fotografia e dá-lhe instruções sobre como se posicionar. Quando o operador tira a fotografia, o ecrã mostra apenas o cidadão, o que o ajuda a posicionar-se melhor.                                                                                                                                                                                                                                                                                                             |
-| Validar Dados comunicados pelo Operador                        | <p>Após recolha dos dados, o operador faz o pedido de adesão à CMD. Os dados recolhidos são validados e se tudo estiver correto, começa o registo da CMD.</p><p>Se existir algum problema durante a validação, o operador informa o cidadão do problema e possível solução, antes de terminar a videochamada.</p>                                                                                                                                                                                                                        |
-| Fornecer número de telefone e email                            | Ao começar o registo da CMD, é pedido ao cidadão os seus dados de contacto, nomeadamente o número de telemóvel e endereço de email.                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Aceitar subscrição ao serviço de assinatura digital (opcional) | Durante a fase de registo da CMD, é dada ao cidadão a opção de subscrever o serviço de assinatura digital.                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Visualizar SMS com Código OTP                                  | É enviado um SMS com Código OTP para o número de telemóvel que o cidadão disponibilizou, como medida final de segurança e para garantir que o número está correto.                                                                                                                                                                                                                                                                                                                                                                       |
-| Comunicar Código ao Operador                                   | O cidadão comunica ao operador o Código OTP. O processo fica concluído e a CMD ativa.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
 
 ### Processo de negócio: Aderir à CMD por identificação à distância com recurso a videochamada – Operador
 
@@ -213,18 +376,91 @@ Ativação de CMD com recurso a biometria
 </div>
 <br>
 
-
-| Aceder à Plataforma de Agendamentos                   | <p>O operador acede à Plataforma de Agendamentos, onde pode consultar num calendário os agendamentos que tem afetados a si.</p><p>Ao clicar num dos agendamentos, o operador é direcionado para uma página onde pode consultar os detalhes do agendamento, nomeadamente a data, o nome do cidadão e os contactos do mesmo.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Autenticar                                            | O operador autentica-se com as suas credenciais. Após a autenticação, tem acesso à página inicial do backoffice, onde tem várias opções, como consultar contas, utilizadores, configuração de definições, etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Atender videochamada                                  | <p>Se existem chamadas por atender, o operador carrega no botão “Atender Chamada” a verde, para atender a chamada que lhe está assignada.</p><p>Ao iniciar a videochamada, o operador vê o cidadão em grande plano, e a si mesmo no canto superior esquerdo. A janela da chamada tem várias opções, incluindo as opções de aceitar ou rejeitar o processo inteiramente, configurar a câmara e o microfone, e tirar fotografias.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Videochamada - Interação com o Cidadão                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Capturar Documento                                    | <p>O operador pede ao cidadão para mostrar o cartão de cidadão.</p><p>O operador escolhe a opção “Documento” e seleciona o documento a capturar, neste caso o cartão de cidadão.</p><p>Após capturar o documento (frente e verso), o operador usa a função de verificação para garantir a qualidade das mesmas. Ao mesmo tempo, valida-as a olho nu.</p><p>Caso exista algum erro neste processo, o operador tenta capturar o documento novamente (caso seja um erro interno da aplicação) ou informa o cidadão de como posicionar o documento para que as fotografias sejam de maior qualidade.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Tirar fotografia ao Cidadão                           | <p>O operador avisa o cidadão que lhe será tirada uma fotografia e escolhe a opção para tirar a mesma.</p><p>O operador deve sempre tirar primeiro a foto ao documento, e apenas depois a fotografia ao cidadão.</p><p>Caso exista algum erro neste processo, o operador tenta tirar a fotografia novamente (caso seja um erro interno da aplicação) ou informa o cidadão de como se posicionar para que a fotografia seja de maior qualidade.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Validar Dados                                         | <p>Após tirar as fotografias, o operador seleciona a opção “Adesão à CMD”. Nesta fase, são apresentados uma série de dados recolhidos sobre o cidadão, nomeadamente:</p><ul><li>Os dados recolhidos do CC através da videochamada</li><li>Os dados registados e associados ao cidadão no IRN</li><li>A fotografia do cidadão tirada do cartão de cidadão e a fotografia registada no IRN, com uma percentagem como resultado da comparação</li><li>A fotografia tirada ao cidadão pelo operador e a fotografia registada no IRN, com uma percentagem como resultado da comparação</li></ul><p>O operador valida todos os dados apresentados e, posteriormente, selecionar uma de três opções:</p><ul><li>“Começar Registo”, quando tudo está correto e é possível começar o registo da CMD.</li><li>“Recomeçar Processo”, quando existe algum problema nos dados, por exemplo a comparação das fotografias não atingiu a percentagem mínima ou não parece correta, erro no sistema de BO ao recolher os dados, etc.; esta opção permite reiniciar o processo de recolha dos dados.</li><li>“Cancelar Registo”, quando o processo não está correto, caso em que o operador é obrigado a inserir um motivo para o cancelamento.</li></ul> |
-| Inserir contactos do cidadão                          | Ao começar o registo à CMD, o operador tem de inserir os contactos do cidadão, nomeadamente o número de telemóvel e endereço de email. Deve também escolher o tipo de registo que está a fazer, neste caso cidadão português com cartão de cidadão. O resto da janela tem os dados do cidadão automaticamente preenchidos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Subscrever o serviço de assinatura digital (opcional) | O operador oferece ao cidadão a opção de subscrever o serviço de assinatura digital.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Confirmar Código OTP                                  | <p>O cidadão comunica este código ao operador, que o insere no campo indicado. Se estiver correto, o processo fica concluído e a CMD ativa.</p><p>De notar que, após o encerramento da videochamada, o operador ainda pode consultar todos os dados associados ao processo, bem como um registo da qualidade na recolha de todos os elementos que foram obtidos.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Aceder à Plataforma de Agendamentos</td>
+    <td>
+      <p>O operador acede à Plataforma de Agendamentos, onde pode consultar num calendário os agendamentos que tem afetados a si.</p>
+      <p>Ao clicar num dos agendamentos, o operador é direcionado para uma página onde pode consultar os detalhes do agendamento, nomeadamente a data, o nome do cidadão e os contactos do mesmo.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Autenticar</td>
+    <td>
+      O operador autentica-se com as suas credenciais. Após a autenticação, tem acesso à página inicial do backoffice, onde tem várias opções, como consultar contas, utilizadores, configuração de definições, etc.
+    </td>
+  </tr>
+  <tr>
+    <td>Atender videochamada</td>
+    <td>
+      <p>Se existem chamadas por atender, o operador carrega no botão “Atender Chamada” a verde, para atender a chamada que lhe está assignada.</p>
+      <p>Ao iniciar a videochamada, o operador vê o cidadão em grande plano, e a si mesmo no canto superior esquerdo. A janela da chamada tem várias opções, incluindo as opções de aceitar ou rejeitar o processo inteiramente, configurar a câmara e o microfone, e tirar fotografias.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Videochamada - Interação com o Cidadão</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Capturar Documento</td>
+    <td>
+      <p>O operador pede ao cidadão para mostrar o cartão de cidadão.</p>
+      <p>O operador escolhe a opção “Documento” e seleciona o documento a capturar, neste caso o cartão de cidadão.</p>
+      <p>Após capturar o documento (frente e verso), o operador usa a função de verificação para garantir a qualidade das mesmas. Ao mesmo tempo, valida-as a olho nu.</p>
+      <p>Caso exista algum erro neste processo, o operador tenta capturar o documento novamente (caso seja um erro interno da aplicação) ou informa o cidadão de como posicionar o documento para que as fotografias sejam de maior qualidade.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Tirar fotografia ao Cidadão</td>
+    <td>
+      <p>O operador avisa o cidadão que lhe será tirada uma fotografia e escolhe a opção para tirar a mesma.</p>
+      <p>O operador deve sempre tirar primeiro a foto ao documento, e apenas depois a fotografia ao cidadão.</p>
+      <p>Caso exista algum erro neste processo, o operador tenta tirar a fotografia novamente (caso seja um erro interno da aplicação) ou informa o cidadão de como se posicionar para que a fotografia seja de maior qualidade.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Validar Dados</td>
+    <td>
+      <p>Após tirar as fotografias, o operador seleciona a opção “Adesão à CMD”. Nesta fase, são apresentados uma série de dados recolhidos sobre o cidadão, nomeadamente:</p>
+      <ul>
+        <li>Os dados recolhidos do CC através da videochamada</li>
+        <li>Os dados registados e associados ao cidadão no IRN</li>
+        <li>A fotografia do cidadão tirada do cartão de cidadão e a fotografia registada no IRN, com uma percentagem como resultado da comparação</li>
+        <li>A fotografia tirada ao cidadão pelo operador e a fotografia registada no IRN, com uma percentagem como resultado da comparação</li>
+      </ul>
+      <p>O operador valida todos os dados apresentados e, posteriormente, seleciona uma de três opções:</p>
+      <ul>
+        <li>“Começar Registo”, quando tudo está correto e é possível começar o registo da CMD.</li>
+        <li>“Recomeçar Processo”, quando existe algum problema nos dados, por exemplo a comparação das fotografias não atingiu a percentagem mínima ou não parece correta, erro no sistema de BO ao recolher os dados, etc.; esta opção permite reiniciar o processo de recolha dos dados.</li>
+        <li>“Cancelar Registo”, quando o processo não está correto, caso em que o operador é obrigado a inserir um motivo para o cancelamento.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Inserir contactos do cidadão</td>
+    <td>
+      Ao começar o registo à CMD, o operador tem de inserir os contactos do cidadão, nomeadamente o número de telemóvel e endereço de email. Deve também escolher o tipo de registo que está a fazer, neste caso cidadão português com cartão de cidadão. O resto da janela tem os dados do cidadão automaticamente preenchidos.
+    </td>
+  </tr>
+  <tr>
+    <td>Subscrever o serviço de assinatura digital (opcional)</td>
+    <td>
+      O operador oferece ao cidadão a opção de subscrever o serviço de assinatura digital.
+    </td>
+  </tr>
+  <tr>
+    <td>Confirmar Código OTP</td>
+    <td>
+      <p>O cidadão comunica este código ao operador, que o insere no campo indicado. Se estiver correto, o processo fica concluído e a CMD ativa.</p>
+      <p>De notar que, após o encerramento da videochamada, o operador ainda pode consultar todos os dados associados ao processo, bem como um registo da qualidade na recolha de todos os elementos que foram obtidos.</p>
+    </td>
+  </tr>
+</table>
 
 ## Arquitetura aplicacional
 
@@ -247,14 +483,54 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 <br>
 
 
-| Atividade                                  | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Apresentação de Conteúdos                  | <p>Ao aceder ao portal ePortugal, o cidadão pode pesquisar pelos serviços disponíveis.</p><p>Ao clicar no serviço que pretende realizar, o cidadão é redirecionado para a página do mesmo.</p><p>A apresentação da página inicial é feita pela interface do ePortugal, com base na informação registada na Ficha do Serviço no CES, pela Entidade Aderente responsável, onde também consta o destino e o tipo do redireccionamento a realizar.</p> |
-| Apresentar página da CMD                   | <p>Ao clicar no serviço “Ativar a Chave Móvel Digital” o cidadão é redirecionado para a página Autenticação.gov.</p><p>A apresentação da página é feita pela plataforma comum “Fornecedor de Autenticação”.</p><p>Aqui é disponibilizada a nova opção de Ativação da CMD por videochamada.</p>                                                                                                                                                     |
-| Recolher informação para agendamento       | O componente representado como: “Agendamento Cidadão”, realiza o serviço de Agendamento, através do qual a informação preenchida pelo cidadão é recolhida, por um formulário disponibilizado na interface Portal Agendamento Videochamada.                                                                                                                                                                                                         |
-| Enviar email sobre o agendamento           | O envio de notificações eletrónicas ao cidadão é assegurado pela plataforma comum “Plataforma de Notificações Eletrónicas da AP (SPNE).                                                                                                                                                                                                                                                                                                            |
-| Desencadeamento do Workflow associado      | O componente representado como: “Agendamento Cidadão”, é responsável pelo desencadeamento do workflow associado à confirmação do agendamento da videochamada.                                                                                                                                                                                                                                                                                      |
-| Enviar email de confirmação de agendamento | O envio de notificações eletrónicas ao cidadão é assegurado pela plataforma comum “Plataforma de Notificações Eletrónicas da AP (SPNE).                                                                                                                                                                                                                                                                                                            |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Apresentação de Conteúdos</td>
+    <td>
+      <p>Ao aceder ao portal ePortugal, o cidadão pode pesquisar pelos serviços disponíveis.</p>
+      <p>Ao clicar no serviço que pretende realizar, o cidadão é redirecionado para a página do mesmo.</p>
+      <p>A apresentação da página inicial é feita pela interface do ePortugal, com base na informação registada na Ficha do Serviço no CES, pela Entidade Aderente responsável, onde também consta o destino e o tipo do redireccionamento a realizar.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Apresentar página da CMD</td>
+    <td>
+      <p>Ao clicar no serviço “Ativar a Chave Móvel Digital” o cidadão é redirecionado para a página Autenticação.gov.</p>
+      <p>A apresentação da página é feita pela plataforma comum “Fornecedor de Autenticação”.</p>
+      <p>Aqui é disponibilizada a nova opção de Ativação da CMD por videochamada.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Recolher informação para agendamento</td>
+    <td>
+      O componente representado como: “Agendamento Cidadão”, realiza o serviço de Agendamento, através do qual a informação preenchida pelo cidadão é recolhida, por um formulário disponibilizado na interface Portal Agendamento Videochamada.
+    </td>
+  </tr>
+  <tr>
+    <td>Enviar email sobre o agendamento</td>
+    <td>
+      O envio de notificações eletrónicas ao cidadão é assegurado pela plataforma comum “Plataforma de Notificações Eletrónicas da AP (SPNE).
+    </td>
+  </tr>
+  <tr>
+    <td>Desencadeamento do Workflow associado</td>
+    <td>
+      O componente representado como: “Agendamento Cidadão”, é responsável pelo desencadeamento do workflow associado à confirmação do agendamento da videochamada.
+    </td>
+  </tr>
+  <tr>
+    <td>Enviar email de confirmação de agendamento</td>
+    <td>
+      O envio de notificações eletrónicas ao cidadão é assegurado pela plataforma comum “Plataforma de Notificações Eletrónicas da AP (SPNE).
+    </td>
+  </tr>
+</table>
+
 
 ### Processo aplicacional: Aderir à CMD por identificação à distância com recurso a videochamada
 
@@ -265,17 +541,65 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 <br>
 
 
-| Atividade                                              | Descrição                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Apresentação de Conteúdo da Plataforma de Agendamentos | O componente representado como: “Plataforma de Agendamento”, realiza o serviço de Gestão de Agendamentos, disponibilizando ao operador a interface Portal BO Agendamento Videochamada. Ao clicar num dos agendamentos o operador é redirecionado para a página de BO Polygon.                                                                             |
-| Autenticar                                             | O operador autentica-se através da interface “BO Polygon”, no componente representado como: “Componente Gestão Videochamada”.                                                                                                                                                                                                                             |
-| Disponibilizar videochamada                            | <p>A videochamada é disponibilizada ao operador, pela interface BO Polygon, e ao cidadão, pela interface Portal Videochamada.</p><p>A serviço de Gestão de Videochamada é realizado pelo componente representado como: “Componente Gestão Videochamada”.</p>                                                                                              |
-| Videochamada                                           |                                                                                                                                                                                                                                                                                                                                                           |
-| Recolher informação sobre o cidadão                    | <p>O operador, captura o documento e fotografia do cidadão através da interface BO Polygon.</p><p>O serviço Recolha de Dados é realizado pelo componente representado como: “Componente Gestão Videochamada”.</p>                                                                                                                                         |
-| Validar Informação                                     | <p>Os dados recolhidos do cidadão são comparados com os dados do cidadão no Sistema IRN. A integração é assegurada pela plataforma comum “Plataforma de Integração (iAP-PI)”. •</p><p>A fotografia do cartão de cidadão e a fotografia registada no IRN, devem ter no mínimo uma compatibilidade de 50%. O mesmo para a fotografia tirada ao cidadão.</p> |
-| Efetuar Subscrição assinatura digital                  | A subscrição à assinatura digital é feita pela plataforma comum “Assinatura Digital”.                                                                                                                                                                                                                                                                     |
-| Enviar SMS com Código OTP                              | O envio de SMS ao cidadão é assegurado pela plataforma comum “iAP-Plataforma de Mensagens da AP (GAP)”                                                                                                                                                                                                                                                    |
-| Disponibilizar CMD                                     | A disponibilização da CMD ao cidadão é feita pela plataforma comum “FA - Fornecedor de Autenticação”.                                                                                                                                                                                                                                                     |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+  </tr>
+  <tr>
+    <td>Apresentação de Conteúdo da Plataforma de Agendamentos</td>
+    <td>
+      O componente representado como: “Plataforma de Agendamento”, realiza o serviço de Gestão de Agendamentos, disponibilizando ao operador a interface Portal BO Agendamento Videochamada. Ao clicar num dos agendamentos o operador é redirecionado para a página de BO Polygon.
+    </td>
+  </tr>
+  <tr>
+    <td>Autenticar</td>
+    <td>
+      O operador autentica-se através da interface “BO Polygon”, no componente representado como: “Componente Gestão Videochamada”.
+    </td>
+  </tr>
+  <tr>
+    <td>Disponibilizar videochamada</td>
+    <td>
+      <p>A videochamada é disponibilizada ao operador, pela interface BO Polygon, e ao cidadão, pela interface Portal Videochamada.</p>
+      <p>A serviço de Gestão de Videochamada é realizado pelo componente representado como: “Componente Gestão Videochamada”.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Recolher informação sobre o cidadão</td>
+    <td>
+      <p>O operador, captura o documento e fotografia do cidadão através da interface BO Polygon.</p>
+      <p>O serviço Recolha de Dados é realizado pelo componente representado como: “Componente Gestão Videochamada”.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Validar Informação</td>
+    <td>
+      <p>Os dados recolhidos do cidadão são comparados com os dados do cidadão no Sistema IRN. A integração é assegurada pela plataforma comum “Plataforma de Integração (iAP-PI)”. •</p>
+      <p>A fotografia do cartão de cidadão e a fotografia registada no IRN, devem ter no mínimo uma compatibilidade de 50%. O mesmo para a fotografia tirada ao cidadão.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Efetuar Subscrição assinatura digital</td>
+    <td>
+      A subscrição à assinatura digital é feita pela plataforma comum “Assinatura Digital”.
+    </td>
+  </tr>
+  <tr>
+    <td>Enviar SMS com Código OTP</td>
+    <td>
+      O envio de SMS ao cidadão é assegurado pela plataforma comum “iAP-Plataforma de Mensagens da AP (GAP)”
+    </td>
+  </tr>
+  <tr>
+    <td>Disponibilizar CMD</td>
+    <td>
+      A disponibilização da CMD ao cidadão é feita pela plataforma comum “FA - Fornecedor de Autenticação”.
+    </td>
+  </tr>
+</table>
+
 
 #### Soluções aplicacionais
 
@@ -285,10 +609,31 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 </div>
 <br>
 
-| Solução Aplicacional                         | Serviços                                                                                                                                                                                                                                                                                                                                                                                                      |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Solução Ativação CMD com recurso a Biometria | <p>Esta solução é composta pelos componentes:</p><ul><li>Componente Agendamento Cidadão – disponibiliza ao cidadão o serviço de agendamento de videochamada.</li><li>Plataforma de Agendamentos – disponibiliza ao operador o serviço de gestão de agendamentos.</li><li>Componente de Gestão Videochamada – realiza os serviços de gestão de videochamada, troca de mensagens, e recolha de dados.</li></ul> |
-| Sistema IRN                                  | O sistema IRN está integrado com o Componente de Gestão de Videochamadas através da plataforma comum “Plataforma de Integração (iAP-PI)”.                                                                                                                                                                                                                                                                     |
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Solução Aplicacional</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+  </tr>
+  <tr>
+    <td>Solução Ativação CMD com recurso a Biometria</td>
+    <td>
+      <p>Esta solução é composta pelos componentes:</p>
+      <ul>
+        <li>Componente Agendamento Cidadão – disponibiliza ao cidadão o serviço de agendamento de videochamada.</li>
+        <li>Plataforma de Agendamentos – disponibiliza ao operador o serviço de gestão de agendamentos.</li>
+        <li>Componente de Gestão Videochamada – realiza os serviços de gestão de videochamada, troca de mensagens, e recolha de dados.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Sistema IRN</td>
+    <td>
+      O sistema IRN está integrado com o Componente de Gestão de Videochamadas através da plataforma comum “Plataforma de Integração (iAP-PI)”.
+    </td>
+  </tr>
+</table>
+
 
 #### Plataformas comuns
 
@@ -300,14 +645,38 @@ A solução aplicacional é suportada pelas Plataformas Comuns:
 </div>
 <br>
 
-| Plataforma Comum                                    | Serviços                                                                                         |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| ePortugal.gov                                       | Realiza o serviço de acesso eletrónico aos serviços públicos.                                    |
-| FA - Fornecedor de Autenticação                     | Realiza o serviço de autenticação no portal ePortugal.                                           |
-| SPNE - Plataforma de Notificações Eletrónicas da AP | Realiza o serviço de notificação do cidadão por email.                                           |
-| Plataforma de Integração (iAP-PI)                   | Realiza a integração do Sistema do IRN, com os serviços do Componente de Gestão de Videochamada. |
-| Assinatura Digital                                  | Disponibiliza a Assinatura Digital.                                                              |
-| iAP-Plataforma de Mensagens da AP (GAP)             | Realiza o serviço de notificação do cidadão por SMS.                                             |
+
+<table>
+  <caption></caption>
+  <tr>
+    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
+    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+  </tr>
+  <tr>
+    <td>ePortugal.gov</td>
+    <td>Realiza o serviço de acesso eletrónico aos serviços públicos.</td>
+  </tr>
+  <tr>
+    <td>FA - Fornecedor de Autenticação</td>
+    <td>Realiza o serviço de autenticação no portal ePortugal.</td>
+  </tr>
+  <tr>
+    <td>SPNE - Plataforma de Notificações Eletrónicas da AP</td>
+    <td>Realiza o serviço de notificação do cidadão por email.</td>
+  </tr>
+  <tr>
+    <td>Plataforma de Integração (iAP-PI)</td>
+    <td>Realiza a integração do Sistema do IRN, com os serviços do Componente de Gestão de Videochamada.</td>
+  </tr>
+  <tr>
+    <td>Assinatura Digital</td>
+    <td>Disponibiliza a Assinatura Digital.</td>
+  </tr>
+  <tr>
+    <td>iAP-Plataforma de Mensagens da AP (GAP)</td>
+    <td>Realiza o serviço de notificação do cidadão por SMS.</td>
+  </tr>
+</table>
 
 #### Arquitetura aplicacional completa
 
