@@ -18,6 +18,7 @@ Para a adesão ao Sistema de Autorizações deverá seguir os procedimentos:
 <br>
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>

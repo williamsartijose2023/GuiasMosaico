@@ -20,6 +20,7 @@ Existem três modelos de adesão: “Modelo Aproximar”, “Modelo Integrar” 
 De seguida, é apresentada informação prévia sobre os documentos referidos ao longo da descrição dos processos de adesão nos diferentes modelos:
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Código</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Documento</th>

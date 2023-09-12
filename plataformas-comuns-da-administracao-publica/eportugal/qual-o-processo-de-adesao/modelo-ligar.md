@@ -29,8 +29,9 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 
 ### Macro atividade: Definição do âmbito e Protocolo
 
-<!-- Table Content -->
+
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -91,7 +92,7 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
         <li>verificar se o <em>template</em> do protocolo (DOC-04 Protocolo) se encontra atual e aplicável ao projeto;</li>
         <li>rever o conteúdo do protocolo, se necessário;</li>
         <li>anexar “DOC-01 Listagem de serviços”, “DOC-02 Project Charter” “DOC-03 SLA”, “DOC-04 Protocolo” com os respetivos anexos para o ponto de contacto da Entidade, para validação prévia (informal);</li>
-        <li>alterar conteúdo do protocolo, se solicitado pela EC:<br><br>a) elaborar pedido de novo protocolo, mediante preenchimento do documento “Comunicação_Protocolos”, do Gabinete Jurídico da AMA;<br><br>b) enviar pedido de novo protocolo ao Gabinete Jurídico da AMA, através da plataforma de gestão documental.</li>
+        <li>alterar conteúdo do protocolo, se solicitado pela EC:a) elaborar pedido de novo protocolo, mediante preenchimento do documento “Comunicação_Protocolos”, do Gabinete Jurídico da AMA;<br><br>b) enviar pedido de novo protocolo ao Gabinete Jurídico da AMA, através da plataforma de gestão documental.</li>
       </ul>
       <ul>
         <li>se necessário, solicitar alterações. Em função do pedido de alteração, submete à Entidade para nova validação;</li>
@@ -110,11 +111,12 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
     <td>
       <p><strong>Entidade:</strong></p>
       <ul>
-        <li>Avaliação do protocolo:</li>
-        <ul>
-          <li>caso aceite o protocolo será dada continuidade ao processo;</li>
-          <li>caso não aceite, o processo volta à etapa de “Elaboração do Protocolo”.</li>
-        </ul>
+         <li>Avaliação do protocolo</li>
+         <li>
+         Caso aceite o protocolo será dada continuidade ao processo;
+         Caso não aceite, o processo volta à etapa de “Elaboração do Protocolo.”
+         </li>
+      </ul>
       </ul>
     </td>
   </tr>
@@ -123,6 +125,7 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 ### Macro atividade: Caracterização de serviços
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -150,6 +153,7 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 ### Macro atividade: Conteúdos informativos
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -245,6 +249,7 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 ### Macro atividade: Configurações e testes (com integração parcial)
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -435,36 +440,34 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 ### Macro atividade: Suporte 1ª linha
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
   </tr>
   <tr>
-    <td>Assegurar suporte de 1ª linha</td>
+   <td>Assegurar suporte de 1ª linha</td>
     <td>AMA</td>
     <td>
       <strong>AMA:</strong>
       <ul>
         <li>Receber pedidos de suporte de 1ª linha via:</li>
-        <ul>
-          <li>Telefone;</li>
-          <li>E-mail;</li>
-          <li>Formulário do ePortugal.</li>
-        </ul>
-        <li>Registrar pedido na plataforma de gestão de pedidos de suporte;</li>
-        <li>Tratar pedido:</li>
-        <ul>
-          <li>Responder ao pedido, caso a resposta se encontre no Catálogo de Serviços de Atendimento (CSA) que agrega as perguntas e respostas frequentes;</li>
-          <li>Não existindo informação disponível na equipa do Contact Center, encaminhar o pedido internamente, preferencialmente via e-mail e, em alternativa, via telefone (2ª linha de suporte);</li>
-          <li>Sendo uma questão nova que possa ser respondida pela AMA, enviar a resposta. Sendo uma questão nova que possa ser respondida no futuro, solicitar a atualização do Catálogo de Serviços de Atendimento (composto pelos scripts de resposta de telefone e email) para que, a partir desse momento, o Contact Center fique habilitado a responder ao cidadão/entidade sobre a dúvida que motivou o pedido.</li>
-        </ul>
+        <li>Telefone;</li>
+        <li>E-mail;</li>
+        <li>Formulário do ePortugal.</li>
       </ul>
+      <p>Registrar pedido na plataforma de gestão de pedidos de suporte;</p>
+      <p>Tratar pedido:</p>
       <ul>
-        <li>Atualizar o Catálogo de Serviços de Atendimento;</li>
-        <li>Responder ao cidadão/entidade;</li>
-        <li>Consultar Relatórios dos Pedidos de Suporte e elaborar mensalmente o "DOC-13 Relatório Suporte 1ª Linha" que sistematiza os pedidos recebidos relativos aos serviços desmaterializados.</li>
+        <li>Responder ao pedido, caso a resposta se encontre no Catálogo de Serviços de Atendimento (CSA) que agrega as perguntas e respostas frequentes;</li>
+        <li>Não existindo informação disponível na equipa do Contact Center, encaminhar o pedido internamente, preferencialmente via e-mail e, em alternativa, via telefone (2ª linha de suporte);</li>
+        <li>Sendo uma questão nova que possa ser respondida pela AMA, enviar a resposta.</li>
+        <li>Sendo uma questão nova que possa ser respondida no futuro, solicitar a atualização do Catálogo de Serviços de Atendimento (composto pelos scripts de resposta de telefone e email) para que, a partir desse momento, o Contact Center fique habilitado a responder ao cidadão/entidade sobre a dúvida que motivou o pedido.</li>
       </ul>
+      <p>Atualizar o Catálogo de Serviços de Atendimento;</p>
+      <p>Responder ao cidadão/entidade;</p>
+      <p>Consultar Relatórios dos Pedidos de Suporte e elaborar mensalmente o "DOC-13 Relatório Suporte 1ª Linha" que sistematiza os pedidos recebidos relativos aos serviços desmaterializados.</p>
     </td>
   </tr>
 </table>
@@ -472,6 +475,7 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 ### Macro atividade: Monitorização
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -510,22 +514,20 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
     <td>
       <strong>AMA:</strong>
       <ul>
-        <li>Extrair informação para a monitorização, designadamente:</li>
-        <ul>
-          <li>Sobre os pedidos de suporte: DOC-13/DOC-14/DOC-15;</li>
-          <li>Sobre o cumprimento dos Milestones e do cronograma estabelecido;</li>
-          <li>Sobre a satisfação dos utilizadores: DOC-18;</li>
-          <li>Sobre o cumprimento dos SLAs: DOC-19.</li>
-        </ul>
+          <li>Extrair informação para a monitorização, designadamente:</li>
+        <li>Sobre os pedidos de suporte: DOC-13/DOC-14/DOC-15;</li>
+        <li>Sobre o cumprimento dos Milestones e do cronograma estabelecido;</li>
+        <li>Sobre a satisfação dos utilizadores: DOC-18;</li>
+        <li>Sobre o cumprimento dos SLAs: DOC-19.</li>
         <li>Elaborar "DOC-20 Relatório de Monitorização do Projeto";</li>
-        <li>Apresentar o relatório na reunião mensal de acompanhamento do projeto com a Entidade. Se necessário propor alterações, por exemplo:</li>
-        <ul>
-          <li>Nas fichas de serviços;</li>
-          <li>No formulário de enquadramento;</li>
-          <li>Nos formulários eletrónicos;</li>
-          <li>No cronograma de execução do projeto.</li>
-        </ul>
-        <li>Ajustar planeamento do projeto, se necessário. Validar com a Entidade as alterações.</li>
+        <li>Apresentar o relatório na reunião mensal de acompanhamento do projeto com a Entidade.</li>
+        <li>Se necessário propor alterações, por exemplo:</li>
+        <li>Nas fichas de serviços;</li>
+        <li>No formulário de enquadramento;</li>
+        <li>Nos formulários eletrónicos;</li>
+        <li>No cronograma de execução do projeto.</li>
+        <li>Ajustar planeamento do projeto, se necessário.</li>
+        <li>Validar com a Entidade as alterações.</li>
       </ul>
     </td>
   </tr>

@@ -19,54 +19,211 @@ Para a adesão ao SCAP seguir os procedimentos:
 </div>
 <br>
 
+## Passos para Integração com o SCAP
 
-| Passo                                 | Entidade Responsável           | Descrição                                                                                                                                                                                                  |
-| ------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1.** Comunicar interesse de adesão  | Fornecedor de Atributos        | Formalizar a intenção de integrar com o SCAP enquanto Fornecedor de Atributos através do [formulário online](https://www.autenticacao.gov.pt/web/guest/integracao-entidade) opção Atributos Profissionais. |
-| **2.** Celebrar Protocolo             | AMA e Fornecedor de Atributos  | Celebrar o Protocolo.                                                                                                                                                                                      |
-| **3.** Preencher Template             | Fornecedor de Atributos        | Preenchimento do template partilhado pelo Fornecedor de Atributos e submissão à AMA (mantendo formato word e sem qualquer assinatura).                                                                     |
-| **4.** Validar e Assinar (AMA)        | AMA                            | Validação, numeração, aceitação e assinatura pelo Conselho Diretivo da AMA.                                                                                                                                |
-| **5.** Validar e Assinar (Fornecedor) | Fornecedor de Atributos        | Validação e assinatura do representante legal (ou representantes legais aplicáveis, de acordo com o descrito na Certidão Permanente) do Fornecedor de Atributos.                                           |
-| **6.** Entrada em Pré-Produção        | AMA e Fornecedor de Atributos  | Entrada em Ambiente de pré-produção (Ver Ambiente de pré-produção).                                                                                                                                        |
-| **7.** Entrada em Produção            | AMA e Fornecedor de Atributos  | Entrada em Produção do serviço de autenticação e assinatura com SCAP (Ver Ambiente de produção).                                                                                                           |
+<table>
+<caption></caption>
+  <tr>
+    <th>Passo</th>
+    <th>Entidade Responsável</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>1.Comunicar interesse de adesão</strong></td>
+    <td>Fornecedor de Atributos</td>
+    <td>Formalizar a intenção de integrar com o SCAP enquanto Fornecedor de Atributos através do <a href="https://www.autenticacao.gov.pt/web/guest/integracao-entidade">formulário online</a> opção Atributos Profissionais.</td>
+  </tr>
+  <tr>
+    <td><strong>2.Celebrar Protocolo</strong></td>
+    <td>AMA e Fornecedor de Atributos</td>
+    <td>Celebrar o Protocolo.</td>
+  </tr>
+  <tr>
+    <td><strong>3.Preencher Template</strong></td>
+    <td>Fornecedor de Atributos</td>
+    <td>Preenchimento do template partilhado pelo Fornecedor de Atributos e submissão à AMA (mantendo formato word e sem qualquer assinatura).</td>
+  </tr>
+  <tr>
+    <td><strong>4.Validar e Assinar (AMA)</strong></td>
+    <td>AMA</td>
+    <td>Validação, numeração, aceitação e assinatura pelo Conselho Diretivo da AMA.</td>
+  </tr>
+  <tr>
+    <td><strong>5.Validar e Assinar (Fornecedor)</strong></td>
+    <td>Fornecedor de Atributos</td>
+    <td>Validação e assinatura do representante legal (ou representantes legais aplicáveis, de acordo com o descrito na Certidão Permanente) do Fornecedor de Atributos.</td>
+  </tr>
+  <tr>
+    <td><strong>6.Entrada em Pré-Produção</strong></td>
+    <td>AMA e Fornecedor de Atributos</td>
+    <td>Entrada em Ambiente de pré-produção (Ver Ambiente de pré-produção).</td>
+  </tr>
+  <tr>
+    <td><strong>7.Entrada em Produção</strong></td>
+    <td>AMA e Fornecedor de Atributos</td>
+    <td>Entrada em Produção do serviço de autenticação e assinatura com SCAP (Ver Ambiente de produção).</td>
+  </tr>
+</table>
 
-## Ambiente de Pré-produção 
+## Ambiente de Pré-produção
 
-| Passo                               | Entidade Responsável           | Documentos de Suporte          | Descrição                                                                                          |
-| ----------------------------------- | ------------------------------ | ------------------------------ | -------------------------------------------------------------------------------------------------- |
-| **1.** Enviar informação            | Fornecedor de Atributos        | Ver Informação de Suporte \*1  | Envio de informação para configuração aplicacional da entidade.                                    |
-| **2.** Configurar VPN               | AMA e Fornecedor de Atributos  |                                | Configuração de VPN para comunicação entre Fornecedor e iAP.                                       |
-| **3.** Configuração Aplicacional    | AMA                            | Ver Informação de Suporte \*2  | Configuração aplicacional da entidade, e envio dos ficheiros definidos no ponto \*2 ao Fornecedor. |
-| **4.** Testar                       | Fornecedor de Atributos        |                                | Desenvolvimento e configuração de atributos de testes pedidos pela AMA.                            |
-| **5.** Validar desenvolvimento      | AMA                            |                                | Validação do desenvolvimento.                                                                      |
+<table>
+<caption></caption>
+  <tr>
+    <th>Passo</th>
+    <th>Entidade Responsável</th>
+    <th>Documentos de Suporte</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>1.Enviar informação</strong></td>
+    <td>Fornecedor de Atributos</td>
+    <td>Ver Informação de Suporte *1</td>
+    <td>Envio de informação para configuração aplicacional da entidade.</td>
+  </tr>
+  <tr>
+    <td><strong>2.Configurar VPN</strong></td>
+    <td>AMA e Fornecedor de Atributos</td>
+    <td></td>
+    <td>Configuração de VPN para comunicação entre Fornecedor e iAP.</td>
+  </tr>
+  <tr>
+    <td><strong>3.Configuração Aplicacional</strong></td>
+    <td>AMA</td>
+    <td>Ver Informação de Suporte *2</td>
+    <td>Configuração aplicacional da entidade, e envio dos ficheiros definidos no ponto *2 ao Fornecedor.</td>
+  </tr>
+  <tr>
+    <td><strong>4.Testar</strong></td>
+    <td>Fornecedor de Atributos</td>
+    <td></td>
+    <td>Desenvolvimento e configuração de atributos de testes pedidos pela AMA.</td>
+  </tr>
+  <tr>
+    <td><strong>5.Validar desenvolvimento</strong></td>
+    <td>AMA</td>
+    <td></td>
+    <td>Validação do desenvolvimento.</td>
+  </tr>
+</table>
 
-## Ambiente de Produção 
+## Ambiente de Produção
 
-| Passo                                                       | Entidade Responsável           | Documentos de Suporte                                                                                                               |
-| ----------------------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **1.** Relatório de cumprimento de Guidelines               | Fornecedor de Atributos        | Produção de relatório assinado com evidências de cumprimento de _Guidelines_ de Integração do SCAP (Ver Informação de Suporte \*1). |
-| **2.** Enviar Informação                                    | Fornecedor de Atributos        | Envio de informação para configuração aplicacional da entidade.                                                                     |
-| **3.** Configurar VPN                                       | AMA e Fornecedor de Atributos  | Configuração de VPN para comunicação entre Fornecedor e iAP.                                                                        |
-| **4.** Configuração Aplicacional                            | AMA                            | Configuração aplicacional da entidade, e envio dos ficheiros definidos no ponto \*3 ao fornecedor (Ver Informação de Suporte \*3).  |
-| **5.** Adquirir certificado                                 | Fornecedor de Atributos        | Aquisição de certificado qualificado de selo eletrónico com base no CSR gerado no passo anterior, e envio do certificado adquirido. |
-| **6.** Atualizar Configuração Aplicacional com Certificado  | AMA                            | Atualização da configuração aplicacional da entidade, com o certificado adquirido pelo fornecedor.                                  |
-| **7.** Testar                                               | Fornecedor de Atributos        | Configuração de atributos de testes pedidos pela AMA.                                                                               |
-| **8.** Validar desenvolvimento                              | AMA                            | Validação do desenvolvimento.                                                                                                       |
+<table>
+<caption></caption>
+  <tr>
+    <th>Passo</th>
+    <th>Entidade Responsável</th>
+    <th>Documentos de Suporte</th>
+  </tr>
+  <tr>
+    <td><strong>1.Relatório de cumprimento de Guidelines</strong></td>
+    <td>Fornecedor de Atributos</td>
+    <td>Produção de relatório assinado com evidências de cumprimento de Guidelines de Integração do SCAP (Ver Informação de Suporte *1).</td>
+  </tr>
+  <tr>
+    <td><strong>2.Enviar Informação</strong></td>
+    <td>Fornecedor de Atributos</td>
+    <td>Envio de informação para configuração aplicacional da entidade.</td>
+  </tr>
+  <tr>
+    <td><strong>3.Configurar VPN </strong></td>
+    <td>AMA e Fornecedor de Atributos</td>
+    <td>Configuração de VPN para comunicação entre Fornecedor e iAP.</td>
+  </tr>
+  <tr>
+    <td><strong>4.Configuração Aplicacional</strong></td>
+    <td>AMA</td>
+    <td>Configuração aplicacional da entidade, e envio dos ficheiros definidos no ponto *3 ao fornecedor (Ver Informação de Suporte *3).</td>
+  </tr>
+  <tr>
+    <td><strong>5.Adquirir certificado</strong></td>
+    <td>Fornecedor de Atributos</td>
+    <td>Aquisição de certificado qualificado de selo eletrónico com base no CSR gerado no passo anterior, e envio do certificado adquirido.</td>
+  </tr>
+  <tr>
+    <td><strong>6. Atualizar Configuração Aplicacional com Certificado</strong></td>
+    <td>AMA</td>
+    <td>Atualização da configuração aplicacional da entidade, com o certificado adquirido pelo fornecedor.</td>
+  </tr>
+  <tr>
+    <td><strong>7. Testar</strong></td>
+    <td>Fornecedor de Atributos</td>
+    <td>Configuração de atributos de testes pedidos pela AMA.</td>
+  </tr>
+  <tr>
+    <td><strong>8. Validar desenvolvimento</strong></td>
+    <td>AMA</td>
+    <td>Validação do desenvolvimento.</td>
+  </tr>
+</table>
 
-Para a configuração em ambiente de produção os Fornecedores de Atributos têm que efetuar a aquisição de um Certificado Qualificado Selo Eletrónico com o _Certificate Signing Request_ (CSR) emitido aquando da criação da conta desse fornecedor no SCAP. Para além desse CSR, **é também disponibilizado um ficheiro com a password encriptada da conta do Fornecedor de Atributos e uma** _secret key_ que será utilizada na validação das operações. 
+<p>Para a configuração em ambiente de produção os Fornecedores de Atributos têm que efetuar a aquisição de um Certificado Qualificado Selo Eletrónico com o <em>Certificate Signing Request</em> (CSR) emitido aquando da criação da conta desse fornecedor no SCAP. Para além desse CSR, <strong>é também disponibilizado um ficheiro com a password encriptada da conta do Fornecedor de Atributos e uma</strong> <em>secret key</em> que será utilizada na validação das operações. </p>
 
-## Informação de suporte
 
-| Pontos    | Informação de suporte                | Informação de suporte                                                      |
-| --------- | ------------------------------------ | -------------------------------------------------------------------------- |
-| \*1       | Nome completo da entidade            | —                                                                          |
-| \*1       | NIPC/NIF                             | —                                                                          |
-| \*1       | CAE                                  | Código da Classificação Portuguesa de Atividades Económicas, se aplicável  |
-| \*1       | Contacto telefónico                  | —                                                                          |
-| \*1       | Email                                | —                                                                          |
-| \*1       | CommonName                           | Ficará associado ao certificado - e.g. iniciais da entidade                |
-| \*1       | Localidade                           | Ficará associada ao certificado                                            |
-| \*2 e \*3 | SCAP\_\<Fornecedor>\_UriId           | Contém identificador da entidade perante o SCAP                            |
-| \*2 e \*3 | SCAP\_\<Fornecedor>\_TotpSecreyKey   | Contém secretKey para geração de TOTPs                                     |
-| \*2 e \*3 | SCAP\_\<Fornecedor>\_InfoFile        | Contém informação da conta do Fornecedor de Atributos                      |
-| \*3       | SCAP\_\<Fornecedor>\_CSR             | Contém CSR para pedir emissão de certificado                               |
+
+## Informação de Suporte
+
+<table>
+<caption></caption>
+  <tr>
+    <th>Pontos</th>
+    <th>Informação de suporte</th>
+    <th>Informação de suporte</th>
+  </tr>
+  <tr>
+    <td>*1</td>
+    <td>Nome completo da entidade</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>*1</td>
+    <td>NIPC/NIF</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>*1</td>
+    <td>CAE</td>
+    <td>Código da Classificação Portuguesa de Atividades Económicas, se aplicável</td>
+  </tr>
+  <tr>
+    <td>*1</td>
+    <td>Contacto telefónico</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>*1</td>
+    <td>Email</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>*1</td>
+    <td>CommonName</td>
+    <td>Ficará associado ao certificado - e.g. iniciais da entidade</td>
+  </tr>
+  <tr>
+    <td>*1</td>
+    <td>Localidade</td>
+    <td>Ficará associada ao certificado</td>
+  </tr>
+  <tr>
+    <td>*2 e *3</td>
+    <td>SCAP_&lt;Fornecedor&gt;_UriId</td>
+    <td>Contém identificador da entidade perante o SCAP</td>
+  </tr>
+  <tr>
+    <td>*2 e *3</td>
+    <td>SCAP_&lt;Fornecedor&gt;_TotpSecreyKey</td>
+    <td>Contém secretKey para geração de TOTPs</td>
+  </tr>
+  <tr>
+    <td>*2 e *3</td>
+    <td>SCAP_&lt;Fornecedor&gt;_InfoFile</td>
+    <td>Contém informação da conta do Fornecedor de Atributos</td>
+  </tr>
+  <tr>
+    <td>*3</td>
+    <td>SCAP_&lt;Fornecedor&gt;_CSR</td>
+    <td>Contém CSR para pedir emissão de certificado</td>
+  </tr>
+</table>

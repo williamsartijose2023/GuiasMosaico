@@ -13,6 +13,6 @@ Abaixo o diagrama de alto nível do dados.gov, demonstrando na Camada de Negóci
 
 <div style="text-align: center;">
   <img src="../../assets/images/dadosgov.png" alt="Diagrama de arquitetura de alto nível dados.gov">
-  Diagrama de arquitetura de alto nível dados.gov
 </div>
+ <div style="text-align: center;"> Diagrama de arquitetura de alto nível dados.gov</div>
 <br>

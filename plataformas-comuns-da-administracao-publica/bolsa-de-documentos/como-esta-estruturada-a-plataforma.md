@@ -11,6 +11,7 @@ Abaixo o diagrama de alto nível do Bolsa de Documentos, demonstrando na Camada 
 
 <div style="text-align: center;">
   <img src="../../assets/images/bolsa%20de%20docs.png" alt="Diagrama de Arquitetura de Alto Nível Bolsa de Documentos">
-  Diagrama de Arquitetura de Alto Nível Bolsa de Documentos
 </div>
+ <div style="text-align: center;"> Diagrama de Arquitetura de Alto Nível Bolsa de Documentos</div>
+
 <br>

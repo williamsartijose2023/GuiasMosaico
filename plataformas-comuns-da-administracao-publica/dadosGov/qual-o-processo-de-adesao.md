@@ -13,13 +13,15 @@ Este processo de adesão refere-se apenas aos perfis de fornecedor/participante 
 
 <div style="text-align: center;">
   <img src="../../assets/images/dados 1.png" alt="Processo de adesão ao dados.gov">
-  Processo de adesão ao dados.gov
 </div>
+ <div style="text-align: center;">  Processo de adesão ao dados.gov</div>
+
 <br>
 
 **Participante\[1] / Fornecedor\[2]:**
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>

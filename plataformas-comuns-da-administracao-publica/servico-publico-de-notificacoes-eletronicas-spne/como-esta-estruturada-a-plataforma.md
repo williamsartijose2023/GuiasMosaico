@@ -16,8 +16,8 @@ Este bloco de construção tem dependência com outros blocos de construção (i
 
 <div style="text-align: center;">
   <img src="../../assets/images/spne.png" alt="Diagrama de Arquitetura de alto nível SPNE">
-  Diagrama de Arquitetura de alto nível SPNE
 </div>
+<div style="text-align: center;">Diagrama de Arquitetura de alto nível SPNE</div>
 <br>
 
 ## Requisitos de implementação da PNE

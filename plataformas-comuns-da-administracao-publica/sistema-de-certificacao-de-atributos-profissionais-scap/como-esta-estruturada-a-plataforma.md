@@ -16,8 +16,8 @@ Este bloco de construção tem dependência com outros blocos de contrução (iA
 
 <div style="text-align: center;">
   <img src="../../assets/images/scap.png" alt="Diagrama de Arquitetura alto nível do SCAP">
-  Diagrama de Arquitetura alto nível do SCAP
 </div>
+ <div style="text-align: center;"> Diagrama de Arquitetura alto nível do SCAP</div>
 <br>
 
 
@@ -56,8 +56,10 @@ A comunicação entre o SCAP e os Fornecedores de Atributos é feita de forma as
 
 <div style="text-align: center;">
   <img src="../../assets/images/SCAP-estrutura.png" alt="Integração do SCAP">
-  Integração do SCAP
+ 
 </div>
+ <div style="text-align: center;"> Integração do SCAP</div>
+
 <br>
 O SCAP envia um pedido de consulta de atributos ao Fornecedor de Atributos de um cidadão, o Fornecedor de Atributos efetua o processamento do pedido e invoca, sequencialmente, um serviço da iAP com a resposta ao pedido de atributos e outro serviço para validação da operação. Este último serviço só pode ser invocado se o cidadão tiver atributos ativos.
 

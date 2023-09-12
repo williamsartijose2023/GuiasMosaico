@@ -32,6 +32,7 @@ Os requisitos necessários para a ligação VPN à Plataforma de Interoperabilid
 * Suporte de protocolos e funcionalidades no equipamento de estabelecimento da VPN, de acordo com:
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Phase 1 IKE</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Phase 2 IPSec</th>

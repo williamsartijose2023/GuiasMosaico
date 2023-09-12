@@ -23,52 +23,52 @@ Devido à natureza do processo de adesão, não é possível estimar um tempo ne
 </div>
 <br>   
 
-<!-- Table Content -->
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
   </tr>
   <tr>
-    <td><strong>1.</strong></td>
+    <td><strong>1. Comunicar interesse de adesão</strong></td>
     <td>Entidade Aderente</td>
     <td>Efetue um contacto formal comunicando o interesse através do endereço de mail<br>spne@ama.pt ou outro contacto da AMA.</td>
   </tr>
   <tr>
-    <td><strong>2.</strong></td>
+    <td><strong>2. Enviar Documento de Adesão e promoção de reunião</strong></td>
     <td>AMA</td>
     <td>Após receber resposta, envie o documento de adesão e os seus anexos, promovendo uma reunião para esclarecimentos e demonstração do SPNE.</td>
   </tr>
   <tr>
-    <td><strong>3.</strong></td>
+    <td><strong>3. Especificar as condições de adesão</strong></td>
     <td>Entidade Aderente</td>
     <td>Caracterização da Entidade, identificação dos serviços a aderir, e pretensão de utilizar apenas o backoffice das Entidades (<a href="https://entity.notificacoes.eportugal.gov.pt/">https://entity.notificacoes.eportugal.gov.pt/</a>) para envio de notificações avulso, ou se também pretendem o modelo de envio de notificações por interoperabilidade com os sistemas de informação da Entidade Aderente (WS/Batch).
       Identificação de todos os elementos da Entidade Aderente que deverão ter acesso ao backoffice das Entidades.</td>
   </tr>
   <tr>
-    <td><strong>4.</strong></td>
+    <td><strong>4. Atribuir credenciais de acesso ao backoffice </strong></td>
     <td>AMA</td>
     <td>Atribuição de credenciais a todos os elementos da equipa identificados no documento de adesão para acesso ao backoffice das Entidades.</td>
   </tr>
   <tr>
-    <td><strong>5.</strong></td>
+    <td><strong>5. Estabelecer uma ligação segura</strong></td>
     <td>AMA e Entidade Aderente</td>
     <td>Estabelecimento de ligação segura (VPN ou PTT) de acordo com as especificações técnicas.
       Conforme o tipo de ligação a adotar, será indicado um IP de acesso, para os endpoints dos serviços a considerar no Modelo de Comunicação.</td>
   </tr>
   <tr>
-    <td><strong>6.</strong></td>
+    <td><strong>6. Atribuir credenciais e abrir portas</strong></td>
     <td>AMA</td>
     <td>Configuração das portas para acesso dos sistemas de informação da Entidade Aderente e atribuição das respetivas credenciais de acesso.</td>
   </tr>
   <tr>
-    <td><strong>7.</strong></td>
+    <td><strong>7. Realizar Testes</strong></td>
     <td>AMA e Entidade Aderente</td>
     <td>Realização de testes.</td>
   </tr>
   <tr>
-    <td><strong>8.</strong></td>
+    <td><strong>8. Assinar Protocolo</strong></td>
     <td>AMA e Entidade Aderente</td>
     <td>Envio do Protocolo de Adesão para avaliação e preenchimento por parte da Entidade Aderente. Após acordo sobre as cláusulas e informação preenchida será assinado por ambas as partes, AMA e Entidade Aderente.</td>
   </tr>

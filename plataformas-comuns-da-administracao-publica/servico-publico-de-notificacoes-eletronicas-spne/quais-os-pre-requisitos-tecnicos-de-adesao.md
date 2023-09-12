@@ -28,29 +28,34 @@ Os requisitos necessários para a ligação VPN à Plataforma de Interoperabilid
 * Um endereço IP público, com conectividade para qualquer destino da Internet, para assegurar a criação do túnel IPSec;
 * Suporte de protocolos e funcionalidades no equipamento de estabelecimento da VPN, de acordo com:
 
-<!-- Table Content -->
+
 <table>
-  <tr>
-    <td style="background-color: #f2f2f2; padding: 10px;">Phase 1 IKE</td>
-    <td style="background-color: #f2f2f2; padding: 10px;">Phase 2 IPSec</td>
-  </tr>
-  <tr>
-    <td>
-      Key Exchange Encryption: AES 256 bits<br>
-      Data Integrity: SHA256<br>
-      Diffie-Hellman (DH) group 14<br>
-      Tempo de vida: 86400 segundos<br>
-      Type: Main mode
-    </td>
-    <td>
-      UDP encapsulation: Yes<br>
-      Protocol: ESP<br>
-      IPSec Encryption: AES 256<br>
-      Diffie-Hellman (DH) group 14<br>
-      PFS: Yes<br>
-      Tempo de vida: 3600 segundos
-    </td>
-  </tr>
+<caption></caption>
+  <thead>
+    <tr>
+      <th>Phase 1 IKE</th>
+      <th>Phase 2 IPSec</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Key Exchange Encryption: AES 256 bits
+        Data Integrity: SHA256
+        Diffie-Hellman (DH) group 14
+        Tempo de vida: 86400 segundos
+        Type: Main mode
+      </td>
+      <td>
+        UDP encapsulation: Yes
+        Protocol: ESP
+        IPSec Encryption: AES 256
+        Diffie-Hellman (DH) group 14
+        PFS: Yes
+        Tempo de vida: 3600 segundos
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 

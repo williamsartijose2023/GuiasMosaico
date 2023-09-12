@@ -30,6 +30,7 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 ### Macro atividade: Definição do âmbito e protocolo
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -87,43 +88,51 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
     <td>
       <strong>AMA:</strong>
       <ul>
-        <li>Verificar se o template do protocolo (DOC-04 Protocolo) se encontra atual e aplicável ao projeto;</li>
-        <li>Rever o conteúdo do protocolo, se necessário;</li>
-        <li>Anexar “DOC-01 Listagem de serviços”, “DOC-02 Project Charter”, “DOC-03 SLA”, “DOC-04 Protocolo” com os respetivos anexos para o ponto de contacto da Entidade, para validação prévia (informal);</li>
-        <li>Alterar conteúdo do protocolo, se solicitado pela Entidade:</li>
-        <ul>
-          <li>Elaborar pedido de novo protocolo, mediante preenchimento do documento “Comunicação Protocolos”, do Gabinete Jurídico da AMA;</li>
-          <li>Enviar pedido de novo protocolo ao Gabinete Jurídico da AMA, através da plataforma de gestão documental.</li>
-        </ul>
-        <li>Se necessário, solicitar alterações. Em função do pedido de alteração, submete à Entidade para nova validação;</li>
-        <li>Validar o texto e submeter para assinatura na AMA;</li>
-        <li>Enviar o protocolo assinado pelo para a Entidade para assinatura.</li>
+        <li>
+          Verificar se o template do protocolo (DOC-04 Protocolo) se encontra atual e aplicável ao projeto.
+        </li>
+        <li>
+          Rever o conteúdo do protocolo, se necessário.
+        </li>
+        <li>
+          Anexar “DOC-01 Listagem de serviços”, “DOC-02 Project Charter”, “DOC-03 SLA”, “DOC-04 Protocolo” com os respetivos anexos para o ponto de contato da Entidade, para validação prévia (informal).
+        </li>
+        <li>
+          Alterar conteúdo do protocolo, se solicitado pela Entidade:
+          <ul>
+            <li>Elaborar pedido de novo protocolo, mediante preenchimento do documento “Comunicação Protocolos”, do Gabinete Jurídico da AMA.</li>
+            <li>Enviar pedido de novo protocolo ao Gabinete Jurídico da AMA, através da plataforma de gestão documental.</li>
+          </ul>
+        </li>
+        <li>
+          Se necessário, solicitar alterações. Em função do pedido de alteração, submete à Entidade para nova validação.
+        </li>
+        <li>
+          Validar o texto e submeter para assinatura na AMA.
+        </li>
+        <li>
+          Enviar o protocolo assinado pelo para a Entidade para assinatura.
+        </li>
       </ul>
-      <strong>Entidade:</strong>
       <ul>
-        <li>Devolver o protocolo assinado ao Gabinete Jurídico da AMA.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Avaliar protocolo e dar resposta</td>
-    <td>Entidade</td>
-    <td>
-      <strong>Entidade:</strong>
-      <ul>
-        <li>Avaliação do protocolo.</li>
-        <ul>
-          <li>a) Caso aceite o protocolo será dada continuidade ao processo;</li>
-          <li>b) Caso não aceite, o processo volta à etapa de “Elaboração do Protocolo”.</li>
-        </ul>
+        <li>
+          Avaliação do protocolo.
+          <ul>
+            <li>a) Caso aceite o protocolo será dada continuidade ao processo.</li>
+            <li>b) Caso não aceite, o processo volta à etapa de “Elaboração do Protocolo”.</li>
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
 </table>
 
+
+
 ### Macro atividade: Caracterização de serviços
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -151,6 +160,7 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 ### Macro atividade: Análise funcional e prototipagem
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -307,6 +317,7 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 ### Macro atividade: Conteúdos informativos
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -402,6 +413,7 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 ### Macro atividade: Configurações e testes (sem integração)
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -578,6 +590,7 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 ### Macro atividade: Formação
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -623,6 +636,7 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 ### Macro atividade: Suporte 1ª linha
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
@@ -678,6 +692,7 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 ### Macro atividade: Monitorização
 
 <table>
+<caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
