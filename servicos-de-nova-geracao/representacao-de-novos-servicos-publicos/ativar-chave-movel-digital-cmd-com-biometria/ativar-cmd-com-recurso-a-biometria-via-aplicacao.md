@@ -15,19 +15,19 @@ O novo serviço digital “Ativação da chave móvel digital com recurso a biom
 
 ## Partes Interessadas
 
-#### AMA
+### AMA
 
 A Agência para Modernização Administrativa é o instituto público responsável pela promoção e desenvolvimento da modernização administrativa em Portugal. A sua atuação divide-se em três eixos: atendimento, transformação digital e inovação e participação, e encontra-se sob superintendência e tutela do Secretário de Estado da Digitalização e da Modernização Administrativa.
 
 É responsável pelas Plataformas Comuns utilizadas na solução a desenvolver, descrita neste documento.
 
-#### IRN
+### IRN
 
 O Instituto dos Registos e do Notariado é um instituto público que executa e acompanha as políticas relativas aos serviços de registo, tendo em vista assegurar a prestação de serviços aos cidadãos e às empresas no âmbito da identificação civil e do registo civil, de nacionalidade, predial, comercial, de bens móveis e de pessoas coletivas. O IRN assegura, ainda, a regulamentação, o controlo e a fiscalização da atividade notarial.
 
 No processo de Ativação de CMD com recurso a biometria, os dados fornecidos pelo cidadão deverão ser validados, através da comparação destes com os dados do cidadão no IRN.
 
-## Visão da Arquitetura
+### Visão da Arquitetura
 
 A Chave Móvel Digital (CMD) é um meio de autenticação e assinatura digital certificado pelo Estado português, que permite ao utilizador autenticar-se em vários portais públicos ou privados, e assinar documentos digitais, com assinatura eletrónica qualificada.
 
@@ -148,7 +148,7 @@ Para a ativação da CMD, será necessário recolher dados pessoais discriminado
 
 ## Arquitetura de negócio
 
-#### Serviço
+### Serviço
 
 Ativação de CMD com recurso a biometria via Aplicação
 
@@ -158,18 +158,18 @@ Ativação de CMD com recurso a biometria via Aplicação
 </div>
 <br>
 
-#### Objetos de negócio do serviço
+### Objetos de negócio do serviço
 
 *   **Chave Móvel Digital** - A Chave Móvel Digital é um meio de autenticação e assinatura digital certificado pelo Estado português. Permite ao utilizador aceder a vários portais públicos ou privados, e assinar documentos digitais.
 
     A Chave Móvel Digital permite a associação do número de identificação civil a um único número de telemóvel, podendo também ser associada a um endereço de correio eletrónico. No caso de cidadão estrangeiro que não tenha número de identificação civil1, a associação é efetuada através do número de identificação fiscal constante do título de residência, do cartão de residência ou ainda do respetivo número de passaporte.
 * **Assinatura Digital** - A assinatura digital possui certificados digitais associados que asseguram a identidade de quem assina um documento digital. O Estado português garante a certificação de assinaturas digitais realizadas com cartão de cidadão ou chave móvel digital.
 
-#### Utilizadores do serviço
+### Utilizadores do serviço
 
 * Cidadão - Entidade requerente da CMD. Participa no processo de adesão à CMD com recurso a biometria via Aplicação.
 
-#### Processo de negócio
+### Processo de negócio
 
 Aderir à CMD com recurso a biometria via Aplicação.
 
@@ -254,7 +254,7 @@ Aderir à CMD com recurso a biometria via Aplicação.
 
 ## Arquitetura aplicacional
 
-#### Processo aplicacional
+### Processo aplicacional
 
 Aderir à CMD por identificação à distância com recurso a Aplicação.
 
@@ -345,7 +345,7 @@ Aderir à CMD por identificação à distância com recurso a Aplicação.
 </table>
 
 
-#### Soluções aplicacionais
+### Soluções aplicacionais
 
 A realização das etapas do processo aplicacional, é suportada pelas soluções:
 
@@ -388,7 +388,7 @@ A realização das etapas do processo aplicacional, é suportada pelas soluçõe
 </table>
 
 
-#### Plataformas comuns
+### Plataformas comuns
 
 É suportada pelas Plataformas comuns:
 
@@ -424,7 +424,7 @@ A realização das etapas do processo aplicacional, é suportada pelas soluçõe
 
 
 
-#### Arquitetura completa
+### Arquitetura completa
 
 Arquitetura completa do serviço ativar CMD com recurso à biometria via aplicação:
 

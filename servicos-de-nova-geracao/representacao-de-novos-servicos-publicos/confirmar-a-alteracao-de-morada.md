@@ -14,19 +14,19 @@ No portal [ePortugal](https://eportugal.gov.pt/), o evento de vida “Mudar de M
 
 ## Partes interessadas
 
-#### AMA
+### AMA
 
 A Agência para Modernização Administrativa é o instituto público responsável pela promoção e desenvolvimento da modernização administrativa em Portugal. A sua atuação divide-se em três eixos: atendimento, transformação digital e inovação e participação, e encontra-se sob superintendência e tutela do Secretário de Estado da Digitalização e da Modernização Administrativa.
 
 É responsável pelas Plataformas Comuns utilizadas na solução a desenvolver, descrita neste documento.
 
-#### IRN
+### IRN
 
 O Instituto dos Registos e do Notariado é um instituto público que executa e acompanha as políticas relativas aos serviços de registo, tendo em vista assegurar a prestação de serviços aos cidadãos e às empresas no âmbito da identificação civil e do registo civil, de nacionalidade, predial, comercial, de bens móveis e de pessoas coletivas. O IRN assegura, ainda, a regulamentação, o controlo e a fiscalização da atividade notarial.
 
 No processo de alteração de morada, o IRN assegura operacionalmente a concretização do pedido de efetuado pelo cidadão.
 
-## Visão da Arquitetura
+### Visão da Arquitetura
 
 A morada do cidadão é um dos dados guardados no cartão de cidadão. Para alterar a morada online, o cidadão pode utilizar o serviço “Alterar a morada do cartão de cidadão”, disponível no portal ePortugal, ou pode também alterá-la presencialmente, num Balcão de Atendimento.
 
@@ -124,7 +124,7 @@ Apresenta:
 * O serviço de confirmação de morada, requer o código enviado na carta de confirmação, enviada para a morada registada no pedido de alteração de morada;
 * Após conclusão do processo, será disponibilizado ao cidadão uma opção para aceder a uma página com informação sobre serviços municipais.
 
-## Arquitetura de Negócio
+### Arquitetura de Negócio
 
 ### Serviço
 
@@ -154,6 +154,7 @@ Confirmar Alteração de Morada
 <br>
 
 <table>
+ <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
@@ -197,7 +198,7 @@ Confirmar Alteração de Morada
 </table>
 
 
-## Arquitetura aplicacional
+### Arquitetura aplicacional
 
 ### Processo aplicacional
 
@@ -211,6 +212,7 @@ Confirmar Alteração de Morada
 
 
 <table>
+ <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
@@ -238,6 +240,7 @@ A realização das etapas do processo aplicacional, é suportada pela solução:
 <br>
 
 <table>
+ <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Solução Aplicacional</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
@@ -258,6 +261,7 @@ E é suportada também pelas Plataformas Comuns:
 <br>
 
 <table>
+ <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>

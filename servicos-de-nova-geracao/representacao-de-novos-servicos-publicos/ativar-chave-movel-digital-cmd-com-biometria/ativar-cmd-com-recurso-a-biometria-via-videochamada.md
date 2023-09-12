@@ -17,19 +17,19 @@ O novo serviço digital “Ativação da chave móvel digital com recurso a biom
 
 ## Partes interessadas
 
-#### AMA
+### AMA
 
 A Agência para Modernização Administrativa é o instituto público responsável pela promoção e desenvolvimento da modernização administrativa em Portugal. A sua atuação divide-se em três eixos: atendimento, transformação digital e inovação e participação, e encontra-se sob superintendência e tutela do Secretário de Estado da Digitalização e da Modernização Administrativa.
 
 É responsável pelas Plataformas Comuns utilizadas e pelo serviço que descrito neste documento.
 
-#### IRN
+### IRN
 
 O Instituto dos Registos e do Notariado é um instituto público que executa e acompanha as políticas relativas aos serviços de registo, tendo em vista assegurar a prestação de serviços aos cidadãos e às empresas no âmbito da identificação civil e do registo civil, de nacionalidade, predial, comercial, de bens móveis e de pessoas coletivas. O IRN assegura, ainda, a regulamentação, o controlo e a fiscalização da atividade notarial.
 
 No processo de Ativação de CMD com recurso a biometria, os dados fornecidos pelo cidadão deverão ser validados, através da comparação destes com os dados do cidadão no IRN.
 
-## Visão da Arquitetura
+### Visão da Arquitetura
 
 A Chave Móvel Digital (CMD) é um meio de autenticação e assinatura digital certificado pelo Estado português, que permite ao utilizador autenticar-se em vários portais públicos ou privados, e assinar documentos digitais, com assinatura eletrónica qualificada.
 
@@ -125,7 +125,7 @@ A realização de cada etapa do processo aplicacional quer por novos componentes
 
 O processo de ativação da CMD por identificação à distância com recurso a videochamada, recorre em combinação da verificação de diferentes fatores de autenticação, enumerados de seguida, e em conformidade com o Despacho n.º 154/2017 do Gabinete Nacional de Segurança para os efeitos definidos na alínea d) do n.º 1 do artigo 24.º do Regulamento (UE) N.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.
 
-#### Requisitos
+### Requisitos
 
 * Verificação que é a pessoa titular do documento de identificação que está, em tempo real e sem interrupções/pausas, a requerer o pedido de registo CMD;
 * Verificação que o documento de identificação apresentado é autêntico e corresponde ao requerente;
@@ -137,7 +137,7 @@ O processo de ativação da CMD por identificação à distância com recurso a 
 
 O processo de adesão pode ser cancelado em qualquer altura da sessão de videochamada, por iniciativa do operador ou do requerente. O operador pode cancelar a sessão, em especial, por qualquer uma das situações enumeradas de seguida, de acordo com o Despacho n.º 154/2017 do Gabinete Nacional de Segurança.
 
-#### Motivos de cancelamento
+### Motivos de cancelamento
 
 * A sessão de videochamada não ser realizada em tempo real e sem interrupções/pausas;
 * O requerente não ter consigo o documento de identificação permitido ou o telemóvel, levando a interrupção/pausa na sessão ou a pedido a pessoa externa à sessão;
@@ -185,7 +185,7 @@ Para a ativação da CMD por identificação à distância com recurso a videoch
 
 ## Arquitetura de negócio
 
-#### Serviço
+### Serviço
 
 Ativação de CMD com recurso a biometria
 
@@ -195,7 +195,7 @@ Ativação de CMD com recurso a biometria
  <div style="text-align: center;">  Vista alto nível do serviço</div>
 <br>
 
-#### Objetos de negócio do serviço
+### Objetos de negócio do serviço
 
 
 <table>
@@ -217,7 +217,7 @@ Ativação de CMD com recurso a biometria
   </tr>
 </table>
 
-#### Utilizadores do serviço
+### Utilizadores do serviço
 
 <table>
   <caption></caption>
@@ -239,7 +239,7 @@ Ativação de CMD com recurso a biometria
   </tr>
 </table>
 
-#### Processo de negócio completo
+### Processo de negócio completo
 
 
 ### Processo de negócio: Efetuar pedido de agendamento de videochamada
@@ -464,7 +464,7 @@ Ativação de CMD com recurso a biometria
 
 ## Arquitetura aplicacional
 
-#### Processo aplicacional completo
+### Processo aplicacional completo
 
 O processo aplicacional completo, necessário à realização do serviço, é o seguinte:
 
@@ -601,7 +601,7 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 </table>
 
 
-#### Soluções aplicacionais
+### Soluções aplicacionais
 
 <div style="text-align: center;">
   <img src="../../../assets/images/image%20(1).png" alt="Vista das Soluções Aplicacionais que suportam o serviço">
@@ -635,7 +635,7 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 </table>
 
 
-#### Plataformas comuns
+### Plataformas comuns
 
 A solução aplicacional é suportada pelas Plataformas Comuns:
 
@@ -678,7 +678,7 @@ A solução aplicacional é suportada pelas Plataformas Comuns:
   </tr>
 </table>
 
-#### Arquitetura aplicacional completa
+### Arquitetura aplicacional completa
 
 Arquitetura aplicacional completa do serviçlo ativar CMD com rescurso a biometria via videochamada:
 

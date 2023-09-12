@@ -14,7 +14,7 @@ Estes serviços digitais possibilitam ao cidadão consultar os pontos da carta d
 
 ## Partes Interessadas
 
-#### ANSR
+### ANSR
 
 A **Autoridade Nacional de Segurança Rodoviária** é um serviço central da administração direta do Estado dotado de autonomia administrativa. A ANSR tem por missão o planeamento e coordenação a nível nacional de apoio à política do Governo em matéria de segurança rodoviária, bem como a aplicação do direito contraordenacional rodoviário.
 
@@ -22,7 +22,7 @@ Gere atualmente o Portal das Contraordenações, que tem um plano de evolução 
 
 Disponibilizará os serviços de Consulta de pontos da carta de condução e Consulta de processos de contraordenação rodoviária no Balcão do Condutor, através de uma integração realizada pela plataforma comum: Plataforma de Integração (iAP-PI).
 
-#### AMA
+### AMA
 
 A **Agência para Modernização Administrativa** é o instituto público responsável pela promoção e desenvolvimento da modernização administrativa em Portugal. A sua atuação divide-se em três eixos: atendimento, transformação digital e inovação e participação, e encontra-se sob superintendência e tutela do [Secretário de Estado da Digitalização e da Modernização Administrativa](https://www.portugal.gov.pt/pt/gc23/primeiro-ministro/secretarios-de-estado?i=digitalizacooedamodernizacooadministrativa).
 
@@ -30,7 +30,7 @@ Gere atualmente o [Portal das Contraordenações](https://portalcontraordenacoes
 
 Disponibilizará os serviços de Consulta de pontos da carta de condução e Consulta de processos de contraordenação rodoviária no Balcão do Condutor, através do sistema SIGA da ANSR (Sistema de Informação e Gestão de Autos) integrado com a Plataforma de Integração (iAP-PI).
 
-#### IMT
+### IMT
 
 O **Instituto da Mobilidade e dos Transportes**, instituto público integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio. O IMT, I.P. sucede nas atribuições: do Instituto de Infraestruturas Rodoviárias, I.P.; do Instituto Portuário e dos Transportes Marítimos, I.P.; da Comissão de Planeamento de Emergência dos Transportes Terrestres
 
@@ -38,7 +38,7 @@ O IMT, I.P. integra ainda as atribuições da SIEV - Sistema de Identificação 
 
 Disponibiliza na área Balcão do Condutor, informação sobre a carta de condução do cidadão proveniente do seu sistema SICC (Sistema de Informação do Condutor e da Emissão de Títulos de Condução).
 
-## Visão da arquitetura
+### Visão da arquitetura
 
 Os serviços Consulta de pontos da carta de condução e Consulta de processos de contraordenação rodoviária, são serviços atualmente disponíveis a cidadãos registados no Portal das Contraordenações, gerido pela ANSR.
 
@@ -104,7 +104,7 @@ Apresenta:
 
 ### Consulta de pontos da carta de condução
 
-#### **Serviço**
+### **Serviço**
 
 Consulta de pontos da carta de condução.
 
@@ -115,15 +115,15 @@ Consulta de pontos da carta de condução.
 
 <br>
 
-#### **Objetos de negócio do serviço**
+### **Objetos de negócio do serviço**
 
 * Carta de condução - Documento pelo qual a habilitação de conduzir um veículo é válida.
 
-#### **Utilizadores do serviço**
+### **Utilizadores do serviço**
 
 * Condutor - Acede ao Balcão do Condutor no portal ePortugal e autentica-se com o Cartão de Cidadão ou Chave Móvel Digital. Consulta o serviço consulta de pontos da carta de condução.
 
-#### Processo de negócio
+### Processo de negócio
 
 Consultar pontos da carta de condução.
 
@@ -188,7 +188,7 @@ Consultar pontos da carta de condução.
 
 ### Consulta de processos de contraordenação rodoviária
 
-#### Serviço
+### Serviço
 
 Consulta de processos de contraordenação rodoviária.
 
@@ -198,18 +198,18 @@ Consulta de processos de contraordenação rodoviária.
 </div>
 <br>
 
-#### Objetos de negócio do serviço
+### Objetos de negócio do serviço
 
 Contraordenação - Define-se como contraordenação rodoviária todo o facto ilícito e censurável que preencha um tipo legal correspondente á violação de norma do Código da Estrada e de legislação complementar, para a qual se estabeleça uma coima (art.º 131º do Código da Estrada).
 
-#### Utilizadores do serviço
+### Utilizadores do serviço
 
 Condutor:
 
 * Acede ao Balcão do Condutor no ePortugal, e autentica-se com o Cartão de Cidadão ou Chave Móvel Digital.&#x20;
 * Consulta o serviço Consulta de processos de contraordenação rodoviária.
 
-#### Processo de negócio
+### Processo de negócio
 
 Consulta de processos de contraordenação rodoviária.
 
@@ -276,7 +276,7 @@ Consulta de processos de contraordenação rodoviária.
 
 ### Consulta de pontos da carta de condução
 
-#### Processo aplicacional
+### Processo aplicacional
 
 Consultar pontos da carta de condução.
 
@@ -399,7 +399,7 @@ E é suportada também pelas Plataformas Comuns:
 </table>
 
 
-#### Arquitetura completa do serviço
+### Arquitetura completa do serviço
 
 <div style="text-align: center;">
   <img src="../../assets/images/MicrosoftTeams-image%20(8).png" alt="Vista Global do serviço Consulta de pontos da carta de condução">
@@ -410,7 +410,7 @@ E é suportada também pelas Plataformas Comuns:
 
 ### &#x20;Consulta de processos de contraordenação rodoviária
 
-#### Processo aplicacional
+### Processo aplicacional
 
 Consultar Processos de Contraordenação Rodoviária.
 
@@ -551,7 +551,7 @@ E é suportada também pelas Plataformas Comuns:
 </table>
 
 
-#### Arquitetura completa do serviço
+### Arquitetura completa do serviço
 
 Arquitetura completa do serviço consulta de processos de contraordenação rodoviária.
 

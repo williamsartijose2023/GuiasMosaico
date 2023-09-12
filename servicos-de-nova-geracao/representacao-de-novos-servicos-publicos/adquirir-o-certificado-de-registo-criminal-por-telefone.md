@@ -16,7 +16,7 @@ O novo serviço digital “Pedido do certificado de registo criminal de pessoas 
 
 ## Partes interessadas
 
-#### AMA
+### AMA
 
 A Agência para Modernização Administrativa é o instituto público responsável pela promoção e desenvolvimento da modernização administrativa em Portugal. A sua atuação divide-se em três eixos: atendimento, transformação digital e inovação e participação, e encontra-se sob superintendência e tutela do [Secretário de Estado da Digitalização e da Modernização Administrativa](https://www.portugal.gov.pt/pt/gc23/primeiro-ministro/secretarios-de-estado?i=digitalizacooedamodernizacooadministrativa).
 
@@ -24,13 +24,13 @@ A Agência para Modernização Administrativa é o instituto público responsáv
 
 O novo Balcão do Condutor será será desenvolvido pela AMA, no portal ePortugal.
 
-#### DGAJ
+### DGAJ
 
 A Direção-Geral da Administração da Justiça é um serviço do Ministério da Justiça que tem por missão assegurar o apoio ao funcionamento dos tribunais.
 
 Gere atualmente o Portal Registo Criminal que disponibiliza os serviços de Pedido do certificado de registo criminal e Consulta de certificados.
 
-## Visão da arquitetura
+### Visão da arquitetura
 
 Atualmente o certificado de registo criminal pode ser pedido presencialmente, por pessoa de qualquer nacionalidade, com documento de identificação válido (cartão de cidadão, passaporte, título de residência) em qualquer posto de atendimento onde é possível a emissão de certificados; ou online, através do Portal Registo Criminal, apenas disponivel para cidadãos portugueses.
 
@@ -70,6 +70,7 @@ Os diagramas de arquitetura apresentados neste documento, foram definidos com ba
 
 
 <table>
+  <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Necessidade</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
@@ -115,7 +116,7 @@ Os diagramas de arquitetura apresentados neste documento, foram definidos com ba
 
 ## Arquitetura de negócio
 
-#### Serviço
+### Serviço
 
 Pedido do certificado de registo criminal de pessoas singulares
 
@@ -125,11 +126,11 @@ Pedido do certificado de registo criminal de pessoas singulares
 </div>
 <br>
 
-#### Objetos de negócio do serviço
+### Objetos de negócio do serviço
 
 * Certificado do Registo Criminal - O registo criminal contém todos os antecedentes criminais dos cidadãos com mais de 16 anos. O certificado do registo criminal serve para atestar a existência de antecedentes criminais ou para comprovar a sua ausência.
 
-#### Utilizadores do serviço
+### Utilizadores do serviço
 
 * Cidadão - Efetua o pedido do certificado de registo criminal, através de uma chamada telefónica ao Call Center;
 * Operador - Conduz o processo de pedido do certificado de registo criminal de pessoas singulares no canal telefónico.
@@ -146,6 +147,7 @@ Processo de Negócio: Pedir o certificado de registo criminal de pessoas singula
 
 
 <table>
+  <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
@@ -185,6 +187,7 @@ Processo de Negócio: Pedir o certificado de registo criminal de pessoas singula
 
 
 <table>
+  <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
@@ -249,6 +252,7 @@ Processo Aplicacional: Pedir o certificado de registo criminal de pessoas singul
 <br>
 
 <table>
+  <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
@@ -275,6 +279,7 @@ Processo Aplicacional: Pedir o certificado de registo criminal de pessoas singul
 
 
 <table>
+  <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
@@ -310,6 +315,7 @@ E é suportada pelas Plataformas Comuns:
 <br>
 
 <table>
+  <caption></caption>
   <tr>
     <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
     <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>

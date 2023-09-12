@@ -7,7 +7,7 @@ nav_order: 4
 
 # Metamodelo
 
-O Metamodelo é um modelo que permite explicitar que elementos são essenciais na descrição de uma arquitetura.&#x20;
+O Metamodelo é um modelo que permite explicitar que elementos são essenciais na descrição de uma arquitetura.
 
 Tendo em conta o âmbito e foco da Arquitetura de Referência aqui descrita, e tendo em vista a apresentação de uma arquitetura tão simples quanto possível, optou-se por apresentar apenas os elementos arquiteturais essenciais ao âmbito e objetivos da presente arquitetura, e que estão ilustrados na figura seguinte.
 
