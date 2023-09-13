@@ -21,14 +21,14 @@ Nesta área poderá consultar conteúdo técnico, prático e detalhado, para aju
 
 
 
-<a href="../../plataformas-comuns-da-administracao-publica/servico-de-autenticacao/qual-o-processo-de-adesao">Qual o processo de adesão?</a><br>
+<a href="/GuiasMosaico/plataformas-comuns-da-administracao-publica/servico-de-autenticacao/qual-o-processo-de-adesao.html">Qual o processo de adesão?</a><br>
 
-<a href="../../plataformas-comuns-da-administracao-publica/servico-de-autenticacao/como-esta-estruturada-a-plataforma">Como está estruturada a plataforma?</a><br>
+<a href="/GuiasMosaico/plataformas-comuns-da-administracao-publica/servico-de-autenticacao/como-esta-estruturada-a-plataforma.html">Como está estruturada a plataforma?</a><br>
 
 Descubra os guias práticos relacionados com o Fornecedor de Autenticação:
 
-<a href="../../guias-praticos/como-funciona-o-servico-de-autenticacao/">Como funciona o Serviço de Autenticação</a><br>
+<a href="/GuiasMosaico/guias-praticos/como-funciona-o-servico-de-autenticacao.html">Como funciona o Serviço de Autenticação</a><br>
 
-<a href="../../guias-praticos/integrar-com-o-servico-de-autenticao/">Integrar com o Serviço de Autenticação</a>
+<a href="../../guias-praticos/integrar-com-o-servico-de-autenticao.html/">Integrar com o Serviço de Autenticação</a>
 
 
