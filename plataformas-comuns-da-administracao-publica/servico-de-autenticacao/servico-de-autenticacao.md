@@ -4,7 +4,6 @@ title: Serviço de Autenticação
 nav_order: 3
 has_children: true
 permalink: /plataformas-comuns-da-administracao-publica/servico-de-autenticacao
-redirect_to: /plataformas-comuns-da-administracao-publica/servico-de-autenticacao
 has_toc: false
 ---
 
@@ -16,7 +15,8 @@ O **Serviço de Autenticação** providencia autenticação a qualquer entidade,
 
 Nesta área poderá consultar conteúdo técnico, prático e detalhado, para ajudar na adesão e utilização do Serviço de Autenticação:
 
-<a href="/plataformas-comuns-da-administracao-publica/servico-de-autenticacao/quais-os-pre-requisitos-tecnicos-de-adesao.md">Quais os pré-requisitos técnicos de adesão?</a><br>
+<a href="/plataformas-comuns-da-administracao-publica/servico-de-autenticacao/quais-os-pre-requisitos-tecnicos-de-adesao.html">Quais os pré-requisitos técnicos de adesão?</a><br>
+
 
 
 
