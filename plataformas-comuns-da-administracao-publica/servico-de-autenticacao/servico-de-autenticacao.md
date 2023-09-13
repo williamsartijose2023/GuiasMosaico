@@ -16,12 +16,14 @@ O **Serviço de Autenticação** providencia autenticação a qualquer entidade,
 
 Nesta área poderá consultar conteúdo técnico, prático e detalhado, para ajudar na adesão e utilização do Serviço de Autenticação:
 
-<a href="../../plataformas-comuns-da-administracao-publica/servico-de-autenticacao/quais-os-pre-requisitos-tecnicos-de-adesao" class="button">Quais os pré-requisitos técnicos de adesão?</a><br>
-<a href="../../plataformas-comuns-da-administracao-publica/servico-de-autenticacao/qual-o-processo-de-adesao" class="button">Qual o processo de adesão?</a><br>
-<a href="../../plataformas-comuns-da-administracao-publica/servico-de-autenticacao/como-esta-estruturada-a-plataforma" class="button">Como está estruturada a plataforma?</a><br>
+[Quais os pré-requisitos técnicos de adesão?](../../plataformas-comuns-da-administracao-publica/servico-de-autenticacao/quais-os-pre-requisitos-tecnicos-de-adesao)
 
+[Qual o processo de adesão?](../../plataformas-comuns-da-administracao-publica/servico-de-autenticacao/qual-o-processo-de-adesao)
 
-  Descubra os guias práticos relacionados com o Fornecedor de Autenticação:
+[Como está estruturada a plataforma?](../../plataformas-comuns-da-administracao-publica/servico-de-autenticacao/como-esta-estruturada-a-plataforma)
 
-  <a href="../../guias-praticos/como-funciona-o-servico-de-autenticacao/" class="button">Como funciona o Serviço de Autenticação</a><br>
-  <a href="../../guias-praticos/integrar-com-o-servico-de-autenticacao/" class="button">Integrar com o Serviço de Autenticação</a>
+Descubra os guias práticos relacionados com o Fornecedor de Autenticação:
+
+[Como funciona o Serviço de Autenticação](../../guias-praticos/como-funciona-o-servico-de-autenticacao/)
+
+[Integrar com o Serviço de Autenticação](../../guias-praticos/integrar-com-o-servico-de-autenticacao/)

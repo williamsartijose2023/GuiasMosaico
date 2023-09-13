@@ -13,7 +13,7 @@ A **Plataforma de Mensagens** permite o envio e receção de SMS, através de n�
 
 Nesta área poderá consultar conteúdo técnico, prático e detalhado, para ajudar na adesão e utilização da GAP:
 
-- [Quais os pré-requisitos técnicos de adesão?](quais-os-pre-requisitos-tecnicos-de-adesao.md)
-- [Qual o processo de adesão?](qual-o-processo-de-adesao.md)
-- [Como está estruturada a plataforma?](como-esta-estruturada-a-plataforma.md)
+- [Quais os pré-requisitos técnicos de adesão?](../plataforma-de-mensagens-gap/quais-os-pre-requisitos-tecnicos-de-adesao)
+- [Qual o processo de adesão?](../plataforma-de-mensagens-gap/qual-o-processo-de-adesao)
+- [Como está estruturada a plataforma?](../plataforma-de-mensagens-gap/como-esta-estruturada-a-plataforma)
 

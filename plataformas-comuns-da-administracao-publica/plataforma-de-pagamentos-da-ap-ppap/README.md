@@ -13,7 +13,7 @@ A **Plataforma de Pagamentos** oferece mais meios de pagamento para os Cidadãos
 
 Nesta área poderá consultar conteúdo técnico, prático e detalhado, para ajudar na adesão e utilização da PPAP:
 
-- [Quais os pré-requisitos técnicos de adesão?](quais-os-pre-requisitos-tecnicos-de-adesao.md)
-- [Qual o processo de adesão?](qual-o-processo-de-adesao.md)
-- [Como está estruturada a plataforma?](como-esta-estruturada-a-plataforma.md)
+- [Quais os pré-requisitos técnicos de adesão?](../plataforma-de-pagamentos-da-ap-ppap/quais-os-pre-requisitos-tecnicos-de-adesao)
+- [Qual o processo de adesão?](../plataforma-de-pagamentos-da-ap-ppap/qual-o-processo-de-adesao)
+- [Como está estruturada a plataforma?](../plataforma-de-pagamentos-da-ap-ppap/como-esta-estruturada-a-plataforma)
 

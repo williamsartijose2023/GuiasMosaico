@@ -13,11 +13,11 @@ A **iAP-PI** consiste numa plataforma central orientada a serviços e permite o 
 
 Nesta área poderá consultar conteúdo técnico, prático e detalhado, para ajudar na adesão e utilização da iAP-PI:
 
-- [Quais os pré-requisitos técnicos de adesão?](quais-os-pre-requisitos-tecnicos-de-adesao.md)
-- [Qual o processo de adesão?](qual-o-processo-de-adesao.md)
-- [Como está estruturada a plataforma?](como-esta-estruturada-a-plataforma.md)
+- [Quais os pré-requisitos técnicos de adesão?](../plataforma-de-integracao-da-ap-iap-pi/quais-os-pre-requisitos-tecnicos-de-adesao)
+- [Qual o processo de adesão?](../plataforma-de-integracao-da-ap-iap-pi/qual-o-processo-de-adesao)
+- [Como está estruturada a plataforma?](../plataforma-de-integracao-da-ap-iap-pi/como-esta-estruturada-a-plataforma)
 
 Descubra os guias práticos relacionados com a iAP-AP:
 
-- [Disponibilizar um serviço na iAP-PI](../../guias-praticos/disponibilizar-um-servico-na-iap-pi.md)
+- [Disponibilizar um serviço na iAP-PI](../../guias-praticos/disponibilizar-um-servico-na-iap-pi)
 
