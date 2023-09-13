@@ -22,7 +22,7 @@ Este bloco de construção tem dependência com outros blocos de contrução (iA
 
 
 
-### Autenticação
+## Autenticação
 
 A autenticação com atributos profissionais permite ao cidadão confirmar de forma segura a sua identidade na qualidade de profissional junto de entidades públicas e privadas.
 
@@ -38,7 +38,7 @@ ou
 
 Estes atributos profissionais são reconhecidos ao cidadão por uma Ordem ou Entidade.
 
-### Assinatura
+## Assinatura
 
 O profissional poderá também assinar documentos digitais na qualidade ou poderes das funções que desempenha. Para isso terá de associar atributos profissionais. Depois de os associar poderá assinar digitalmente como profissional, através de Cartão de Cidadão ou Chave Móvel Digital.
 
@@ -50,7 +50,7 @@ Os atributos profissionais podem ser:
 
 
 
-### Estrutura da Solução
+## Estrutura da Solução
 
 A comunicação entre o SCAP e os Fornecedores de Atributos é feita de forma assíncrona e é despoletada pelo SCAP.
 

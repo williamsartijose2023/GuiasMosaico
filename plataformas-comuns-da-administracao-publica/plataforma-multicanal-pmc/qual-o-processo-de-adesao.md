@@ -18,18 +18,18 @@ A adesão à PMC, implica:
 
 ## Nível de Adesão
 
-#### **Modelo Aproximar**
+### **Modelo Aproximar**
 
 Visa criar um canal de acesso entre a Entidade com a AMA e o cidadão. É aplicada uma solução standard para o backoffice, quando necessário.
 
-#### **Modelo Integrar**
+### **Modelo Integrar**
 
 Visa melhoria do frontoffice da Entidade, mas também alterações ao backoffice com a integração dos sistemas.
 
 > ℹ️ Para saber mais, consulte a informação existente no [ePortugal](https://eportugal.gov.pt/).
 
 
-## Processo de Adesão
+### Processo de Adesão
 
 <div style="text-align: center;">
   <img src="../../assets/images/pmc (2).png" alt="Processo de adesão à PMC">
@@ -37,7 +37,7 @@ Visa melhoria do frontoffice da Entidade, mas também alterações ao backoffice
 </div>
 <br>
 
-## Lista de Documentos
+### Lista de Documentos
 
 Lista de documentos, a preencher pela Entidade Competente, necessários ao processo de desmaterialização:
 

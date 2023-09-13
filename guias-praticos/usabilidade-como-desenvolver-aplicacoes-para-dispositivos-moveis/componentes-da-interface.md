@@ -126,7 +126,7 @@ O deslizar vertical como forma de interação já é considerado normal para uti
 
 &#x20;
 
-#### **Quando usar deslizar na horizontal**
+### **Quando usar deslizar na horizontal**
 
 O deslizar na horizontal funciona bem quando se pretende mostrar um subconjunto de uma categoria. Alguns exemplos:
 
@@ -154,7 +154,7 @@ O deslizar na horizontal funciona bem quando se pretende mostrar um subconjunto 
 </div>
 <br>
 
-#### Como usar o deslizar na horizontal
+### Como usar o deslizar na horizontal
 
 &#x20;Embora muito útil, o deslizar na horizontal pode ser pouco intuitivo se não for apresentado da forma correta. É necessário indicar a possibilidade de poder efetuar um deslizar horizontal usando dicas visuais.
 
@@ -630,6 +630,6 @@ Basicamente, em qualquer aplicação que tenha um campo de pesquisa, pode ser ad
 
 Embora a opção de pesquisa por voz seja uma boa opção, ainda há limitações e está dependente da qualidade do programa de reconhecimento de voz disponível no equipamento.
 
-## **Pagamentos**
+### **Pagamentos**
 
 Nos campos de seleção dos formulários, é boa prática apresentar apenas as opções que estão disponíveis para utilização. Por exemplo, caso só seja possível pagar com cartão de crédito ou Paypal, não faz sentido apresentar a opção para pagar com MBWay ou cartão de débito. A apresentação de opções indisponíveis poderá confundir o utilizador sobre a opção a selecionar.

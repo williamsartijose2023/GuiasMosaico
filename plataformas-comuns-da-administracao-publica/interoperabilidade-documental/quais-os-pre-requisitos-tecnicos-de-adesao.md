@@ -11,7 +11,7 @@ Para a adesão, por parte de uma qualquer entidade, terão de ser assegurados os
 
 Para as Entidades aderirem, deverão respeitar a Arquitetura de Referência, o Modelo de Dados Canónico. Para além disso enumeram-se de seguida os requisitos de infraestrutura e ao nível dos web services.
 
-### Requisitos de Infraestrutura
+## Requisitos de Infraestrutura
 
 * Estabelecimento de comunicação segura entre os sistemas de informação da Entidade e os sistemas da Plataforma de Interoperabilidade;
 * Regras de redes que permitam a comunicação entre os sistemas de informação na Entidade e os sistemas da Plataforma de Interoperabilidade, para comunicação no protocolo http;
@@ -19,7 +19,7 @@ Para as Entidades aderirem, deverão respeitar a Arquitetura de Referência, o M
 
     Contactos dos elementos responsáveis, a nível de infraestrutura, para operações de configuração e manutenção da infraestrutura de comunicação.
 
-### Requisitos _WebServices_
+## Requisitos _WebServices_
 
 * Representado via WSDL 1.1 ([http://www.w3.org/TR/wsdl](http://www.w3.org/TR/wsdl))_;_
 * Binding Soap 1.1 ou 1.2;
