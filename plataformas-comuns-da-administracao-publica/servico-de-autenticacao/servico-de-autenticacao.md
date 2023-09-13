@@ -29,6 +29,6 @@ Descubra os guias práticos relacionados com o Fornecedor de Autenticação:
 
 <a href="/GuiasMosaico/guias-praticos/como-funciona-o-servico-de-autenticacao.html">Como funciona o Serviço de Autenticação</a><br>
 
-<a href="../../guias-praticos/integrar-com-o-servico-de-autenticao.html/">Integrar com o Serviço de Autenticação</a>
+<a href="/GuiasMosaico/guias-praticos/integrar-com-o-servico-de-autenticao.html">Integrar com o Serviço de Autenticação</a>
 
 
