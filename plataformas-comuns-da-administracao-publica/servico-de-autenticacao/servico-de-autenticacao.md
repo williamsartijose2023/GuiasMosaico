@@ -16,7 +16,8 @@ O **Serviço de Autenticação** providencia autenticação a qualquer entidade,
 
 Nesta área poderá consultar conteúdo técnico, prático e detalhado, para ajudar na adesão e utilização do Serviço de Autenticação:
 
-[Quais os pré-requisitos técnicos de adesão?](../../plataformas-comuns-da-administracao-publica/servico-de-autenticacao/quais-os-pre-requisitos-tecnicos-de-adesao.html)
+[Quais os pré-requisitos técnicos de adesão?](GuiasMosaico/plataformas-comuns-da-administracao-publica/servico-de-autenticacao/quais-os-pre-requisitos-tecnicos-de-adesao.html)
+
 
 
 [Qual o processo de adesão?](../../plataformas-comuns-da-administracao-publica/servico-de-autenticacao/qual-o-processo-de-adesao)
