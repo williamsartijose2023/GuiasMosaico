@@ -1,5 +1,5 @@
 ---
-title: 👋 Bem-vindo ao Guias do Mosaico
+title: 👋 BEM-VINDO AO GUIAS DO MOSAICO
 layout: home
 nav_order: 1
 ---

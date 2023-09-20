@@ -1,5 +1,5 @@
 ---
-title: PLATAFORMAS COMUNS DA ADMINISTRAÇÃO PÚBLICA
+title: 🎲 PLATAFORMAS COMUNS DA ADMINISTRAÇÃO PÚBLICA
 layout: home
 nav_order: 2
 permalink: /plataformas-comuns-da-administracao-publica/servico-de-autenticacao

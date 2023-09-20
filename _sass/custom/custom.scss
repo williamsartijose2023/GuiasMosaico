@@ -33,6 +33,26 @@
   src: url('../../assets/fonts/SpaceGrotesk-Bold.ttf') format('truetype');
   font-weight: 700;
 }
+.nav-list .nav-list-item .nav-list-link {
+  font-family: 'Inter-ExtraBold', sans-serif !important; 
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 800 !important; 
+  line-height: 28px !important;
+  color: #0902a2 !important; 
+}
+.nav-list .nav-list-item .nav-list-link.active {
+  font-family: 'Inter', sans-serif !important; 
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 400 !important; 
+  line-height: 28px !important;
+  color: #0C1932 !important; 
+}
+.nav-list .nav-list-item .submenu-link:not(.active) {
+  font-weight: 400 !important;
+  color: #485161 !important; 
+}
 p,
 a,
 li,
@@ -50,8 +70,11 @@ label,
 button {
   -webkit-font-smoothing: antialiased;
   font-family: 'Inter', sans-serif;
-  font-weight: normal;
+  font-size: 16px !important;
+  font-style: normal;
+  font-weight: 400 !important;
   line-height: 28px;
+  color: #0C1932;
 }
 p a,
 h1 a,
@@ -91,7 +114,7 @@ h3 {
   font-feature-settings: 'ss03' on, 'ss04' on;
 }
 h2 {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter-ExtraBold', sans-serif;
   font-size: 20px !important;
   font-style: normal;
   font-weight: 800;
