@@ -9,7 +9,7 @@ nav_order: 1
 # 👋 Bem-vindo ao Guias do Mosaico
 
  O Guias do Mosaico é um espaço dedicado a informação técnica e detalhada sobre determinados assuntos ou temas, plataformas, ferramentas, entre outros.
-{: .fs-5 .fw-300 }
+
 
 
 O Guias do Mosaico está dividido essencialmente em três partes e apresenta informação detalhada e técnica sobre as Plataformas Comuns da Administração Pública, Guias Práticos relacionados com as Áreas Técnicas e Perfis do Mosaico, bem como a Arquitetura de Referência para serviços públicos digitais de nova geração.

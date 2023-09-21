@@ -39,15 +39,15 @@
   font-style: normal !important;
   font-weight: 800 !important; 
   line-height: 28px !important;
-  color: #0902a2 !important; 
+  color: #0C1932 !important; 
 }
 .nav-list .nav-list-item .nav-list-link.active {
-  font-family: 'Inter', sans-serif !important; 
+  font-family: 'Inter-ExtraBold', sans-serif !important; 
   font-size: 16px !important;
   font-style: normal !important;
-  font-weight: 400 !important; 
+  font-weight: 800  !important; 
   line-height: 28px !important;
-  color: #0C1932 !important; 
+  color: #0902a2 !important; 
 }
 .nav-list .nav-list-item .submenu-link:not(.active) {
   font-weight: 400 !important;
@@ -70,12 +70,13 @@ label,
 button {
   -webkit-font-smoothing: antialiased;
   font-family: 'Inter', sans-serif;
-  font-size: 16px !important;
+  font-size: 16px;
   font-style: normal;
-  font-weight: 400 !important;
+  font-weight: 400;
   line-height: 28px;
   color: #0C1932;
 }
+
 p a,
 h1 a,
 h2 a,
@@ -86,6 +87,13 @@ em a {
   color: #0902a2; 
   text-decoration: underline; 
   font-weight: inherit; 
+}
+a:not([class]) {
+  text-decoration: none;
+  position: relative;
+}
+a:not([class]):hover {
+  border-bottom: 2px solid #0902a2; 
 }
 
 .button a {
