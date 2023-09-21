@@ -34,10 +34,10 @@
   font-weight: 700;
 }
 .nav-list .nav-list-item .nav-list-link {
-  font-family: 'Inter-ExtraBold', sans-serif !important; 
+  font-family: 'Inter', sans-serif !important; 
   font-size: 16px !important;
   font-style: normal !important;
-  font-weight: 800 !important; 
+  font-weight: 400 !important; 
   line-height: 28px !important;
   color: #0C1932 !important; 
 }
@@ -49,10 +49,21 @@
   line-height: 28px !important;
   color: #0902a2 !important; 
 }
-.nav-list .nav-list-item .submenu-link:not(.active) {
+.nav-list .nav-list-item>.nav-list .nav-list-item .nav-list-link  {
   font-weight: 400 !important;
   color: #485161 !important; 
 }
+
+.breadcrumb-nav a {
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 400 !important;
+  text-decoration: none !important;
+  color: #0902a2 !important;
+}
+.breadcrumb-nav a:hover {
+  text-decoration: underline !important;
+}
+
 p,
 a,
 li,
@@ -88,12 +99,19 @@ em a {
   text-decoration: underline; 
   font-weight: inherit; 
 }
+.main-content ul>li::before {
+  position: absolute;
+  margin-left: -1.4em;
+  color: #959396;
+  content: "•";
+}
 a:not([class]) {
   text-decoration: none;
   position: relative;
+  color: #0902a2; 
 }
 a:not([class]):hover {
-  border-bottom: 2px solid #0902a2; 
+  text-decoration: underline; 
 }
 
 .button a {
@@ -102,6 +120,7 @@ a:not([class]):hover {
     color: #000000; 
   }
 }
+
 h4 {
   -webkit-font-smoothing: antialiased;
   font-family: 'Inter-ExtraBold', sans-serif;
