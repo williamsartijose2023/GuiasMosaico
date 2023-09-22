@@ -74,11 +74,11 @@ Em termos de ganhos intangíveis, temos entre outros:
 * Minimizar a existência de soluções redundantes;
 * Aumentar a agilidade na adequação das diferentes soluções, a alterações do contexto envolvente.
 
-- [conceitos](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/conceitos.html)
-- [principios-orientadores](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/principios-orientadores.html)
-- [standards](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/standards.html)
-- [metamodelo](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/metamodelo.html)
-- [plataformas-comuns](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/plataformas-comuns/README.html)
-- [padrao-de-referencia-de-solucao-aplicacional](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/padrao-de-referencia-de-solucao-aplicacional.html)
-- [caso-de-utilizacao.md](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/caso-de-utilizacao.html)
+- [Conceitos](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/conceitos.html)
+- [Princípios Orientadores](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/principios-orientadores.html)
+- [Standards](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/standards.html)
+- [Metamodelo](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/metamodelo.html)
+- [Plataformas comuns](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/plataformas-comuns/README.html)
+- [Padrão de referência de solução aplicacional](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/padrao-de-referencia-de-solucao-aplicacional.html)
+- [Caso de utilização](/GuiasMosaico/servicos-de-nova-geracao/arquitetura-de-referencia-para-a-nova-geracao-de-servicos-publicos-digitais/caso-de-utilizacao.html)
 
