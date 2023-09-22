@@ -11,8 +11,8 @@ has_toc: false
 
 Neste Guia de Inteligência Artificial poderá encontrar conteúdos relativamente às cinco dimensões de avaliação dos projetos de IA:
 
-- [Responsabilização](responsabilizacao.md)
-- [Transparência](transparencia.md)
-- [Explicabilidade](explicabilidade.md)
-- [Justiça](justica.md)
-- [Ética](etica.md)
+- [Responsabilização](/GuiasMosaico/guias-praticos/guia-responsavel-para-a-ia/responsabilizacao.html)
+- [Transparência](/GuiasMosaico/guias-praticos/guia-responsavel-para-a-ia/transparencia.html)
+- [Explicabilidade](/GuiasMosaico/guias-praticos/guia-responsavel-para-a-ia/explicabilidade.html)
+- [Justiça](/GuiasMosaico/guias-praticos/guia-responsavel-para-a-ia/justica.html)
+- [Ética](/GuiasMosaico/guias-praticos/guia-responsavel-para-a-ia/etica.html)

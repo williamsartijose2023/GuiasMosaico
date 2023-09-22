@@ -24,6 +24,6 @@ Como nota adicional, gostaríamos de salientar que tal como para outras soluçõ
 
 Este guia está dividido em três seções:
 
-- [boas-praticas.md](boas-praticas.md)
-- [componentes-da-interface.md](componentes-da-interface.md)
+- [boas-praticas](/GuiasMosaico/guias-praticos/usabilidade-como-desenvolver-aplicacoes-para-dispositivos-moveis/boas-praticas.html)
+- [componentes-da-interface](/GuiasMosaico/guias-praticos/usabilidade-como-desenvolver-aplicacoes-para-dispositivos-moveis/componentes-da-interface.html)
 
