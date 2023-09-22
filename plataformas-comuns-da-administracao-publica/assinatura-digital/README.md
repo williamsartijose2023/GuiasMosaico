@@ -13,7 +13,7 @@ A **Assinatura Digital** é um serviço que pretende desmaterializar as assinatu
 
 Nesta área poderá consultar conteúdo técnico, prático e detalhado, para ajudar na adesão e utilização da Assinatura Digital:
 
-- [Quais os pré-requisitos técnicos da adesão?](/GuiasMosaico/assinatura-digital/quais-os-pre-requisitos-tecnicos-da-adesao.html)
-- [Qual o processo de adesão?](/GuiasMosaico/assinatura-digital/qual-o-processo-de-adesao.html)
-- [Como está estruturada a plataforma?](/GuiasMosaico/assinatura-digital/como-esta-estruturada-a-plataforma.html)
+- [Quais os pré-requisitos técnicos da adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/assinatura-digital/quais-os-pre-requisitos-tecnicos-da-adesao.html)
+- [Qual o processo de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/assinatura-digital/qual-o-processo-de-adesao.html)
+- [Como está estruturada a plataforma?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/assinatura-digital/como-esta-estruturada-a-plataforma.html)
 
