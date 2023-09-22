@@ -22,7 +22,7 @@ Nesta área poderá consultar conteúdo técnico, prático e detalhado, para aju
 Descubra os guias práticos relacionados com o Fornecedor de Autenticação:
 
 - [Como funciona o Serviço de Autenticação](/GuiasMosaico/guias-praticos/como-funciona-o-servico-de-autenticacao.html)
-- [Integrar com o Serviço de Autenticação](/GuiasMosaico/guias-praticos/integrar-com-o-servico-de-autenticao.html)
+- [Integrar com o Serviço de Autenticação](/GuiasMosaico/guias-praticos/integrar-com-o-servico-de-autenticacao.html)
 
 
 

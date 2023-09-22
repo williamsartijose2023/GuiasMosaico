@@ -13,11 +13,11 @@ A **iAP-PI** consiste numa plataforma central orientada a serviços e permite o 
 
 Nesta área poderá consultar conteúdo técnico, prático e detalhado, para ajudar na adesão e utilização da iAP-PI:
 
-- [Quais os pré-requisitos técnicos de adesão?](../plataforma-de-integracao-da-ap-iap-pi/quais-os-pre-requisitos-tecnicos-de-adesao)
-- [Qual o processo de adesão?](../plataforma-de-integracao-da-ap-iap-pi/qual-o-processo-de-adesao)
-- [Como está estruturada a plataforma?](../plataforma-de-integracao-da-ap-iap-pi/como-esta-estruturada-a-plataforma)
+- [Quais os pré-requisitos técnicos de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/plataforma-de-integracao-da-ap-iap-pi/quais-os-pre-requisitos-tecnicos-de-adesao.html)
+- [Qual o processo de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/plataforma-de-integracao-da-ap-iap-pi/qual-o-processo-de-adesao.html)
+- [Como está estruturada a plataforma?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/plataforma-de-integracao-da-ap-iap-pi/como-esta-estruturada-a-plataforma.html)
 
 Descubra os guias práticos relacionados com a iAP-AP:
 
-- [Disponibilizar um serviço na iAP-PI](../../guias-praticos/disponibilizar-um-servico-na-iap-pi)
+- [Disponibilizar um serviço na iAP-PI](/GuiasMosaico/plataformas-comuns-da-administracao-publica/guias-praticos/disponibilizar-um-servico-na-iap-pi.html)
 
