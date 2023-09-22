@@ -13,7 +13,7 @@ O **Sistema de Certificação de Atributos Profissionais** foi desenvolvido com 
 
 Nesta área poderá consultar conteúdo técnico, prático e detalhado, para ajudar na adesão e utilização do SCAP:
 
-- [Quais os pré-requisitos técnicos de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/quais-os-pre-requisitos-tecnicos-de-adesao.html)
-- [Qual o processo de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/qual-o-processo-de-adesao.html)
-- [Como está estruturada a plataforma?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/como-esta-estruturada-a-plataforma.html)
+- [Quais os pré-requisitos técnicos de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/sistema-de-certificacao-de-atributos-profissionais-scap/quais-os-pre-requisitos-tecnicos-de-adesao.html)
+- [Qual o processo de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/sistema-de-certificacao-de-atributos-profissionais-scap/qual-o-processo-de-adesao.html)
+- [Como está estruturada a plataforma?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/sistema-de-certificacao-de-atributos-profissionais-scap/como-esta-estruturada-a-plataforma.html)
 
