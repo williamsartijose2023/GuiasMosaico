@@ -19,5 +19,5 @@ Nesta área poderá consultar conteúdo técnico, prático e detalhado, para aju
 
 Descubra os guias práticos relacionados com a iAP-AP:
 
-- [Disponibilizar um serviço na iAP-PI](/GuiasMosaico/plataformas-comuns-da-administracao-publica/guias-praticos/disponibilizar-um-servico-na-iap-pi.html)
+- [Disponibilizar um serviço na iAP-PI](/GuiasMosaico/guias-praticos/disponibilizar-um-servico-na-iap-pi.html)
 
