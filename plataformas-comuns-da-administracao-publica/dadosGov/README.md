@@ -12,7 +12,7 @@ O **dados.gov** é o portal de dados abertos da Administração Pública. Tem co
 
 Nesta área poderá consultar conteúdo técnico, prático e detalhado, para ajudar na adesão e utilização do Dados.Gov:
 
-- [Quais os pré-requisitos técnicos de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/quais-os-pre-requisitos-tecnicos-de-adesao.html)
-- [Qual o processo de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/qual-o-processo-de-adesao.html)
-- [Como está estruturada a plataforma?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/como-esta-estruturada-a-plataforma.html)
+- [Quais os pré-requisitos técnicos de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/dadosGov/quais-os-pre-requisitos-tecnicos-de-adesao.html)
+- [Qual o processo de adesão?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/dadosGov/qual-o-processo-de-adesao.html)
+- [Como está estruturada a plataforma?](/GuiasMosaico/plataformas-comuns-da-administracao-publica/dadosGov/como-esta-estruturada-a-plataforma.html)
 
