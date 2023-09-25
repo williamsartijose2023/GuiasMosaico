@@ -9,9 +9,9 @@ nav_order: 24
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Passo</th>
+    <th >Entidade responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Selecionar o serviço que pretende consumir</td>

@@ -71,8 +71,8 @@ A realização de cada etapa do processo aplicacional quer por novos componentes
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Necessidade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Necessidade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Oferecer ao cidadão um novo meio à distância para aderir à CMD.</td>
@@ -157,8 +157,8 @@ Para a ativação da CMD por identificação à distância com recurso a videoch
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Dados Pessoais</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Prazo de Conservação</th>
+    <th >Dados Pessoais</th>
+    <th >Prazo de Conservação</th>
   </tr>
   <tr>
     <td>Fotografia do rosto e respetivo template biométrico.</td>
@@ -201,8 +201,8 @@ Ativação de CMD com recurso a biometria
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Objeto de Negócio</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Objeto de Negócio</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Chave Móvel Digital</td>
@@ -222,8 +222,8 @@ Ativação de CMD com recurso a biometria
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Papel</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Função</th>
+    <th >Papel</th>
+    <th >Função</th>
   </tr>
   <tr>
     <td>Cidadão</td>
@@ -254,8 +254,8 @@ Ativação de CMD com recurso a biometria
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Aceder ao ePortugal</td>
@@ -301,8 +301,8 @@ Ativação de CMD com recurso a biometria
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Clicar no link enviado no email de confirmação</td>
@@ -379,8 +379,8 @@ Ativação de CMD com recurso a biometria
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Aceder à Plataforma de Agendamentos</td>
@@ -486,8 +486,8 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Apresentação de Conteúdos</td>
@@ -544,8 +544,8 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Apresentação de Conteúdo da Plataforma de Agendamentos</td>
@@ -612,8 +612,8 @@ O processo aplicacional completo, necessário à realização do serviço, é o 
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Solução Aplicacional</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Solução Aplicacional</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>Solução Ativação CMD com recurso a Biometria</td>
@@ -649,8 +649,8 @@ A solução aplicacional é suportada pelas Plataformas Comuns:
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Plataforma Comum</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>ePortugal.gov</td>

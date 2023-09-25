@@ -47,8 +47,8 @@ O evento de vida “Mudar de Morada é Fácil”, inclui também os serviços li
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviço Digital</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
+    <th >Serviço Digital</th>
+    <th >Entidade Responsável</th>
   </tr>
   <tr>
     <td>Inscrição nos serviços municipalizados de água e saneamento</td>
@@ -92,8 +92,8 @@ Apresenta:
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Necessidade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Necessidade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Simplificar o atual processo de mudança de morada</td>
@@ -156,8 +156,8 @@ Confirmar Alteração de Morada
 <table>
  <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Acesso ePortugal após receber carta</td>
@@ -214,8 +214,8 @@ Confirmar Alteração de Morada
 <table>
  <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Apresentação de Conteúdos</td>
@@ -242,8 +242,8 @@ A realização das etapas do processo aplicacional, é suportada pela solução:
 <table>
  <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Solução Aplicacional</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Solução Aplicacional</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>SAM</td>
@@ -263,8 +263,8 @@ E é suportada também pelas Plataformas Comuns:
 <table>
  <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Plataforma Comum</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>FA - Fornecedor de Autenticação</td>

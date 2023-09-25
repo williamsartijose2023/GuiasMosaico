@@ -32,9 +32,9 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Analisar diplomas</td>
@@ -134,9 +134,9 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Construir Benchmark</td>
@@ -162,9 +162,9 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Registar Entidade/Serviço no CES</td>
@@ -319,9 +319,9 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Criar ficha de serviço</td>
@@ -415,9 +415,9 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Parametrizar os serviços no CES (taxas, atributos de autenticação, links eforms)</td>
@@ -592,9 +592,9 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Dar formação à equipa da Entidade que executa os serviços, bem como às equipas de suporte da AMA</td>
@@ -638,9 +638,9 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Assegurar suporte de 1ª Linha</td>
@@ -694,9 +694,9 @@ Neste modelo é estabelecido um acesso ao _backoffice_ da Plataforma de Serviço
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Avaliar serviços em produção</td>

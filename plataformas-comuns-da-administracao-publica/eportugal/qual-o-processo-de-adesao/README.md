@@ -22,9 +22,9 @@ De seguida, é apresentada informação prévia sobre os documentos referidos ao
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Código</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Documento</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Código</th>
+    <th >Documento</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>DOC-01</td>

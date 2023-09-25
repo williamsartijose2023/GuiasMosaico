@@ -63,8 +63,8 @@ Apresenta:
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Necessidade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Necessidade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Criar o Balcão do Condutor</td>
@@ -136,8 +136,8 @@ Consultar pontos da carta de condução.
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Acesso via redes sociais</td>
@@ -222,8 +222,8 @@ Consulta de processos de contraordenação rodoviária.
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Acesso via redes sociais</td>
@@ -289,8 +289,8 @@ Consultar pontos da carta de condução.
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Apresentação de conteúdos do ePortugal</td>
@@ -339,8 +339,8 @@ A realização das etapas do processo aplicacional, é suportada pelas soluçõe
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Solução Aplicacional</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Solução Aplicacional</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>Balcão do Condutor</td>
@@ -373,8 +373,8 @@ E é suportada também pelas Plataformas Comuns:
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Plataforma Comum</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>ePortugal.gov</td>
@@ -424,8 +424,8 @@ Consultar Processos de Contraordenação Rodoviária.
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Apresentação de Conteúdos do ePortugal</td>
@@ -482,8 +482,8 @@ A realização das etapas do processo aplicacional, é suportada pelas soluçõe
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Solução Aplicacional</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Solução Aplicacional</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>Balcão do Condutor</td>
@@ -521,8 +521,8 @@ E é suportada também pelas Plataformas Comuns:
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Plataforma Comum</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>ePortugal.gov</td>

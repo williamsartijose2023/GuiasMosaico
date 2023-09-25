@@ -34,8 +34,8 @@ Os requisitos necessários para a ligação VPN à Plataforma de Interoperabilid
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Phase 1 IKE</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Phase 2 IPSec</th>
+    <th >Phase 1 IKE</th>
+    <th >Phase 2 IPSec</th>
   </tr>
   <tr>
     <td>Key Exchange Encryption: AES 256 bits</td>

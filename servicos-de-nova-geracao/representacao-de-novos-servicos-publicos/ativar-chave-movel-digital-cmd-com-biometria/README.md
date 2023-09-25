@@ -17,5 +17,5 @@ Atualmente, a adesão online à Chave Móvel Digital é efetuada através do sit
 
 Os novos serviços permitem ativar a Chave Móvel Digital (CMD) com biometria via Aplicação ou Videochamada:
 
-- [Ativar CMD com recurso à biometria via aplicação](ativar-cmd-com-recurso-a-biometria-via-aplicacao.md)
-- [Ativar CMD com recurso à biometria via videochamada](ativar-cmd-com-recurso-a-biometria-via-videochamada.md)
+- [Ativar CMD com recurso à biometria via aplicação](/GuiasMosaico/servicos-de-nova-geracao/representacao-de-novos-servicos-publicos/ativar-chave-movel-digital-cmd-com-biometria/ativar-cmd-com-recurso-a-biometria-via-aplicacao.html)
+- [Ativar CMD com recurso à biometria via videochamada](/GuiasMosaico/servicos-de-nova-geracao/representacao-de-novos-servicos-publicos/ativar-chave-movel-digital-cmd-com-biometria/ativar-cmd-com-recurso-a-biometria-via-videochamada.html)

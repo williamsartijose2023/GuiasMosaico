@@ -157,9 +157,9 @@ O **Modelo Integrar** foi concebido para as entidades que pretendam **desmateria
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Registar Entidade/Serviço no CES</td>
@@ -733,9 +733,9 @@ O **Modelo Integrar** foi concebido para as entidades que pretendam **desmateria
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
    <tr>
     <td>Assegurar suporte de 1ª linha</td>

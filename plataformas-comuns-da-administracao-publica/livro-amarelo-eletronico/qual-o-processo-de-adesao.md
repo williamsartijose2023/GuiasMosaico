@@ -17,9 +17,9 @@ Apresenta-se nesta área as várias atividades a realizar para aderir ao LAE.
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>1. Pedido de Adesão</td>

@@ -26,8 +26,8 @@ Para consultar as Plataformas Comuns em maior detalhe, aceder à [área técnica
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Plataforma Comum</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Fornecedor de Autenticação (FA)</td>
@@ -72,8 +72,8 @@ Para consultar as Plataformas Comuns em maior detalhe, aceder à [área técnica
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Plataforma Comum</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>iAP-Plataforma de Integração da AP (PI)</td>
@@ -103,8 +103,8 @@ Para consultar as Plataformas Comuns em maior detalhe, aceder à [área técnica
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Plataforma Comum</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>iAP-Plataforma de Pagamentos (PPAP)</td>
@@ -122,8 +122,8 @@ Para consultar as Plataformas Comuns em maior detalhe, aceder à [área técnica
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Plataforma Comum</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Bolsa de Documentos</td>
@@ -185,8 +185,8 @@ Para consultar as Plataformas Comuns em maior detalhe, aceder à [área técnica
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Plataforma Comum</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>dados.gov</td>
@@ -206,8 +206,8 @@ Para consultar as Plataformas Comuns em maior detalhe, aceder à [área técnica
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Plataforma Comum</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>iAP-Plataforma de Mensagens da AP (GAP)</td>

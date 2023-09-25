@@ -96,10 +96,10 @@ O resultado desta primeira iteração do desenho da arquitetura é a especifica�
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">ID</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Necessidade Identificada</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Preocupações</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Solução Atual</th>
+    <th >ID</th>
+    <th >Necessidade Identificada</th>
+    <th >Preocupações</th>
+    <th >Solução Atual</th>
   </tr>
   <tr>
     <td>N1</td>
@@ -128,8 +128,8 @@ O resultado desta primeira iteração do desenho da arquitetura é a especifica�
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">ID</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Constrangimento</th>
+    <th >ID</th>
+    <th >Constrangimento</th>
   </tr>
   <tr>
     <td>C1</td>
@@ -199,8 +199,8 @@ Identificação e Autenticação
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Macro Serviço</th>
+    <th >Plataforma Comum</th>
+    <th >Macro Serviço</th>
   </tr>
   <tr>
     <td>Fornecedor de Autenticação (FA)</td>
@@ -218,8 +218,8 @@ Integração e Interoperabilidade
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Macro Serviço</th>
+    <th >Plataforma Comum</th>
+    <th >Macro Serviço</th>
   </tr>
   <tr>
     <td>iAP-Plataforma de Integração da AP (PI)</td>
@@ -237,8 +237,8 @@ Pagamentos
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Macro Serviço</th>
+    <th >Plataforma Comum</th>
+    <th >Macro Serviço</th>
   </tr>
   <tr>
     <td>iAP-Plataforma de Pagamentos (PPAP)</td>
@@ -253,8 +253,8 @@ Atendimento/Suporte a Canais
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Macro Serviço</th>
+    <th >Plataforma Comum</th>
+    <th >Macro Serviço</th>
   </tr>
   <tr>
     <td>Bolsa de Documentos</td>
@@ -272,8 +272,8 @@ Mensagens e Notificações
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Macro Serviço</th>
+    <th >Plataforma Comum</th>
+    <th >Macro Serviço</th>
   </tr>
   <tr>
     <td>Plataforma de Notificações Eletrónicas da AP (SPNE)</td>

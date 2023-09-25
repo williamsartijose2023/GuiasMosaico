@@ -33,9 +33,9 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Analisar diplomas</td>
@@ -127,9 +127,9 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Construir Benchmark</td>
@@ -155,9 +155,9 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Criar ficha de serviço</td>
@@ -251,9 +251,9 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Adicionar informação ao projeto no Tuleap "PSC: Integração com Entidades"</td>
@@ -442,9 +442,9 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
    <td>Assegurar suporte de 1ª linha</td>
@@ -477,9 +477,9 @@ A AMA fará o redirecionamento do cidadão/empresa portal ePortugal para o local
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Etapa</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Etapa</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Avaliar serviços em produção</td>

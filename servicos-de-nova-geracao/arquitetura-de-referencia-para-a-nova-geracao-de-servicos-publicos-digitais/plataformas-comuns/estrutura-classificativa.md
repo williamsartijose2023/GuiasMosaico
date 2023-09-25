@@ -13,8 +13,8 @@ As Plataformas Comuns estão classificadas de acordo com a estrutura classificat
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Classificador</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Caracterização</th>
+    <th >Classificador</th>
+    <th >Caracterização</th>
   </tr>
   <tr>
     <td>Identificação e Autenticação</td>

@@ -64,8 +64,8 @@ A realização de cada etapa do processo aplicacional quer por novos componentes
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Necessidade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Necessidade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Oferecer ao cidadão um novo meio à distância para aderir à CMD.</td>
@@ -113,8 +113,8 @@ Para a ativação da CMD, será necessário recolher dados pessoais discriminado
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Dados Pessoais</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Prazo de Conservação</th>
+    <th >Dados Pessoais</th>
+    <th >Prazo de Conservação</th>
   </tr>
   <tr>
     <td>Fotografia do rosto e respetivo _template_ biométrico.</td>
@@ -182,8 +182,8 @@ Aderir à CMD com recurso a biometria via Aplicação.
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Aceder à aplicação Autenticação.Gov</td>
@@ -267,8 +267,8 @@ Aderir à CMD por identificação à distância com recurso a Aplicação.
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Registar telemóvel</td>
@@ -358,8 +358,8 @@ A realização das etapas do processo aplicacional, é suportada pelas soluçõe
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Solução Aplicacional</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Solução Aplicacional</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>Chave Móvel Digital</td>
@@ -401,8 +401,8 @@ A realização das etapas do processo aplicacional, é suportada pelas soluçõe
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Plataforma Comum</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>Plataforma do Serviço de Autenticação</td>

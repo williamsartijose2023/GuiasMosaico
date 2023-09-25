@@ -72,8 +72,8 @@ Os diagramas de arquitetura apresentados neste documento, foram definidos com ba
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Necessidade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Necessidade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Oferecer ao cidadão um novo canal para pedir o certificado de registo criminal</td>
@@ -149,8 +149,8 @@ Processo de Negócio: Pedir o certificado de registo criminal de pessoas singula
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Realizar chamada para Contact Center</td>
@@ -189,8 +189,8 @@ Processo de Negócio: Pedir o certificado de registo criminal de pessoas singula
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Acesso à aplicação de Backoffice</td>
@@ -254,8 +254,8 @@ Processo Aplicacional: Pedir o certificado de registo criminal de pessoas singul
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Apresentação de Conteúdos Ap. Móvel Autenticação.Gov</td>
@@ -281,8 +281,8 @@ Processo Aplicacional: Pedir o certificado de registo criminal de pessoas singul
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Atividade</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Atividade</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td>Apresentação de Conteúdos do Portal BO Autenticação.gov</td>
@@ -317,8 +317,8 @@ E é suportada pelas Plataformas Comuns:
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Plataforma Comum</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Serviços</th>
+    <th >Plataforma Comum</th>
+    <th >Serviços</th>
   </tr>
   <tr>
     <td>Plataforma de Integração (iAP-PI)</td>

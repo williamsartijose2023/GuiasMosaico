@@ -48,13 +48,13 @@ Abaixo encontra-se uma tabela que apresenta as melhores práticas para usar tipo
 <table>
   <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Classe do Dispositivo</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Tamanho Mínimo</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Conteúdo Básico</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Conteúdo Melhorado</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">H3</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">H2</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">H1</th>
+    <th >Classe do Dispositivo</th>
+    <th >Tamanho Mínimo</th>
+    <th >Conteúdo Básico</th>
+    <th >Conteúdo Melhorado</th>
+    <th >H3</th>
+    <th >H2</th>
+    <th >H1</th>
   </tr>
   <tr>
     <td>Telemóvel Pequeno</td>

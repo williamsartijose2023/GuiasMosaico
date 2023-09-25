@@ -19,9 +19,9 @@ A adesão à PPAP – Plataforma de Pagamentos da Administração Pública, no �
 <table>
 <caption></caption>
   <tr>
-    <th style="background-color: #f2f2f2; padding: 10px;">Passo</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Entidade Responsável</th>
-    <th style="background-color: #f2f2f2; padding: 10px;">Descrição</th>
+    <th >Passo</th>
+    <th >Entidade Responsável</th>
+    <th >Descrição</th>
   </tr>
   <tr>
     <td><strong>1.</strong> Pedido de adesão formal à AMA</td>
