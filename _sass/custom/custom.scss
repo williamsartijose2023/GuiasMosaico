@@ -41,7 +41,8 @@
   line-height: 28px !important;
   color: #0C1932 !important; 
 }
-.nav-list .nav-list-item .nav-list-link.active {
+.nav-list .nav-list-item.active .nav-list-link {
+
   font-family: 'Inter-ExtraBold', sans-serif !important; 
   font-size: 16px !important;
   font-style: normal !important;
@@ -49,22 +50,50 @@
   line-height: 28px !important;
   color: #0902a2 !important; 
 }
+.nav-list .nav-list-item .nav-list-link.active,
+.nav-list .nav-list-item .nav-list-link:hover {
+  color: #0902a2;
+}
 .nav-list .nav-list-item>.nav-list .nav-list-item .nav-list-link  {
+  font-family: "Inter",sans-serif !important;
+  font-size: 16px !important;
+  font-style: normal !important;
   font-weight: 400 !important;
+  line-height: 28px !important;
   color: #485161 !important; 
 }
-
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link.active {
+  font-family: 'Inter-ExtraBold', sans-serif !important; 
+  font-size: 16px !important;
+  font-style: normal !important;
+  font-weight: 800  !important; 
+  line-height: 28px !important;
+  color: #485161 !important;
+}
+.nav-list .nav-list-item .nav-list-expander svg {
+  color: #0C1932; 
+}
+.nav-list .nav-list-item.active .nav-list-expander svg {
+  color: #0902a2; 
+}
 .breadcrumb-nav a {
   font-family: 'Inter', sans-serif !important;
   font-weight: 400 !important;
-  font-size: 16px !important;
+  font-size: 14px !important;
   text-decoration: none !important;
   color: #0902a2 !important;
 }
-.breadcrumb-nav a:hover {
+.breadcrumb-nav span {
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  text-decoration: none !important;
+  color: #0C1932 !important;
+}
+.breadcrumb-nav a:hover,
+.breadcrumb-nav span:hover {
   text-decoration: underline !important;
 }
-
 p,
 a,
 li,
@@ -88,7 +117,6 @@ button {
   line-height: 28px;
   color: #0C1932;
 }
-
 p a,
 h1 a,
 h2 a,
@@ -121,7 +149,6 @@ a:not([class]):hover {
     color: #000000; 
   }
 }
-
 h4 {
   -webkit-font-smoothing: antialiased;
   font-family: 'Inter-ExtraBold', sans-serif;
@@ -175,7 +202,6 @@ a {
   cursor: pointer !important;
   text-decoration: none;
 }
-
 tr:nth-child(odd) td, tr:nth-child(1) th { 
   background: #EDF1F8;
 }

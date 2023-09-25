@@ -16,10 +16,7 @@ Consulte o processo de adesão para um serviço existente ou um serviço novo.
   <img src="../../assets/images/1.png" alt="Processo de adesão a um serviço existente na iAP-PI">
   Processo de adesão a um serviço existente na iAP-PI
 </div>
-
-
-
-<!-- Table Content -->
+<br>
 <table>
 <caption></caption>
   <tr>
@@ -28,76 +25,77 @@ Consulte o processo de adesão para um serviço existente ou um serviço novo.
     <th >Descrição</th>
   </tr>
   <tr>
-    <td><strong>1.</strong></td>
+    <td><strong>1.</strong>Selecionar o serviço que pretende consumir</td>
     <td>Entidade</td>
     <td>Escolha o serviço pretendido do <a href="https://www.iap.gov.pt/web/iap/plataforma-de-integracao">catálogo de serviços</a> disponíveis na PI.</td>
   </tr>
   <tr>
-    <td><strong>2.</strong></td>
+    <td><strong>2.</strong>Pedido de adesão formal à AMA</td>
     <td>AMA</td>
     <td>Preencha o <a href="https://www.iap.gov.pt/web/iap/formulario-de-adesao?serviceId=3">formulário de adesão</a> a indicar o(s) serviço(s) a consumir, se possível uma estimativa do volume de invocações e o enquadramento legal para obter a informação pretendida.</td>
   </tr>
   <tr>
-    <td><strong>3.</strong></td>
+    <td><strong>3.</strong>Acordar protocolo entre entidades</td>
     <td>Entidade e AMA</td>
     <td>Acordar protocolo entre as partes envolvidas no pedido de autorização. Caso exista recolha ou transmissão de dados pessoais deverá ser efetuado um pedido de autorização à Comissão Nacional de Proteção de Dados (CNPD) para disponibilização dos dados à entidade consumidora.</td>
   </tr>
   <tr>
-    <td><strong>4.</strong></td>
+    <td><strong>4.</strong>Pedir autorização à CNPD</td>
     <td>Entidade e AMA</td>
     <td>Caso exista recolha ou transmissão de dados pessoais deverá ser efetuado um pedido de autorização à Comissão Nacional de Proteção de Dados (CNPD) para disponibilização dos dados à entidade consumidora.</td>
   </tr>
   <tr>
-    <td><strong>5.</strong></td>
+    <td><strong>5.</strong>Criação de VPN</td>
     <td>AMA</td>
     <td>Estabelecimento da ligação à Plataforma de Interoperabilidade através de Virtual Private Network (VPN) permanente (mais informação em Ligação VPN).</td>
   </tr>
   <tr>
-    <td><strong>6.</strong></td>
+    <td><strong>6.</strong>Adaptar SI das entidades</td>
     <td>Entidade aderente</td>
     <td>Adaptação dos sistemas de informação (SI) das entidades aderentes para integrar os dados do serviço.</td>
   </tr>
   <tr>
-    <td><strong>7.</strong></td>
+    <td><strong>7.</strong>Definir cenários de teste</td>
     <td>Entidade e AMA</td>
     <td>Definição dos cenários de teste.</td>
   </tr>
   <tr>
-    <td><strong>8.</strong></td>
+    <td><strong>8.</strong>Desenvolver Serviço e disponibilizar WSDL</td>
     <td>Entidade</td>
     <td>Caso o serviço ainda não esteja disponível é necessário o seu desenvolvimento pela entidade fornecedora e a disponibilização do Web Services Description Language (WSDL), ficheiro responsável pela descrição, métodos e operações do serviço.</td>
   </tr>
   <tr>
-    <td><strong>9.</strong></td>
+    <td><strong>9.</strong>Aprovar WSDL</td>
     <td>Entidade e AMA</td>
     <td>Aprovação dos WSDL.</td>
   </tr>
   <tr>
-    <td><strong>10.</strong></td>
+    <td><strong>10.</strong>Instalar ambiente de Qualidade</td>
     <td>Entidade e AMA</td>
     <td>Instalação do serviço em ambiente de qualidade.</td>
   </tr>
   <tr>
-    <td><strong>11.</strong></td>
+    <td><strong>11.</strong>Efetuar Testes Integrados</td>
     <td>Entidade e AMA</td>
     <td>Testes integrados do serviço.</td>
   </tr>
   <tr>
-    <td><strong>12.</strong></td>
+    <td><strong>12.</strong>Instalar em Produção</td>
     <td>Entidade e AMA</td>
     <td>Instalação do serviço em produção.</td>
   </tr>
   <tr>
-    <td><strong>13.</strong></td>
+    <td><strong>13.</strong>Assinar protocolo</td>
     <td>Entidade e AMA</td>
     <td>Assinatura do protocolo acordado entre as partes. Entrada em produção do serviço após validação de todos os requisitos técnicos, jurídicos e de privacidade.</td>
   </tr>
   <tr>
-    <td><strong>14.</strong></td>
+    <td><strong>14.</strong>Entrar em Produção</td>
     <td>Entidade e AMA</td>
     <td>Entrada em produção do serviço após validação de todos os requisitos técnicos, jurídicos e de privacidade.</td>
   </tr>
 </table>
+<br>
 
 ## Processo de Adesão a Novo Serviço
 
@@ -105,10 +103,10 @@ Consulte o processo de adesão para um serviço existente ou um serviço novo.
 
 <div style="text-align: center;">
   <img src="../../assets/images/2.png" alt="Desenho do Processo de adesão a um novo serviço na iAP-PI">
-  Desenho do Processo de adesão a um novo serviço na iAP-PI
+  <div>Desenho do Processo de adesão a um novo serviço na iAP-PI</div>
 </div>
 <br>
-<!-- Table Content -->
+
 <table>
 <caption></caption>
   <tr>
@@ -189,7 +187,7 @@ Consulte o processo de adesão para um serviço existente ou um serviço novo.
   <tr>
     <td>Assinar protocolo</td>
     <td>Entidade e AMA</td>
-    <td>Assinatura do protocolo acordado entre as partes. Entrada em produção do serviço após validação de todos os requisitos técnicos, jurídicos e de privacidade.</td>
+    <td>Assinatura do protocolo acordado entre as partes.</td>
   </tr>
   <tr>
     <td>Entrar em Produção</td>
