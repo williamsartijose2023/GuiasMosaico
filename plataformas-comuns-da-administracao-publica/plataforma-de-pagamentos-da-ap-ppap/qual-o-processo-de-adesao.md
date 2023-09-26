@@ -15,7 +15,6 @@ A adesão à PPAP – Plataforma de Pagamentos da Administração Pública, no �
 </div>
 <br>
 
-<!-- Table Content -->
 <table>
 <caption></caption>
   <tr>

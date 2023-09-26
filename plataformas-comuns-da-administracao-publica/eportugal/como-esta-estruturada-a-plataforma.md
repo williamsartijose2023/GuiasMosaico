@@ -14,13 +14,13 @@ Para os serviços informativos, que não requerem autenticação e apenas dispon
 
 <div style="text-align: center;">
   <img src="../../../assets/images/eportugal.png" alt="Diagrama de alto nível do ePortugal para os Serviços Informativos (Área Pública)">
-Diagrama de alto nível do ePortugal para os Serviços Informativos (Área Pública)</div>
+<div>Diagrama de alto nível do ePortugal para os Serviços Informativos (Área Pública)</div></div>
 <br>
 
 Para os serviços transacionais, que requerem autenticação e suportam a realização de procedimentos administrativos, temos:
 
 <div style="text-align: center;">
   <img src="../../../assets/images/eportugal2.png" alt="Diagrama de alto nível do ePortugal para os Serviços Transacionais (requerem autenticação)">
-Diagrama de alto nível do ePortugal para os Serviços Transacionais (requerem autenticação)</div>
+<div>Diagrama de alto nível do ePortugal para os Serviços Transacionais (requerem autenticação)</div></div>
 
 

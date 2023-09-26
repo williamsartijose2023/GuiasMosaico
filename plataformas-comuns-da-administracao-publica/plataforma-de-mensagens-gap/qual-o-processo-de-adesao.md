@@ -11,13 +11,12 @@ Para a adesão à iAP – Plataforma de Mensagens, deverá ser seguido o procedi
 
 <div style="text-align: center;">
   <img src="../../assets/images/gap%20(1).png" alt="Processo de adesão à Plataforma de Mensagens iAP-GAP">
-  Processo de adesão à Plataforma de Mensagens iAP-GAP
+  <div>Processo de adesão à Plataforma de Mensagens iAP-GAP</div>
 </div>
 <br>
 
 Devido à natureza do processo de adesão, não é possível estimar um tempo necessário médio. O tempo expectável para a realização do processo de adesão é de até 30 dias.
 
-<!-- Table Content -->
 <table>
 <caption></caption>
   <tr>

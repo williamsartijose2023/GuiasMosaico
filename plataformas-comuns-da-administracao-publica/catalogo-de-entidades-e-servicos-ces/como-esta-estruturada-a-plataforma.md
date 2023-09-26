@@ -16,7 +16,7 @@ Este bloco de construção tem dependência com outro bloco de contrução (iAP-
 
 <div style="text-align: center;">
   <img src="../../assets/images/ces.png" alt="Diagrama de alto nível do CES">
-  Diagrama de alto nível do CES
+  <div>Diagrama de alto nível do CES</div>
 </div>
 <br>
 

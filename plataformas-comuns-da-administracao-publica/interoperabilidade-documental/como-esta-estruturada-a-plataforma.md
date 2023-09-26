@@ -10,7 +10,7 @@ Abaixo o diagrama de alto nível do Interoperabilidade Documental, demonstrando 
 
 <div style="text-align: center;">
   <img src="../../assets/images/inter%20doc%20novo%20(1).png" alt="Diagrama de arquitetura de alto nível de Interoperabilidade Documental">
-  Diagrama de arquitetura de alto nível de Interoperabilidade Documental
+ <div>Diagrama de arquitetura de alto nível de Interoperabilidade Documental</div>
 </div>
 <br>
 

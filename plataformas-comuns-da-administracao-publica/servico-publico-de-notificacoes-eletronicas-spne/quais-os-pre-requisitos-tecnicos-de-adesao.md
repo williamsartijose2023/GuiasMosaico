@@ -30,33 +30,29 @@ Os requisitos necessários para a ligação VPN à Plataforma de Interoperabilid
 
 
 <table>
-<caption></caption>
-  <thead>
-    <tr>
-      <th>Phase 1 IKE</th>
-      <th>Phase 2 IPSec</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        Key Exchange Encryption: AES 256 bits
-        Data Integrity: SHA256
-        Diffie-Hellman (DH) group 14
-        Tempo de vida: 86400 segundos
-        Type: Main mode
-      </td>
-      <td>
-        UDP encapsulation: Yes
-        Protocol: ESP
-        IPSec Encryption: AES 256
-        Diffie-Hellman (DH) group 14
-        PFS: Yes
-        Tempo de vida: 3600 segundos
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <th>Phase 1 IKE</th>
+    <th>Phase 2 IPSec</th>
+  </tr>
+  <tr>
+    <td>
+      <p>Key Exchange Encryption: AES 256 bits</p>
+      <p>Data Integrity: SHA256</p>
+      <p>Diffie-Hellman (DH) group 14</p>
+      <p>Tempo de vida: 86400 segundos</p>
+      <p>Type: Main mode</p>
+    </td>
+    <td>
+      <p>UDP encapsulation: Yes</p>
+      <p>Protocol: ESP</p>
+      <p>IPSec Encryption: AES 256</p>
+      <p>Diffie-Hellman (DH) group 14</p>
+      <p>PFS: Yes</p>
+      <p>Tempo de vida: 3600 segundos</p>
+    </td>
+  </tr>
 </table>
+
 
 
 O equipamento deverá suportar o envio de keepalives de Dead Peer Detection e deverá ter a capacidade de manter e renegociar automaticamente as SA’s de IPSec, mesmo na ausência de tráfego.
@@ -69,7 +65,7 @@ A Plataforma de Integração funciona baseado em webservices, no modelo de comun
 
 As entidades devem ter estes modelos presentes e devem assegurar os seguintes requisitos nas suas arquiteturas:
 
-### Webservice REST
+## Webservice REST
 
 * Webservice Rest com Json;
 * Método POST;
@@ -77,7 +73,7 @@ As entidades devem ter estes modelos presentes e devem assegurar os seguintes re
 * Canal de transporte http ou https(preferencial);
 * Utilização opcional de autenticação Http Basic-Auth.
 
-### Webservice SOAP
+## Webservice SOAP
 
 * Representado via WSDL 1.1 (http://www.w3.org/TR/wsdl)
 * Binding Soap 1.1 ou 1.2;

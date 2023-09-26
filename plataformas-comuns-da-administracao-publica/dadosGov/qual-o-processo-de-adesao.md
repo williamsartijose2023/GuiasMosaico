@@ -13,8 +13,8 @@ Este processo de adesão refere-se apenas aos perfis de fornecedor/participante 
 
 <div style="text-align: center;">
   <img src="../../assets/images/dados 1.png" alt="Processo de adesão ao dados.gov">
+   <div>  Processo de adesão ao dados.gov</div>
 </div>
- <div style="text-align: center;">  Processo de adesão ao dados.gov</div>
 
 <br>
 
@@ -46,5 +46,24 @@ Este processo de adesão refere-se apenas aos perfis de fornecedor/participante 
     <td><strong>4.</strong> Certificação de “Fornecedor Oficial” (opcional)</td>
     <td>AMA</td>
     <td>Atribuição do selo de "Fornecedor Oficial" à Entidade.</td>
+  </tr>
+</table>
+
+\[1] **Participante**: qualquer pessoa registada no dados.gov, com o intuito de disponibilizar conjuntos de dados de interesse público;
+
+\[2] **Fornecedor**: entidades ou indivíduos que disponibilizam dados através do dados.gov (nota, todos os fornecedores são participantes, mas nem todos os participantes são fornecedores).
+
+**Utilizador (registado)**
+
+<table>
+  <tr>
+    <th>Passo</th>
+    <th>Entidade Responsável</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>1.</strong>Registo da Entidade no portal dados.gov</td>
+    <td>Utilizador (Cidadão)</td>
+    <td>Registo do Utilizador no portal <a href="https://dados.gov.pt/pt/login?next=https%3A%2F%2Fdados.gov.pt%2Fpt%2Fdocs%2Fpublish%2F">dados.gov</a></td>
   </tr>
 </table>

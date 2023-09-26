@@ -17,12 +17,12 @@ Para consultar as Plataformas Comuns em maior detalhe, aceder à [área técnica
 <table>
   <caption></caption>
   <tr>
-    <th >Plataforma Comum</th>
-    <th >Serviço Aplicacional</th>
-    <th >Interface</th>
+    <th>Plataforma Comum</th>
+    <th>Serviço Aplicacional</th>
+    <th>Interface</th>
   </tr>
   <tr>
-    <td rowspan="3">Fornecedor de Autenticação (FA)</td>
+    <td>Fornecedor de Autenticação (FA)</td>
     <td>
       <ul>
         <li>Autenticação</li>
@@ -41,7 +41,7 @@ Para consultar as Plataformas Comuns em maior detalhe, aceder à [área técnica
     </td>
   </tr>
   <tr>
-    <td rowspan="1">Assinatura Digital</td>
+    <td>Assinatura Digital</td>
     <td>
       <ul>
         <li>Assinatura</li>
@@ -58,7 +58,7 @@ Para consultar as Plataformas Comuns em maior detalhe, aceder à [área técnica
     </td>
   </tr>
   <tr>
-    <td rowspan="1">Sistema de Certificação de Atributos Profissionais (SCAP)</td>
+    <td>Sistema de Certificação de Atributos Profissionais (SCAP)</td>
     <td>
       <ul>
         <li>Gestão de atributos</li>
@@ -88,6 +88,8 @@ Para consultar as Plataformas Comuns em maior detalhe, aceder à [área técnica
     </td>
   </tr>
 </table>
+
+
 
 
 ## Integração e Interoperabilidade

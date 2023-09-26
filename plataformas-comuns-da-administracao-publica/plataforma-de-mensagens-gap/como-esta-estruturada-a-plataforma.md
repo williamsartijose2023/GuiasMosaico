@@ -13,6 +13,5 @@ Abaixo o diagrama de alto nível da GAP, demonstrando na Camada de Negócio os a
 
 <div style="text-align: center;">
   <img src="../../assets/images/iap-gap.png" alt="Diagrama de alto nível da Plataforma de Mensagens iAP-GAP">
-  Diagrama de alto nível da Plataforma de Mensagens iAP-GAP
-</div>
+ <div> Diagrama de alto nível da Plataforma de Mensagens iAP-GAP</div>
 <br>

@@ -9,7 +9,7 @@ nav_order: 3
 
 <div style="text-align: center;">
   <img src="../../assets/images/sistema%20autorizacoes.png" alt="Diagrama de arquitetura de alto nível do Sistema de Autorizações">
-  Diagrama de arquitetura de alto nível do Sistema de Autorizações
+  <div>Diagrama de arquitetura de alto nível do Sistema de Autorizações</div>
 </div>
 <br>
 

@@ -160,7 +160,7 @@ O deslizar na horizontal funciona bem quando se pretende mostrar um subconjunto 
 
 <div style="text-align: center;">
   <img src="../../assets/images/Navigation%20-%20Horizontal%20Scroll%20Hint%20more.jpg" alt="Exemplo do uso de deslizar horizontal no Netflix">
-  Exemplo do uso de deslizar horizontal no Netflix
+  <div>Exemplo do uso de deslizar horizontal no Netflix</div>
 </div>
 <br>
 
@@ -197,25 +197,25 @@ Algumas regras básicas para apresentar tabelas em dispositivos móveis são:
 
 <div style="text-align: center;">
   <img src="../../assets/images/Tables%20-Horizontal%20Scroll%201.jpg" alt="Exemplo de indicação visual de mais conteúdo horizontal">
-  Exemplo de indicação visual de mais conteúdo horizontal
+  <div>Exemplo de indicação visual de mais conteúdo horizontal</div>
 </div>
 <br>
 
 <div style="text-align: center;">
   <img src="../../assets/images/Tables%20-Horizontal%20Scroll%202.jpg" alt="Exemplo de indicação  de mais conteúdo horizontal com o uso de setas">
-  Exemplo de indicação  de mais conteúdo horizontal com o uso de setas
+  <div>Exemplo de indicação  de mais conteúdo horizontal com o uso de setas</div>
 </div>
 <br>
 
 * Deixar o utilizador escolher a informação a visualizar - quando o espaço disponível não possibilita apresentar toda a informação, deveremos dar ao utilizador a possibilidade de filtrar a informação, para que possa selecionar a informação útil.
 <div style="text-align: center;">
   <img src="../../assets/images/Tables%20-%20Filtering.jpg" alt="Exemplo de como apresentar filtros">
-  Exemplo de como apresentar filtros
+  <div>Exemplo de como apresentar filtros</div>
 </div>
 <br>
 <div style="text-align: center;">
   <img src="../../assets/images/Tables%20-%20Ordering.jpg" alt="Exemplo de como apresentar ordenação">
-  Exemplo de como apresentar ordenação
+  <div>Exemplo de como apresentar ordenação</div>
 </div>
 <br>
 
@@ -223,7 +223,7 @@ Algumas regras básicas para apresentar tabelas em dispositivos móveis são:
 
 <div style="text-align: center;">
   <img src="../../assets/images/Tables%20-Accordion%20Group.jpg" alt="Exemplo de agrupamento de conteúdos e uso de acordeão">
-  Exemplo de agrupamento de conteúdos e uso de acordeão
+  <div>Exemplo de agrupamento de conteúdos e uso de acordeão</div>
 </div>
 <br>
 
@@ -231,7 +231,7 @@ Algumas regras básicas para apresentar tabelas em dispositivos móveis são:
 
 <div style="text-align: center;">
   <img src="../../assets/images/Tables%20-%20Icons%20and%20Calendars.jpg" alt="Exemplo de como usar cores e ícones">
-  Exemplo de como usar cores e ícones
+  <div>Exemplo de como usar cores e ícones</div>
 </div>
 <br>
 
@@ -275,7 +275,7 @@ No preenchimento da morada do utilizador, uma boa prática deve ser a de permiti
 
 <div style="text-align: center;">
   <img src="../../assets/images/Forms%20-%20Geo%20referencing.jpg" alt="Exemplo do uso de serviço de localização para facilitar preenchimento da morada">
-  Exemplo do uso de serviço de localização para facilitar preenchimento da morada
+  <div>Exemplo do uso de serviço de localização para facilitar preenchimento da morada</div>
 </div>
 <br>
 
@@ -287,7 +287,7 @@ Um dos maiores problemas do utilizador é tentar lembrar-se da sua palavra passe
 
 <div style="text-align: center;">
   <img src="../../assets/images/Forms%20-%20Touch%20ID.jpg" alt="Autenticação biométrica">
-  Autenticação biométrica
+  <div>Autenticação biométrica</div>
 </div>
 <br>
 
@@ -299,7 +299,7 @@ Sempre que possível, esta opção deve ser explorada para ajudar a reduzir o te
 
 <div style="text-align: center;">
   <img src="../../assets/images/Forms%20-%20ID%20Scan.jpg" alt="Exemplo do uso da câmara fotográfica">
-  Exemplo do uso da câmara fotográfica
+  <div>Exemplo do uso da câmara fotográfica</div>
 </div>
 <br>
 
@@ -309,12 +309,12 @@ Com o desenvolvimento de reconhecimento de voz em dispositivos móveis, cada vez
 
 <div style="text-align: center;">
   <img src="../../assets/images/Forms%20-%20Voice%20input%20Google.jpg" alt="Exemplo de uso de voz em sistema Android">
-  Exemplo de uso de voz em sistema Android
+  <div>Exemplo de uso de voz em sistema Android</div>
 </div>
 <br>
 <div style="text-align: center;">
   <img src="../../assets/images/Forms%20-%20Voice%20input%20iOS.jpg" alt="Exemplo de uso de voz em sistema iOS">
-  Exemplo de uso de voz em sistema iOS
+  <div>Exemplo de uso de voz em sistema iOS</div>
 </div>
 <br>
 
@@ -402,7 +402,7 @@ Para que as aplicações possam ser utilizadas pelo maior número possível de u
 
 <div style="text-align: center;">
   <img src="../../assets/images/Touch%20-%20Size%20Thumb%20(1).jpg" alt="Dimensões recomendadas para uso com polegares">
-  Dimensões recomendadas para uso com polegares
+  <div>Dimensões recomendadas para uso com polegares</div>
 </div>
 <br>
 
@@ -411,7 +411,7 @@ Para que as aplicações possam ser utilizadas pelo maior número possível de u
 
 <div style="text-align: center;">
   <img src="../../assets/images/Touch%20-%20Size%20Index.jpg" alt="Dimensões recomendadas para uso com dedo indicador">
-  Dimensões recomendadas para uso com dedo indicador
+  <div>Dimensões recomendadas para uso com dedo indicador</div>
 </div>
 <br>
 
@@ -531,7 +531,7 @@ O botão de ação principal deverá ter sempre destaque relativo aos restantes 
 
 <div style="text-align: center;">
   <img src="../../assets/images/Bot%C3%A3o%20Prim%C3%A1rio.jpg" alt="Exemplo de call-to-action com destaque relativo aos restantes elementos">
-  Exemplo de call-to-action com destaque relativo aos restantes elementos
+  <div>Exemplo de call-to-action com destaque relativo aos restantes elementos</div>
 </div>
 <br>
 
@@ -539,7 +539,7 @@ O _call-to-action_ principal é normalmente associado à opção de avançar par
 
 <div style="text-align: center;">
   <img src="../../assets/images/Bot%C3%A3o%20Prim%C3%A1rio%20-%20Fixed%20scroll.jpg" alt="Exemplo de call-to-action que está no fundo da página e mantém-se fixo">
-  Exemplo de call-to-action que está no fundo da página e mantém-se fixo
+  <div>Exemplo de call-to-action que está no fundo da página e mantém-se fixo</div>
 </div>
 <br>
 
@@ -570,7 +570,7 @@ Se a pesquisa for a forma predominante de navegação, deverá ser apresentada e
 
 <div style="text-align: center;">
   <img src="../../assets/images/Search%20-%20Prominent.jpg" alt="Exemplo campo de pesquisa numa posição predominante">
-  Exemplo campo de pesquisa numa posição predominante
+  <div>Exemplo campo de pesquisa numa posição predominante</div>
 </div>
 <br>
 
@@ -580,7 +580,7 @@ Uma barra de pesquisa deve sempre ser acompanhada por um ícone de lupa. Os util
 
 <div style="text-align: center;">
   <img src="../../assets/images/GuiaUsabilidade-IconPesquisa.png" alt="Exemplo de ícone simples de lupa">
-  Exemplo de ícone simples de lupa
+  <div>Exemplo de ícone simples de lupa</div>
 </div>
 <br>
 
@@ -598,7 +598,7 @@ Deverá sempre fornecer sugestões automáticas da forma mais rápida possível,
 
 <div style="text-align: center;">
   <img src="../../assets/images/Search%20-%20Auto%20suggestions%20(1).jpg" alt="Exemplo do uso de sugestões automáticas">
-  Exemplo do uso de sugestões automáticas
+  <div>Exemplo do uso de sugestões automáticas</div>
 </div>
 <br>
 
@@ -610,7 +610,7 @@ Esta opção funciona particularmente bem em aplicações onde o utilizador prec
 
 <div style="text-align: center;">
   <img src="../../assets/images/Search%20-%20Pesquisa%20guardada.jpg" alt="Exemplo de pesquisas guardadas">
-  Exemplo de pesquisas guardadas
+  <div>Exemplo de pesquisas guardadas</div>
 </div>
 <br>
 
@@ -620,7 +620,7 @@ Por vezes surgem situações em que, para o utilizador, se torna difícil escrev
 
 <div style="text-align: center;">
   <img src="../../assets/images/Search%20-%20Pesquisa%20por%20voz.jpg" alt="Exemplo do uso de pesquisa por voz">
-  Exemplo do uso de pesquisa por voz
+  <div>Exemplo do uso de pesquisa por voz</div>
 </div>
 <br>
 
